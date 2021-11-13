@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
-    <loc>/about.html</loc>
+    <loc>yml_blank()/about.html</loc>
     <lastmod>2021-10-24T19:29:33+02:00</lastmod>
   </url>
   <url>
-    <loc>/dario.html</loc>
+    <loc>yml_blank()/dario.html</loc>
     <lastmod>2021-11-11T15:24:41+01:00</lastmod>
   </url>
   <url>
-    <loc>/fieldwork.html</loc>
+    <loc>yml_blank()/fieldwork.html</loc>
     <lastmod>2021-11-08T18:37:22+01:00</lastmod>
   </url>
   <url>
-    <loc>/</loc>
+    <loc>yml_blank()/</loc>
     <lastmod>2021-11-11T12:29:07+01:00</lastmod>
   </url>
   <url>
-    <loc>/people.html</loc>
+    <loc>yml_blank()/people.html</loc>
     <lastmod>2021-11-11T15:43:36+01:00</lastmod>
   </url>
   <url>
-    <loc>/postcard1.html</loc>
+    <loc>yml_blank()/postcard1.html</loc>
     <lastmod>2021-11-06T16:19:03+01:00</lastmod>
   </url>
   <url>
-    <loc>/postcard2.html</loc>
+    <loc>yml_blank()/postcard2.html</loc>
     <lastmod>2021-11-06T16:21:08+01:00</lastmod>
   </url>
   <url>
-    <loc>/projects.html</loc>
+    <loc>yml_blank()/projects.html</loc>
     <lastmod>2021-11-13T17:55:19+01:00</lastmod>
   </url>
   <url>
-    <loc>/publications.html</loc>
+    <loc>yml_blank()/publications.html</loc>
     <lastmod>2021-11-13T10:31:45+01:00</lastmod>
   </url>
   <url>
-    <loc>/scattelan.html</loc>
+    <loc>yml_blank()/scattelan.html</loc>
     <lastmod>2021-11-10T19:11:53+01:00</lastmod>
   </url>
   <url>
-    <loc>/tools.html</loc>
+    <loc>yml_blank()/tools.html</loc>
     <lastmod>2021-11-11T15:40:43+01:00</lastmod>
   </url>
 </urlset>
