@@ -1,1 +1,1 @@
-# Repo for the _Valenzano research group_ website @ Leibniz Institute on Aging
+# Website repo for the _Valenzano lab_ @ Leibniz Institute on Aging
