@@ -7,6 +7,6 @@ The Valenzano lab website is written in [RMarkdown](https://rmarkdown.rstudio.co
 If you are a member of the Valenzano lab and are interested in contributing to developing the lab website, you need to:  
 1. get your own [github](https://github.com/) account 
 2. familiarize yourself with [git](https://ryoaxton.medium.com/familiarize-yourself-with-git-fadcc125dbb9), [version control](https://en.wikipedia.org/wiki/Version_control) and [markdown](https://en.wikipedia.org/wiki/Markdown)
-3. ask Dario to add you as a [collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) on this repo.  
+3. request to Dario to add you as a [collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) on this repo.  
   
 Once you are a collaborator on this repo, you can contribute to improving its content by issuing [pull requests](https://www.youtube.com/watch?v=rgbCcBNZcdQ).
