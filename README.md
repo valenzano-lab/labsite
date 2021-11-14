@@ -1,8 +1,3 @@
 # Website repo for the _Valenzano lab_ @ Leibniz Institute on Aging
 
-![Valenzano lab](https://github.com/valenzano-lab/labsite/tree/master/files/pictures/lablogo.png?raw=true)
-
-<p align="left">
-  <img src="https://github.com/valenzano-lab/labsite/tree/master/files/pictures/lablogo.png?raw=true" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+<img src="https://user-images.githubusercontent.com/4720805/141675891-e0f6e034-6e6d-429c-815b-0b77c716b89d.png" width="15%"></img> 
