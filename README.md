@@ -6,5 +6,5 @@ This document contains the instructions on how to contribute to the development 
 The Valenzano lab website is written in [RMarkdown](https://rmarkdown.rstudio.com/) and is built using the [__Distill__](https://rstudio.github.io/distill/website.html) package.  
 If you are a member of the Valenzano lab and are interested in contributing to developing the lab website, you need to:  
 1. get your own [github](https://github.com/) account 
-2. familiarize yourself with [git](https://ryoaxton.medium.com/familiarize-yourself-with-git-fadcc125dbb9) 
+2. familiarize yourself with [git](https://ryoaxton.medium.com/familiarize-yourself-with-git-fadcc125dbb9) and [version control](https://en.wikipedia.org/wiki/Version_control) 
 3. ask Dario to add you as a [collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) on this repo. 
