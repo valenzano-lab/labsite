@@ -3,4 +3,4 @@
 
 This document contains the instructions on how to contribute to the development and maintenance of the [website](https://valenzano-lab.github.io/labsite/) of the **_Valenzano lab_** at the [Leibniz Institute on Aging](https://www.leibniz-fli.de/).  
 
-The Valenzano lab website is written in [RMarkdown](https://rmarkdown.rstudio.com/) and is built using the [__Distill__](https://rstudio.github.io/distill/website.html) package. 
+The Valenzano lab website is written in [RMarkdown](https://rmarkdown.rstudio.com/) and is built using the [__Distill__](https://rstudio.github.io/distill/website.html) package.  
