@@ -1,7 +1,7 @@
 # _Valenzano lab_ website repo
 <img src="https://user-images.githubusercontent.com/4720805/141675891-e0f6e034-6e6d-429c-815b-0b77c716b89d.png" width="18%"></img>  
 
-This document contains the instructions on how to contribute to the development and maintenance of the [website](https://valenzano-lab.github.io/labsite/) of the **_Valenzano lab_** at the [Leibniz Institute on Aging](https://www.leibniz-fli.de/).  
+This document contains the instructions on how to contribute to the development and maintenance of the **_Valenzano lab_** [website](https://valenzano-lab.github.io/labsite/) at the [Leibniz Institute on Aging](https://www.leibniz-fli.de/).  
 
 The Valenzano lab website is written in [RMarkdown](https://bookdown.org/yihui/rmarkdown/) and is built using the [__Distill__](https://rstudio.github.io/distill/website.html) package.  
 If you are a member of the Valenzano lab and are interested in contributing to developing the lab website, you need to:  
