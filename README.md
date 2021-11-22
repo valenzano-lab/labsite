@@ -11,7 +11,7 @@ If you are a member of the Valenzano lab and are interested in actively contribu
   
 Once you are a collaborator on this repo, you can contribute to improving its content by issuing [pull requests](https://www.youtube.com/watch?v=rgbCcBNZcdQ).
 
-## How to push changes to the master
+## How to push changes to the master branch
 
 ```
 $git status
