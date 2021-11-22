@@ -14,8 +14,8 @@ Once you are a collaborator on this repo, you can contribute to improving its co
 ### How to push changes to the master branch
 
 ```
-$git status
-$git add .
-$git commit -m "description of changes"
-$git push -u origin master
+username$ git status
+username$ git add .
+username$ git commit -m "description of changes"
+username$ git push -u origin master
 ```
