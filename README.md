@@ -20,15 +20,23 @@ username$ git commit -m "description of changes"
 username$ git push -u origin master
 ```
 
+
+### How to create a new branch
+
 ```
 username$ git branch -a # to list all your current branches
 username$ git checkout master # to switch to the branch 'master'
 username$ git checkout -b develop # creates a new branch named 'develop'
 username$ git checkout develop # puts you in the 'develop' branch in case you're not there
-git add .
-git commit -m "whatever"
-git push -u origin develop
-git checkout master
-git merge develop
-git push
+username$ git add .
+username$ git commit -m "whatever" # commits your changes to the branch 'develop'
+username$ git push -u origin develop # pushes your commits to 'develop' 
+```
+
+### Merging branches (develop to master)
+
+```
+username$ git checkout master 
+username$ git merge develop
+username$ git push
 ```
