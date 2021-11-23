@@ -27,6 +27,11 @@ username$ git push -u origin master
 username$ git branch -a # to list all your current branches
 username$ git checkout master # to switch to the branch 'master'
 username$ git checkout -b develop # creates a new branch named 'develop'
+```
+
+Now you can commit and push changes on 'develop'  
+
+``` 
 username$ git checkout develop # puts you in the 'develop' branch in case you're not there
 username$ git add .
 username$ git commit -m "whatever" # commits your changes to the branch 'develop'
