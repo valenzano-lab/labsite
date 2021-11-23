@@ -49,3 +49,5 @@ username$ git push -d origin develop
 username$ git branch -d develop
 ```
 
+As a rule-of-thumb, do not push your changes to the 'master' branch.  
+Rather, first push your changes to a remote branch, like 'develop', and only then merge on master following the instructions above.  
