@@ -14,10 +14,21 @@ Once you are a collaborator on this repo, you can contribute to improving its co
 ### How to push changes to the master branch
 
 ```
-username$ git branch -a # to list all your current branches
-username$ git checkout master # to switch to the branch 'master'
 username$ git status
 username$ git add .
 username$ git commit -m "description of changes"
 username$ git push -u origin master
+```
+
+```
+username$ git branch -a # to list all your current branches
+username$ git checkout master # to switch to the branch 'master'
+username$ git checkout -b develop # creates a new branch named 'develop'
+username$ git checkout develop # puts you in the 'develop' branch in case you're not there
+git add .
+git commit -m "whatever"
+git push -u origin develop
+git checkout master
+git merge develop
+git push
 ```
