@@ -36,7 +36,16 @@ username$ git push -u origin develop # pushes your commits to 'develop'
 ### Merging branches (develop to master)
 
 ```
+username$ git branch -a
 username$ git checkout master 
 username$ git merge develop
 username$ git push
 ```
+
+### Deleting a remote and local branch (don't do this unless you know what you're doing)
+
+```
+git push -d origin develop
+git branch -d develop
+```
+
