@@ -11,7 +11,7 @@ If you are a member of the Valenzano lab and are interested in actively contribu
   
 Once you are a collaborator on this repo, you can contribute to improving its content by issuing [pull requests](https://www.youtube.com/watch?v=rgbCcBNZcdQ).
 
-### How to push changes to the master branch
+### How to push changes to the 'master' branch
 
 ```
 username$ git status
@@ -33,7 +33,7 @@ username$ git commit -m "whatever" # commits your changes to the branch 'develop
 username$ git push -u origin develop # pushes your commits to 'develop' 
 ```
 
-### Merging branches (develop to master)
+### Merging branches ('develop' to 'master')
 
 ```
 username$ git branch -a
