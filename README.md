@@ -11,15 +11,11 @@ If you are a member of the Valenzano lab and are interested in actively contribu
   
 Once you are a collaborator on this repo, you can contribute to improving its content by issuing [pull requests](https://www.youtube.com/watch?v=rgbCcBNZcdQ).
 
-
-```
-username$ git branch -a # to list all your current branches:
-username$ git checkout master # to switch to the branch 'master'
-```
-
 ### How to push changes to the master branch
 
 ```
+username$ git branch -a # to list all your current branches
+username$ git checkout master # to switch to the branch 'master'
 username$ git status
 username$ git add .
 username$ git commit -m "description of changes"
