@@ -38,7 +38,7 @@ username$ git commit -m "whatever" # commits your changes to the branch 'develop
 username$ git push -u origin develop # pushes your commits to 'develop' 
 ```
 
-### Merging branches ('develop' to 'master')
+### Merging branches ('develop' into 'master')
 
 ```
 username$ git branch -a
