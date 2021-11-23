@@ -50,7 +50,7 @@ username$ git push
 ### Deleting a remote and local branch (don't do this unless you know what you're doing)
 
 ```
-username$ git push -d origin develop
+username$ git push -d origin develop # in this case we're deleting the branch 'develop'
 username$ git branch -d develop
 ```
 
