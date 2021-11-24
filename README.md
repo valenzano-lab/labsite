@@ -49,7 +49,7 @@ Now you can commit and push changes on 'develop'
 username$ git checkout develop # puts you in the 'develop' branch in case you're not there
 username$ git add .
 username$ git commit -m "whatever" # commits your changes to the branch 'develop'
-username$ git push -u origin develop # pushes your commits to 'develop' 
+username$ git push -u origin develop # pushes your commits to the remote branch 'develop' 
 ```
 
 ### Merging branches ('develop' into 'master')
