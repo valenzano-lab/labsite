@@ -50,16 +50,17 @@ pre.numberSource code > span > a:first-child::before
   }
 pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
 div.sourceCode
-  {   }
+  { color: #00769e; background-color: #f1f3f5; }
 @media screen {
 pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
+code span { color: #00769e; } /* Normal */
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { } /* Attribute */
+code span.at { color: #657422; } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
-code span.cf { color: #007ba5; } /* ControlFlow */
+code span.cf { color: #00769e; } /* ControlFlow */
 code span.ch { color: #20794d; } /* Char */
 code span.cn { color: #8f5902; } /* Constant */
 code span.co { color: #5e5e5e; } /* Comment */
@@ -73,9 +74,9 @@ code span.fl { color: #ad0000; } /* Float */
 code span.fu { color: #4758ab; } /* Function */
 code span.im { } /* Import */
 code span.in { color: #5e5e5e; } /* Information */
-code span.kw { color: #007ba5; } /* Keyword */
+code span.kw { color: #00769e; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
-code span.ot { color: #007ba5; } /* Other */
+code span.ot { color: #00769e; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
 code span.sc { color: #5e5e5e; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
@@ -1027,10 +1028,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     margin-top: 1.5em;
   }
 
-  .figure img {
-    width: 100%;
-  }
-
   .figure .caption {
     color: rgba(0, 0, 0, 0.6);
     font-size: 12px;
@@ -1860,6 +1857,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
+        if ($(this).children()[0].nodeName == "D-FOOTNOTE") {
+          var fn = $(this).children()[0]
+          $(this).html(fn.shadowRoot.querySelector("sup"))
+          $(this).id = fn.id
+          fn.remove()
+        }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
           return "<p>" + $('#ref-' + ref).html() + "</p>";
@@ -1874,6 +1877,31 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
           placement: 'bottom-start'
         });
       });
+
+      // fix footnotes in tables (#411)
+      // replacing broken distill.pub feature
+      $('table d-footnote').each(function() {
+        // we replace internal showAtNode methode which is triggered when hovering a footnote
+        this.hoverBox.showAtNode = function(node) {
+          // ported from https://github.com/distillpub/template/pull/105/files
+          calcOffset = function(elem) {
+              let x = elem.offsetLeft;
+              let y = elem.offsetTop;
+              // Traverse upwards until an `absolute` element is found or `elem`
+              // becomes null.
+              while (elem = elem.offsetParent && elem.style.position != 'absolute') {
+                  x += elem.offsetLeft;
+                  y += elem.offsetTop;
+              }
+
+              return { left: x, top: y };
+          }
+          // https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop
+          const bbox = node.getBoundingClientRect();
+          const offset = calcOffset(node);
+          this.show([offset.left + bbox.width, offset.top + bbox.height]);
+        }
+      })
 
       // clear polling timer
       clearInterval(tid);
@@ -1973,6 +2001,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     // mark non-body figures created by knitr chunks as 100% width
     $('.layout-chunk').each(function(i, val) {
       var figures = $(this).find('img, .html-widget');
+      // ignore leaflet img layers (#106)
+      figures = figures.filter(':not(img[class*="leaflet"])')
       if ($(this).attr('data-layout') !== "l-body") {
         figures.css('width', '100%');
       } else {
@@ -1995,7 +2025,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     // get rid of index.html references in header
     if (window.location.protocol !== "file:") {
       $('.distill-site-header a[href]').each(function(i,val) {
-        $(this).attr('href', $(this).attr('href').replace("index.html", "./"));
+        $(this).attr('href', $(this).attr('href').replace(/^index[.]html/, "./"));
       });
     }
 
@@ -2356,7 +2386,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2385,7 +2415,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
 <a class="logo">
-<img src="files/pictures/lablogo_s3.png" alt="Logo"/>
+<img src="./files/pictures/lablogo_s3.png" alt="Logo"/>
 </a>
 <a href="index.html" class="title">Valenzano Lab</a>
 </div>
@@ -2435,27 +2465,69 @@ Research
 
 <div class="d-article">
 <div class="layout-chunk" data-layout="l-body">
-<p><img src="files/pictures/ZIM22-03.jpg" width="2000" /></p>
+<p><img src="./files/pictures/ZIM22-03.jpg" /><!-- --></p>
 </div>
-<h3 id="research-on-wild-killifish-in-the-gonarezhou-national-park-zimbabwe">Research on wild killifish in the Gonarezhou National Park (Zimbabwe)</h3>
-<p>Our field work activity is aimed at broadening our understanding of killifish biology in nature.<br />
-We collect samples and data. We integrate a longitudinal sampling of killifish genetic with a We measure fish growth, dietary preferences, reproductive capacity, predators, sex ratio, etc. We study aging in killifish in the wild, analyzing their molecular, cellular, tissue/organ markers of aging. An example of the aging biomarkers we can analyze in wild killifish includes the following:</p>
-<p>In our field research, we ask the following questions: 1. How does mortality vary as a function of age in wild killifish? 2. What are the most frequent aging biomarkers associated with advanced age in wild killifish?</p>
-<p>Annual killifish have unique adaptations that allow them to survive in an extremely harsh environment, where water evaporates for the largest part of the year.<br />
-Instead of having drought-resistant adults - like in the case of several amphibians and lungfish - annual killifish adopt a strategy that is more similar to what invertebrates and plants do: their embryos undergo a developmentally arrested state (called diapause), which enables them to survive up to years without hatching in the dry soil.<br />
-Annual killifish live in environments where precipitations occur seasonally, and seasonal water is required for embryos to hatch. Due to the</p>
-<p>We study killifish in their natural environment in the <a href="https://gonarezhou.org/">Gonarezhou National Park</a> in Zimbabwe.<br />
-We explore the ecological and evolutionary factors that influence the unique phenotypes characteristic of wild killifish populations, such as embryonic diapause, explosive sexual maturation and limited adult lifespan.<br />
-We study the establishment and maintenance of killifish-specific microbial communities in the gut, skin and gills, and how these contribute to killifish fitness.<br />
-We are broadly interested in gaining an integrated understanding of killifish biology in the context of its ecological network.<br />
-To study killifish ecology and genetics in the field, we use a combination of methods, including killifish genomics, as well as sequencing the genomes of the microbes that co-exist with killifish. We are interested in applying environmental DNA (eDNA) technologies to the study of killifish ecology.<br />
-Our fieldwork strongly depends on our network of precious collaborators and on the continuous support from the Gonarezhou Conservation Trust, the Zimbabwe Parks and Wildlife Management Authority, the Research Council of Zimbabwe and the University of Zimbabwe.</p>
+<h3
+id="research-on-wild-killifish-in-the-gonarezhou-national-park-zimbabwe">Research
+on wild killifish in the Gonarezhou National Park (Zimbabwe)</h3>
+<p>Our field work activity is aimed at broadening our understanding of
+killifish biology in nature.<br />
+We collect samples and data. We integrate a longitudinal sampling of
+killifish genetic with a We measure fish growth, dietary preferences,
+reproductive capacity, predators, sex ratio, etc. We study aging in
+killifish in the wild, analyzing their molecular, cellular, tissue/organ
+markers of aging. An example of the aging biomarkers we can analyze in
+wild killifish includes the following:</p>
+<p>In our field research, we ask the following questions: 1. How does
+mortality vary as a function of age in wild killifish? 2. What are the
+most frequent aging biomarkers associated with advanced age in wild
+killifish?</p>
+<p>Annual killifish have unique adaptations that allow them to survive
+in an extremely harsh environment, where water evaporates for the
+largest part of the year.<br />
+Instead of having drought-resistant adults - like in the case of several
+amphibians and lungfish - annual killifish adopt a strategy that is more
+similar to what invertebrates and plants do: their embryos undergo a
+developmentally arrested state (called diapause), which enables them to
+survive up to years without hatching in the dry soil.<br />
+Annual killifish live in environments where precipitations occur
+seasonally, and seasonal water is required for embryos to hatch. Due to
+the</p>
+<p>We study killifish in their natural environment in the <a
+href="https://gonarezhou.org/">Gonarezhou National Park</a> in
+Zimbabwe.<br />
+We explore the ecological and evolutionary factors that influence the
+unique phenotypes characteristic of wild killifish populations, such as
+embryonic diapause, explosive sexual maturation and limited adult
+lifespan.<br />
+We study the establishment and maintenance of killifish-specific
+microbial communities in the gut, skin and gills, and how these
+contribute to killifish fitness.<br />
+We are broadly interested in gaining an integrated understanding of
+killifish biology in the context of its ecological network.<br />
+To study killifish ecology and genetics in the field, we use a
+combination of methods, including killifish genomics, as well as
+sequencing the genomes of the microbes that co-exist with killifish. We
+are interested in applying environmental DNA (eDNA) technologies to the
+study of killifish ecology.<br />
+Our fieldwork strongly depends on our network of precious collaborators
+and on the continuous support from the Gonarezhou Conservation Trust,
+the Zimbabwe Parks and Wildlife Management Authority, the Research
+Council of Zimbabwe and the University of Zimbabwe.</p>
 <p><strong>Population genetics in wild killifish</strong><br />
-Work done in our group has helped shed light on how demographic constraints, such as population bottlenecks, shaped the evolution of killifish life history. <a href="https://elifesciences.org/articles/55794">Willemsen et al, 2020</a></p>
-<p><strong>Ecology of wild killifish (eDNA, microbial ecology)</strong><br />
-In collaboration with professor Tamuka Nhiwatiwa from the University of Zimbabwe and Bob Mandinyenya from Zimbabwe National Parks and the Gonarezhou National Park.</p>
+Work done in our group has helped shed light on how demographic
+constraints, such as population bottlenecks, shaped the evolution of
+killifish life history. <a
+href="https://elifesciences.org/articles/55794">Willemsen et al,
+2020</a></p>
+<p><strong>Ecology of wild killifish (eDNA, microbial
+ecology)</strong><br />
+In collaboration with professor Tamuka Nhiwatiwa from the University of
+Zimbabwe and Bob Mandinyenya from Zimbabwe National Parks and the
+Gonarezhou National Park.</p>
 <p><strong>Aging in the wild</strong></p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>

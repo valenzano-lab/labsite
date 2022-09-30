@@ -50,16 +50,17 @@ pre.numberSource code > span > a:first-child::before
   }
 pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
 div.sourceCode
-  {   }
+  { color: #00769e; background-color: #f1f3f5; }
 @media screen {
 pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
+code span { color: #00769e; } /* Normal */
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { } /* Attribute */
+code span.at { color: #657422; } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
-code span.cf { color: #007ba5; } /* ControlFlow */
+code span.cf { color: #00769e; } /* ControlFlow */
 code span.ch { color: #20794d; } /* Char */
 code span.cn { color: #8f5902; } /* Constant */
 code span.co { color: #5e5e5e; } /* Comment */
@@ -73,9 +74,9 @@ code span.fl { color: #ad0000; } /* Float */
 code span.fu { color: #4758ab; } /* Function */
 code span.im { } /* Import */
 code span.in { color: #5e5e5e; } /* Information */
-code span.kw { color: #007ba5; } /* Keyword */
+code span.kw { color: #00769e; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
-code span.ot { color: #007ba5; } /* Other */
+code span.ot { color: #00769e; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
 code span.sc { color: #5e5e5e; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
@@ -1030,10 +1031,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     margin-top: 1.5em;
   }
 
-  .figure img {
-    width: 100%;
-  }
-
   .figure .caption {
     color: rgba(0, 0, 0, 0.6);
     font-size: 12px;
@@ -1863,6 +1860,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
+        if ($(this).children()[0].nodeName == "D-FOOTNOTE") {
+          var fn = $(this).children()[0]
+          $(this).html(fn.shadowRoot.querySelector("sup"))
+          $(this).id = fn.id
+          fn.remove()
+        }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
           return "<p>" + $('#ref-' + ref).html() + "</p>";
@@ -1877,6 +1880,31 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
           placement: 'bottom-start'
         });
       });
+
+      // fix footnotes in tables (#411)
+      // replacing broken distill.pub feature
+      $('table d-footnote').each(function() {
+        // we replace internal showAtNode methode which is triggered when hovering a footnote
+        this.hoverBox.showAtNode = function(node) {
+          // ported from https://github.com/distillpub/template/pull/105/files
+          calcOffset = function(elem) {
+              let x = elem.offsetLeft;
+              let y = elem.offsetTop;
+              // Traverse upwards until an `absolute` element is found or `elem`
+              // becomes null.
+              while (elem = elem.offsetParent && elem.style.position != 'absolute') {
+                  x += elem.offsetLeft;
+                  y += elem.offsetTop;
+              }
+
+              return { left: x, top: y };
+          }
+          // https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop
+          const bbox = node.getBoundingClientRect();
+          const offset = calcOffset(node);
+          this.show([offset.left + bbox.width, offset.top + bbox.height]);
+        }
+      })
 
       // clear polling timer
       clearInterval(tid);
@@ -1976,6 +2004,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     // mark non-body figures created by knitr chunks as 100% width
     $('.layout-chunk').each(function(i, val) {
       var figures = $(this).find('img, .html-widget');
+      // ignore leaflet img layers (#106)
+      figures = figures.filter(':not(img[class*="leaflet"])')
       if ($(this).attr('data-layout') !== "l-body") {
         figures.css('width', '100%');
       } else {
@@ -1998,7 +2028,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     // get rid of index.html references in header
     if (window.location.protocol !== "file:") {
       $('.distill-site-header a[href]').each(function(i,val) {
-        $(this).attr('href', $(this).attr('href').replace("index.html", "./"));
+        $(this).attr('href', $(this).attr('href').replace(/^index[.]html/, "./"));
       });
     }
 
@@ -2359,7 +2389,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2388,7 +2418,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
 <a class="logo">
-<img src="files/pictures/lablogo_s3.png" alt="Logo"/>
+<img src="./files/pictures/lablogo_s3.png" alt="Logo"/>
 </a>
 <a href="index.html" class="title">Valenzano Lab</a>
 </div>
@@ -2441,45 +2471,104 @@ Research
 <nav class="l-text toc figcaption" id="TOC">
 <h3>Contents</h3>
 <ul>
-<li><a href="#ongoing-projects">Ongoing projects</a></li>
-<li><a href="#african-killifish">African killifish</a></li>
-<li><a href="#field-research">Field research</a></li>
+<li><a href="#ongoing-projects" id="toc-ongoing-projects">Ongoing
+projects</a></li>
+<li><a href="#african-killifish" id="toc-african-killifish">African
+killifish</a></li>
+<li><a href="#field-research" id="toc-field-research">Field
+research</a></li>
 </ul>
 </nav>
 </div>
 <div class="layout-chunk" data-layout="l-body">
-<p><img src="files/pictures/rousseau.png" width="704" /></p>
+<p><img src="./files/pictures/rousseau.png" /><!-- --></p>
 </div>
 <h3 id="ongoing-projects">Ongoing projects</h3>
 <p><strong>Evolutionary Ecology of Ageing</strong><br />
-We study biology of aging at two time scales: individual lifespan and evolution.</p>
-<p><em>The how of aging:</em> We strive to mechanistically describe the changes that occur as individuals transition from being fit adults to more frail and eventually diseased. We explore how genetics and ecology affect aging at individual level.</p>
-<p><em>The why of aging:</em> We study the <a href="https://www.sciencedirect.com/science/article/pii/S0092867419306324">evolutionary causes</a> underlying lifespan and aging phenotypes of species in nature. We explore how natural selection and neutral evolution contribute to the emergence of genetic variants causing long or short <a href="https://elifesciences.org/articles/55794">lifespan</a>, slow or rapid aging.</p>
-<p>Our work is highly multi-disciplinary and we use a combination of approaches, including molecular biology, comparative genomics, population genetics, computer simulations and experimental interventions.</p>
+We study biology of aging at two time scales: individual lifespan and
+evolution.</p>
+<p><em>The how of aging:</em> We strive to mechanistically describe the
+changes that occur as individuals transition from being fit adults to
+more frail and eventually diseased. We explore how genetics and ecology
+affect aging at individual level.</p>
+<p><em>The why of aging:</em> We study the <a
+href="https://www.sciencedirect.com/science/article/pii/S0092867419306324">evolutionary
+causes</a> underlying lifespan and aging phenotypes of species in
+nature. We explore how natural selection and neutral evolution
+contribute to the emergence of genetic variants causing long or short <a
+href="https://elifesciences.org/articles/55794">lifespan</a>, slow or
+rapid aging.</p>
+<p>Our work is highly multi-disciplinary and we use a combination of
+approaches, including molecular biology, comparative genomics,
+population genetics, computer simulations and experimental
+interventions.</p>
 <p><strong>Microbiome and aging</strong><br />
-We explore the complex host-microbiome crosstalk during aging. We study whether and how hosts select their own microbiome community and how the microbiome, in turn, affects host phenotypes, including defense from pathogens, aging and <a href="https://elifesciences.org/articles/27014">lifespan</a>. We ask whether commensal microbial taxa evolve into novel strains in the timescale of host aging and whether microbial evolution in turn exacerbates systemic aging and pathology.</p>
+We explore the complex host-microbiome crosstalk during aging. We study
+whether and how hosts select their own microbiome community and how the
+microbiome, in turn, affects host phenotypes, including defense from
+pathogens, aging and <a
+href="https://elifesciences.org/articles/27014">lifespan</a>. We ask
+whether commensal microbial taxa evolve into novel strains in the
+timescale of host aging and whether microbial evolution in turn
+exacerbates systemic aging and pathology.</p>
 <p><strong>Immune system</strong><br />
-We are interested in the <a href="https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.0489">evolution of the adaptive immune system</a> among closely-related killifish species in relation to the gain or loss of specific antibody classes, such as the fish “mucosal” IgZ/T. We study aging in the immune system, with a focus on <a href="https://elifesciences.org/articles/65117">clonal B cell diversity</a> and on the impact of somatic mutations on B cell function. We investigate the role of adaptive immunity in the establishment of host-specific commensal microbial consortia and we study how aging of the immune system affects age-dependent shifts in microbiome composition.</p>
+We are interested in the <a
+href="https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.0489">evolution
+of the adaptive immune system</a> among closely-related killifish
+species in relation to the gain or loss of specific antibody classes,
+such as the fish “mucosal” IgZ/T. We study aging in the immune system,
+with a focus on <a
+href="https://elifesciences.org/articles/65117">clonal B cell
+diversity</a> and on the impact of somatic mutations on B cell function.
+We investigate the role of adaptive immunity in the establishment of
+host-specific commensal microbial consortia and we study how aging of
+the immune system affects age-dependent shifts in microbiome
+composition.</p>
 <h3 id="african-killifish">African killifish</h3>
-<p>Our lab builds <a href="https://academic.oup.com/g3journal/article/1/7/531/5986557?login=true">tools</a> and <a href="https://www.jove.com/de/t/57073/a-protocol-for-laboratory-housing-turquoise-killifish-nothobranchius">protocols</a> that help establish African killifish as a <a href="https://www.embopress.org/doi/full/10.15252/embj.201796837">model</a> of vertebrate aging, to fill the gap between experimentally short-lived invertebrates, such as <em>C. elegans</em> and Drosophila, and longer-lived vertebrate model organisms, such as mice and naked mole-rats.<br />
-By studying killifish, we seek to understand the molecular, cellular and physiological changes that occur during aging in vertebrates. We are broadly interested in the genomic basis for species-specific adaptations in killifish and we investigate the evolutionary basis for the natural diversity of adult lifespan across species within this group of fish. To explore phenotype and genome evolution in killifish, we sequenced and assembled several killifish genomes, available for anyone to browse on our <a href="https://kb-dv.age.mpg.de/annotator/index">killifish genome browser</a>.</p>
+<p>Our lab builds <a
+href="https://academic.oup.com/g3journal/article/1/7/531/5986557?login=true">tools</a>
+and <a
+href="https://www.jove.com/de/t/57073/a-protocol-for-laboratory-housing-turquoise-killifish-nothobranchius">protocols</a>
+that help establish African killifish as a <a
+href="https://www.embopress.org/doi/full/10.15252/embj.201796837">model</a>
+of vertebrate aging, to fill the gap between experimentally short-lived
+invertebrates, such as <em>C. elegans</em> and Drosophila, and
+longer-lived vertebrate model organisms, such as mice and naked
+mole-rats.<br />
+By studying killifish, we seek to understand the molecular, cellular and
+physiological changes that occur during aging in vertebrates. We are
+broadly interested in the genomic basis for species-specific adaptations
+in killifish and we investigate the evolutionary basis for the natural
+diversity of adult lifespan across species within this group of fish. To
+explore phenotype and genome evolution in killifish, we sequenced and
+assembled several killifish genomes, available for anyone to browse on
+our <a href="https://kb-dv.age.mpg.de/annotator/index">killifish genome
+browser</a>.</p>
 <figure>
 <center>
 </style>
-<img src="files/pictures/notho-postcard.png" alt="drawing"  style="width:400px;"/>
+<img src="./files/pictures/notho-postcard.png" alt="drawing"  style="width:400px;"/>
 </center>
 </figure>
-<p>Our main model system for experimental and field work is the African <strong>turquoise killifish</strong> (<em>Nothobranchius furzeri</em>), the shortest-lived vertebrate species bred in captivity. Turquoise killifish are naturally short-lived and recapitulate several aspects of human aging, including cancer, inflammation and dysbiosis.</p>
+<p>Our main model system for experimental and field work is the African
+<strong>turquoise killifish</strong> (<em>Nothobranchius furzeri</em>),
+the shortest-lived vertebrate species bred in captivity. Turquoise
+killifish are naturally short-lived and recapitulate several aspects of
+human aging, including cancer, inflammation and dysbiosis.</p>
 <h3 id="field-research">Field research</h3>
-<p>We conduct field research in the <a href="https://gonarezhou.org/">Gonarezhou National Park</a> in Zimbabwe, which hosts natural populations of turquoise killifish.</p>
+<p>We conduct field research in the <a
+href="https://gonarezhou.org/">Gonarezhou National Park</a> in Zimbabwe,
+which hosts natural populations of turquoise killifish.</p>
 <figure>
 <center>
 </style>
-<img src="files/pictures/Malugwe.png" alt="drawing"  style="width:600px;"/>
+<img src="./files/pictures/Malugwe.png" alt="drawing"  style="width:600px;"/>
 </center>
 </figure>
-<p>We study killifish in their natural habitat, mapping their distribution, ecology, demography and population genetics.</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<p>We study killifish in their natural habitat, mapping their
+distribution, ecology, demography and population genetics.</p>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
