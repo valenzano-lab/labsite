@@ -33,7 +33,7 @@ Once you are a collaborator on this repo, you can contribute to improving its co
 username$ git status
 username$ git add .
 username$ git commit -m "description of changes"
-username$ git push -u origin master
+username$ git push -u origin main
 ```
 
 
