@@ -50,17 +50,16 @@ pre.numberSource code > span > a:first-child::before
   }
 pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
 div.sourceCode
-  { color: #00769e; background-color: #f1f3f5; }
+  {   }
 @media screen {
 pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
-code span { color: #00769e; } /* Normal */
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { color: #657422; } /* Attribute */
+code span.at { } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
-code span.cf { color: #00769e; } /* ControlFlow */
+code span.cf { color: #007ba5; } /* ControlFlow */
 code span.ch { color: #20794d; } /* Char */
 code span.cn { color: #8f5902; } /* Constant */
 code span.co { color: #5e5e5e; } /* Comment */
@@ -74,9 +73,9 @@ code span.fl { color: #ad0000; } /* Float */
 code span.fu { color: #4758ab; } /* Function */
 code span.im { } /* Import */
 code span.in { color: #5e5e5e; } /* Information */
-code span.kw { color: #00769e; } /* Keyword */
+code span.kw { color: #007ba5; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
-code span.ot { color: #00769e; } /* Other */
+code span.ot { color: #007ba5; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
 code span.sc { color: #5e5e5e; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
@@ -785,7 +784,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-article table.gt_table td,
   d-article table.gt_table th {
     border-bottom: none;
-    font-size: 100%;
   }
 
   .html-widget {
@@ -1027,6 +1025,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     position: relative;
     margin-bottom: 2.5em;
     margin-top: 1.5em;
+  }
+
+  .figure img {
+    width: 100%;
   }
 
   .figure .caption {
@@ -1858,21 +1860,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        const citeChild = $(this).children()[0]
-        // Do not process if @xyz has been used without escaping and without bibliography activated
-        // https://github.com/rstudio/distill/issues/466
-        if (citeChild === undefined) return true
-
-        if (citeChild.nodeName == "D-FOOTNOTE") {
-          var fn = citeChild
-          $(this).html(fn.shadowRoot.querySelector("sup"))
-          $(this).id = fn.id
-          fn.remove()
-        }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
-          // Could use CSS.escape too here, we insure backward compatibility in navigator
-          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
+          return "<p>" + $('#ref-' + ref).html() + "</p>";
         }).join("\n");
         window.tippy(this, {
           allowHTML: true,
@@ -1884,31 +1874,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
           placement: 'bottom-start'
         });
       });
-
-      // fix footnotes in tables (#411)
-      // replacing broken distill.pub feature
-      $('table d-footnote').each(function() {
-        // we replace internal showAtNode methode which is triggered when hovering a footnote
-        this.hoverBox.showAtNode = function(node) {
-          // ported from https://github.com/distillpub/template/pull/105/files
-          calcOffset = function(elem) {
-              let x = elem.offsetLeft;
-              let y = elem.offsetTop;
-              // Traverse upwards until an `absolute` element is found or `elem`
-              // becomes null.
-              while (elem = elem.offsetParent && elem.style.position != 'absolute') {
-                  x += elem.offsetLeft;
-                  y += elem.offsetTop;
-              }
-
-              return { left: x, top: y };
-          }
-          // https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop
-          const bbox = node.getBoundingClientRect();
-          const offset = calcOffset(node);
-          this.show([offset.left + bbox.width, offset.top + bbox.height]);
-        }
-      })
 
       // clear polling timer
       clearInterval(tid);
@@ -2008,8 +1973,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     // mark non-body figures created by knitr chunks as 100% width
     $('.layout-chunk').each(function(i, val) {
       var figures = $(this).find('img, .html-widget');
-      // ignore leaflet img layers (#106)
-      figures = figures.filter(':not(img[class*="leaflet"])')
       if ($(this).attr('data-layout') !== "l-body") {
         figures.css('width', '100%');
       } else {
@@ -2032,7 +1995,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     // get rid of index.html references in header
     if (window.location.protocol !== "file:") {
       $('.distill-site-header a[href]').each(function(i,val) {
-        $(this).attr('href', $(this).attr('href').replace(/^index[.]html/, "./"));
+        $(this).attr('href', $(this).attr('href').replace("index.html", "./"));
       });
     }
 
@@ -2393,7 +2356,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2475,11 +2438,10 @@ Research
 <p><img src="./files/pictures/crespi.png" /><!-- --></p>
 </div>
 <figure>
-<a href="https://scholar.google.de/citations?user=YILt54YAAAAJ&hl=en">
-<img src="./files/pictures/google_scholar.jpg" alt="drawing" style="width:200px;"/>
-</a>
+<a href="https://scholar.google.de/citations?user=YILt54YAAAAJ&hl=en"> <img src="./files/pictures/google_scholar.jpg" alt="drawing" style="width:200px;"/> </a>
 </figure>
-<p>Morabito G, Donertas HM, Seidel J, Poursadegh A, Poeschla M, Valenzano DR. (2023). Spontaneous onset of cellular markers of inflammation and genome instability during aging in the immune niche of the naturally short-lived turquoise killifish (<i>Nothobranchius furzeri</i>). bioRxiv 2023.02.06.527346; doi: <a href="https://doi.org/10.1101/2023.02.06.527346" class="uri">https://doi.org/10.1101/2023.02.06.527346</a></p>
+<p>Cattelan S, Valenzano DR. (2023). Noninvasive Ejaculate Collection from the African Turquoise Killifish (<i>Nothobranchius furzeri</i>). Published in Advance February 13, 2023, doi: 10.1101/pdb.prot108155.</p>
+<p>Morabito G, Donertas HM, Seidel J, Poursadegh A, Poeschla M, Valenzano DR. (2023). Spontaneous onset of cellular markers of inflammation and genome instability during aging in the immune niche of the naturally short-lived turquoise killifish (<i>Nothobranchius furzeri</i>). bioRxiv 2023.02.06.527346; doi: <a href="https://doi.org/10.1101/2023.02.06.527346" class="uri">https://doi.org/10.1101/2023.02.06.527346</a>.</p>
 <p>Seidel J, Bradshaw WJ, Valenzano DR. (2023). Sequencing the Immunoglobulin Heavy-Chain Locus (IgH) in Turquoise Killifish (<i>Nothobranchius furzeri</i>). Cold Spring Harbor Protocols; doi: <a href="https://10.1101/pdb.prot107750" class="uri">https://10.1101/pdb.prot107750</a>.</p>
 <p>Bagic M and Valenzano DR. (2022). Population size shapes the evolution of lifespan. bioRxiv 2022.12.17.520867; doi: <a href="https://doi.org/10.1101/2022.12.17.520867" class="uri">https://doi.org/10.1101/2022.12.17.520867</a></p>
 <p>Promislow D, Anderson RM, Scheffer M, Crespi B, DeGregori J, Harris K, Natterson Horowitz B, Levine ME, Riolo MA, Schneider DS, Spencer SL, Valenzano DR, Hochberg ME. (2022). Resilience Integrates Concepts in Aging Research. iScience, <a href="https://doi.org/10.1016/j.isci.2022.104199" class="uri">https://doi.org/10.1016/j.isci.2022.104199</a>.</p>
@@ -2508,8 +2470,7 @@ Research
 <p>Valenzano DR, Aboobaker A, Seluanov A, Gorbunova V. (2017). Non-canonical aging model systems and why we need them. EMBO J. DOI: 10.15252/embj.201796837.</p>
 <p>Harel I, Valenzano DR, Brunet A. (2016). Efficient genome engineering in the short-lived African turquoise killifish. Nature Protocols. Oct; 11(10):2010-2028.</p>
 <p>Kim Y, Nam HG, Valenzano DR. (2016). The short-lived African Turquoise Killifish: an Emerging Model for Ageing. DMM, Feb 3;9(2):115-129 (cover article).</p>
-<p>Šajina A, Valenzano DR. (2016). An In Silico Model to Simulate the Evolution of Biological Aging.
-[bioRxiv] [arXiv]</p>
+<p>Šajina A, Valenzano DR. (2016). An In Silico Model to Simulate the Evolution of Biological Aging. [bioRxiv] [arXiv]</p>
 <p>Valenzano DR<sup>^#</sup>, Benayoun BA<sup>^</sup>, Singh PP<sup>^</sup>, Zhang E, Etter PD, Hu CK, Clement-Ziza M, Willemsen D, Cui R, Harel I, Machado B, Yee MC, Sharp SC, Bustamante CD, Beyer A, Johnson EA, Brunet A<sup>#</sup>. (2015). The African turquoise killifish genome provides insights into evolution and genetic architecture of lifespan. Cell, Dec 3;162(6):1539-1554. <sup>^</sup> Co-first; <sup>#</sup> co-corresponding.</p>
 <p>Reichard M, Cellerino A, Valenzano DR. (2015). Turquoise Killifish. Current Biology. Aug;25(17): R741-2.</p>
 <p>Cellerino A, Valenzano DR, Reichard M. (2015). From the bush to the bench: the annual Nothobranchius fishes as a new model system in biology. Biological Reviews. DOI: 10.1111/brv.12183.</p>
