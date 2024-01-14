@@ -32,7 +32,7 @@ html {
   --aside-color:     rgba(45, 45, 45, 0.6);
   --fig-cap-color:   rgba(40, 40, 40, 0.6);
   /*-- Specify custom fonts ~~~ must be imported above   --*/
-  --heading-font:    sans-serif;
+  --heading-font:    arvo;
   --mono-font:       monospace;
   --body-font:       sans-serif;
   --navbar-font:     sans-serif;  /* websites + blogs only */
