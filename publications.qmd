@@ -8,7 +8,9 @@ title: "Our papers, preprints and reviews"
 
 <div class="publications-list">
 
-Morabito, G., Dönertas, H.M., Sperti, L., Seidel, J., Poursadegh Zonouzi, A., Poeschla, M., Valenzano D.R. (2026). Spontaneous aging-associated inflammation and genome instability in the immune system of turquoise killifish. *Nat Aging* 6, 665–681. <https://doi.org/10.1038/s43587-026-01086-2>.
+Bagic M, Šajina A, Bradshaw WJ, Valenzano DR. (2026). AEGIS: Individual-based modeling of life history evolution. *PLoS Comput Biol* 22(3): e1014109. <https://doi.org/10.1371/journal.pcbi.1014109>.
+
+Morabito G, Dönertas HM, Sperti L, Seidel J, Poursadegh Zonouzi A, Poeschla M, Valenzano DR. (2026). Spontaneous aging-associated inflammation and genome instability in the immune system of turquoise killifish. *Nat Aging* 6, 665–681. <https://doi.org/10.1038/s43587-026-01086-2>.
 
 Nussey, D.H., D'Adda di Fagagna, F., Bardin, A.J., Blau, H., Brunet, A., Bulavin, D.V., Guo, L., Hara, E., Junker, J.P., Gorbunova, V., Mittelbrunn, M., Rera, M., Reznick, J., Seluanov, A., Schumacher, B., Teeling, E.C., Valenzano, D.R., Ye, J., Yun, M.H., Garinis, G.A., Gilson, E. (2026). Molecular evolution of animal aging. *EMBO J*. <https://doi.org/10.1038/s44318-026-00725-z>.
 
@@ -21,8 +23,6 @@ Barth E, Baumgart M, Dolfi L, Cui R, Groth M, Ripa R, Savino A, Valenzano DR, Pl
 Awuor Owuor M, Seehausen O, Borokini IT, Abila R, Githiora YW, Speranza CI, Njau MG, Ngila P, Chiawo D, Valenzano DR, Alawa GN, Akite P, Gross RB, Alila DO, Agonvonon GA, Mahulu A. (2025). Ecology in Africa: historical perspectives, present state and prospects. *EcoEvoRxiv*. <https://doi.org/10.32942/X24S7F>.
 
 Cattelan S, Valenzano DR. (2025). Age-dependent decline in sperm quality and function in a naturally short-lived vertebrate. *BMC Ecol Evo* 25, 2. <https://doi.org/10.1186/s12862-024-02343-x>.
-
-Bagic M, Šajina A, Bradshaw WJ, Valenzano DR. (2024). AEGIS: individual-based modeling of life history evolution. *bioRxiv* 2024.11.26.625408. <https://doi.org/10.1101/2024.11.26.625408>.
 
 de Bakker DEM, Mihaljević M, Gharat K, Richter Y, van Bebber F, Adam L, Shamim-Schulze F, Ohlenschläger O, Bens M, Cirri E, Antebi A, Matić I, Schneider A, Schmid B, Kirstein J, Valenzano DR. (2024). Amyloid Beta Precursor Protein contributes to brain aging and learning decline in short-lived turquoise killifish (*Nothobranchius furzeri*). *bioRxiv* 2024.10.11.617841. <https://doi.org/10.1101/2024.10.11.617841>.
 

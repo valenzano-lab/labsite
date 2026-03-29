@@ -19,20 +19,22 @@ If you are interested in joining our lab, see the [openings](join.qmd) page.
 
 ## Evolution shapes the pace of aging
 
-![](files/pictures/notho-postcard.png){width="100%"}
+![](files/pictures/AEGIS/aegis-ager.svg){width="40%" style="float:right; margin-left:2em; margin-bottom:1em;"}
 
-Lifespan varies enormously across species, even among closely related ones. We ask what evolutionary forces produce this variation. We compare killifish populations that differ in natural lifespan, build models of genome evolution in age-structured populations, and test how population size, mutation load, and selection interact to determine when and how fast species age. Our work connects evolutionary theory with the molecular biology of aging, using population genetics, comparative genomics, and individual-based simulations to link genotype to life history across species in nature.
+Lifespan varies enormously across species, even among closely related ones. We ask what evolutionary forces produce this variation. We build and test theoretical models of genome evolution in age-structured populations to understand how population size, mutation load, and selection interact to determine when and how fast species age. This framework applies across taxa: from bacteria and flies to vertebrates and humans. Our individual-based simulation platform [AEGIS](https://genome.leibniz-fli.de/aegis/), now published in [*PLoS Computational Biology*](https://doi.org/10.1371/journal.pcbi.1014109), implements these models in a species-agnostic, extensible framework for studying the evolution of life history traits.
+
+## Immune aging reshapes microbial communities
+
+![](files/pictures/NatAging_cover_2026.webp){width="40%" style="float:right; margin-left:2em; margin-bottom:1em;"}
+
+Killifish are a natural vertebrate model to study the evolutionary basis of immune aging. B cell diversity contracts sharply with age, antibody repertoires narrow, and immune progenitor cells accumulate DNA damage and reduce their repair capacity, driving systemic inflammation and microbial dysbiosis. We study how adaptive immunity evolved across killifish species, how somatic mutations accumulate in B cells over time, and how immune senescence shifts gut microbiome composition. We combine immunology, single-cell genomics, and comparative approaches to understand why immune-microbiome balance breaks down with age and how that breakdown accelerates aging. Our multi-omics atlas of killifish immune aging, [KIAMO](https://genome.leibniz-fli.de/shiny/kiamo/), is published in [*Nature Aging*](https://doi.org/10.1038/s43587-026-01086-2).
 
 ## Gut microbiome co-evolves with the aging host
 
 The gut microbiome changes dramatically as killifish age, and those changes feed back on host health. We study how hosts select their microbial community across the lifespan, whether commensal microbes evolve within a single host generation, and how shifts in microbial composition affect systemic aging and pathology. We use germ-free fish, microbiota transplants, culturomics, and longitudinal metagenomic sequencing to move from correlation to causation in host-microbiome interactions.
 
-## Immune aging reshapes microbial communities
+## Ecology and Evolution of killifish in the Gonarezhou National Park
 
-B cell diversity contracts sharply with age in killifish, mirroring immune aging in mammals. We study the adaptive immune system at the intersection of aging and ecology: how antibody repertoires evolved across killifish species, how somatic mutations accumulate in B cells over time, and how immune senescence shifts gut microbiome composition. We combine immunology, genomics, and comparative approaches to understand why immune-microbiome balance breaks down with age and how that breakdown accelerates aging.
-
-## Field ecology in Gonarezhou
-
-![](files/pictures/Malugwe.png){width="100%"}
+![](files/pictures/fieldwork/killifish_field.gif){width="27%" style="float:right; margin-left:2em; margin-bottom:1em;"}
 
 Our primary field site is the Gonarezhou National Park in Zimbabwe, which hosts natural populations of turquoise killifish in seasonal pools that evaporate each dry season. We study how demography, ecology, and predation shape killifish evolution in the wild, sampling genetics, gut microbiota, and aging biomarkers directly from living populations. Field observations constrain and motivate our laboratory models; laboratory findings guide what we measure next in the field.
