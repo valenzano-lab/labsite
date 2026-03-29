@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Valenzano Lab</title>
+<link>https://valenzano-lab.github.io/labsite/blog.html</link>
+<atom:link href="https://valenzano-lab.github.io/labsite/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Evolution and Ecology of Aging — FLI Jena</description>
+<generator>quarto-1.4.537</generator>
+<lastBuildDate>Fri, 20 Mar 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Launching the new lab site</title>
+  <dc:creator>Dario Valenzano</dc:creator>
+  <link>https://valenzano-lab.github.io/labsite/posts/2026-03-21-welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>After several years running a Distill-based website, we have rebuilt the lab site on Quarto. The structure is cleaner, the pages render faster, and — most importantly — it is now straightforward to add a blog. This is the first post.</p>
+<p>We intend to use this space for things that don’t belong in a paper but are worth sharing: field notes from Zimbabwe, preprint announcements, methods we learned the hard way, and occasional commentary on the biology. The format will be informal. Posts can be short. The goal is continuity — a record of what the lab is thinking about and working on between publications.</p>
+<p>The publications and people pages have been migrated from the old site and are up to date as of today. If you notice anything missing or broken, <a href="mailto:nicole.wolf@leibniz-fli.de">let us know</a>.</p>
+<p>The 2026 Gonarezhou field season is coming up. We will be sampling wild killifish populations at the end of the rainy season when the pools are still full, following up on the eDNA transects Allen Mavuru has been running from the molecular field lab. Expect a post from the field.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://valenzano-lab.github.io/labsite/posts/2026-03-21-welcome/</guid>
+  <pubDate>Fri, 20 Mar 2026 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Asking questions after a seminar — a practical guide</title>
+  <dc:creator>Dario Valenzano</dc:creator>
+  <link>https://valenzano-lab.github.io/labsite/posts/2023-08-23-questions/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>In this post I share some thoughts about the “art of asking scientific questions”.<sup>1</sup> My goal is to share with you a rudimentary toolbox to work your way into asking questions more frequently and more effectively.</p>
+<p>Asking questions after a scientific presentation is very important. It is part of the dialectic of science. Questioning and discussing experiments, methods, results and interpretations is what makes science fun and so effective. Ideas bounce, conclusions are challenged, a new model emerges from the discussion. As scientists, we ought to question stuff.</p>
+<p>After I give a talk, if nobody asks a question, I feel I did not do my job well. If I invite a guest speaker and after the seminar nobody in the hosting institute asks a question, I feel I am letting down both the guest and the audience. No questions asked is a symptom that presenter and audience are out of sync.</p>
+<p>Let’s start from the basics. Why would I ask questions at all?</p>
+<p>Here are a few realistic reasons:</p>
+<ol type="1">
+<li>I am genuinely curious to know more about what was presented.</li>
+<li>I am confused about the methods or results presented. I need more info to fully appreciate the method or the results presented.</li>
+<li>While I get the results, I am not convinced about the interpretation.</li>
+<li>I am shocked — I can’t believe what I heard was true or even possible. I need to make sure I understood correctly.</li>
+<li>This is cool work. In the context of what I heard, I wonder what the presenter thinks about other recently published results.</li>
+<li>Gosh, my PI wants me to ask questions and I feel I have to show I paid attention.</li>
+<li>My colleague asks so many questions — I should do the same!</li>
+<li>(…).</li>
+</ol>
+<p>I found it useful to think of “asking questions” as a specific task, which I set even before the talk starts. Let me clarify. I sometimes explicitly decide before a talk that I will have 2–3 questions written down ready to be asked (it’s OK if I do not get to ask them). I sometimes write “2” and circle it at the top of my notebook page. That number will indicate the number of questions I set myself to have at the end of the presentation. Whenever I moderate a session at a conference, host an invited speaker, or am invited to a conference, I need to have questions to stimulate the discussion and actively contribute to the scientific debate. If I am in the “I really should ask a question after this talk” mode, I will avidly take notes and write down a question as soon as something comes up during the talk. If I listen to someone’s presentation with this “asking questions” mindset, I find it much easier to come up at the end with questions, as opposed to casually thinking about possible questions only at the end of a talk. In other words, asking questions can be exercised, and I believe it is an important part of our scientific training. You can definitely practice and learn to ask questions.</p>
+<section id="what-question-should-i-ask" class="level2">
+<h2 class="anchored" data-anchor-id="what-question-should-i-ask">What question should I ask?</h2>
+<p>This seems to be a tough one.</p>
+<p>As you know well by now, each talk has a rather standard structure, with only a few limited accepted variations. It starts with a title slide, then continues with the background information, the gap in knowledge, the main research question, the approach/methods, the results, the interpretation of the results, the discussion of the results in the broad context of the field, the conclusions, the future directions (sometimes), and the acknowledgments of the people, institutions and funding bodies that contributed to the project.</p>
+<p>The great news is that you can ask questions that relate to pretty much all the components of the presentation, starting from the title, all the way to the acknowledgments. Here are a few examples:</p>
+<p><em>Background</em>: Do I agree with the provided information? Is there something that was missed that would have led to a different formulation of the question? Did I know about the background that was provided? Can the author tell more about the background information? What if some info provided as background was recently refuted or challenged? We should ask for the presenter’s opinion.</p>
+<p><em>Methods</em>: Do I understand the methods? Can the authors explain how the methods work in more detail? I am not sure I am following. How can one go from a to b? What is 16S rRNA sequencing? How does the pipeline work? How do you correct for batch effect? Were the experiments done at the same time of the day? Were experiments done in both male and female mice? Why did the authors use killifish instead of zebrafish?</p>
+<p><em>Results</em>: This is exciting. However, I am not sure I understand that plot. What is shown on the x axis? What is on the y axis? What does the legend indicate? What is a t-SNE plot? Did I see gene A appearing on that list? Can you tell me more about it? Did you check which paralog that was? What does that gene do?</p>
+<p><em>Interpretation</em>: While I see that the interpretation presented is plausible, can an alternative scenario also explain the observed results? How can the presenter choose one interpretation over the other? Should they test for a, b, and c in order to be sure they got the mechanism right? Are there additional interpretations for the presented results? This is also the place to ask whether the title reflects the presented results. If it does not (sometimes that’s the case), you can ask: “You titled your talk ‘Evolutionary Ecology of Aging’, but then you talked about demography and genomics. Did I miss the part about ecology?”</p>
+<p><em>Discussion</em>: This is where the results are placed in the context of what is already known, and where the true novelty and relevance of the results is discussed. Often, the discussion of each result occurs in the same slide where results are shown. This is the place to compare the presented results with something that is already known, already published, or perhaps with some personal observation. Here you can ask: “If what you showed is true, does it then mean that a, b, c, are also possible?”</p>
+<p><em>Future directions</em>: Even here we can ask questions: can the presenter consider doing additional experiments? Should the presenter perhaps check datasets a, b, c to further test their model? Is the shown mechanism evolutionarily conserved (a rather frequent, generic, and evergreen question)? Did the authors check whether gene A is associated with any known human disease (another classic)?</p>
+<p><em>Acknowledgments</em>: You can ask whether funding agency X, which appears in the acknowledgment slide, still funds projects related to the topic presented.</p>
+<p>As you see, you can ask questions that address virtually every part of the presentation. There’s plenty of room.</p>
+</section>
+<section id="i-have-questions-but-i-am-afraid-to-raise-my-hand." class="level2">
+<h2 class="anchored" data-anchor-id="i-have-questions-but-i-am-afraid-to-raise-my-hand.">I have questions — but I am afraid to raise my hand.</h2>
+<p>One thing is to have a question in mind. Another is to formulate and voice it.</p>
+<p>I think I do have a question, but I am wondering whether I am formulating it well enough. My suggestion here is to write down the question. Reading the question is perfectly fine.</p>
+<p>What if I am afraid to speak up? A trick that works for me to mitigate the social anxiety of being in a crowded hall is to sit in the front rows. In this way I can hear the presentation more clearly, I get less distracted, and being at the front I forget there are plenty of people behind me — so I am less nervous.</p>
+</section>
+<section id="a-few-tricks" class="level2">
+<h2 class="anchored" data-anchor-id="a-few-tricks">A few tricks</h2>
+<p>Here is a collection of tricks that might help you ask questions more often:</p>
+<ol type="1">
+<li>Plan to ask two questions before the talk starts.</li>
+<li>Write down questions in your notebook as you take notes during the talk.</li>
+<li>Break down the notes into introduction–methods–results–discussion and search for possible questions in each of these parts. Do this during the talk, not only at the end — otherwise you will be distracted by other people’s questions.</li>
+<li>From time to time throughout the talk, try to recap mentally what the presenter is telling you. Build your model of the project you heard so far. It will help you find the information that you’re missing. Once you identify the missing part, you might have a question.</li>
+<li>ChatGPT (I am looking at you): if the speaker is presenting a preprint, a proceedings abstract, or published work, you have the opportunity to submit the abstract and discussion to ChatGPT and ask it to formulate three questions. Pick one that you like and use it to practice asking questions. This trick is more about practicing than about generating your own question — but it can be fun to try.</li>
+</ol>
+</section>
+<section id="a-final-note" class="level2">
+<h2 class="anchored" data-anchor-id="a-final-note">A final note</h2>
+<p>Everyone asks questions in a unique way. If you pay attention, different people tend to ask the same type of question, with a rather consistent formulation. Some people are more focused on the general model (big picture), others on technical details. By practicing “asking questions”, you will find out what type of questions suit you best.</p>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>What this post is NOT about is the etiquette of asking questions. I am not thinking about how to ask questions politely or professionally. Rather, I am sharing thoughts about how to come up with a list of reasonable questions and what they could be about.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>science culture</category>
+  <category>training</category>
+  <guid>https://valenzano-lab.github.io/labsite/posts/2023-08-23-questions/</guid>
+  <pubDate>Tue, 22 Aug 2023 22:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

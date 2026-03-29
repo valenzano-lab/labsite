@@ -1,0 +1,387 @@
+[
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Lab Tools and Resources",
+    "section": "",
+    "text": "Working on a non-canonical model organism requires building new tools. We develop and share what we make."
+  },
+  {
+    "objectID": "tools.html#aegis",
+    "href": "tools.html#aegis",
+    "title": "Lab Tools and Resources",
+    "section": "AEGIS",
+    "text": "AEGIS\nWe created AEGIS as a versatile in silico tool to simulate life history trait evolution. AEGIS employs an agent-based genetic algorithm and allows testing how survivorship and aging evolve in response to varying mutation rates, population size, selection regimes, sexual or asexual reproduction, and more. AEGIS helps visualize and test the extent to which longer or shorter lifespan evolves following a set of well-defined starting conditions, and helps correct our intuition about the evolutionary forces that shape lifespan and aging across species. AEGIS is free and open source.\n\n\n\nAEGIS visualizer"
+  },
+  {
+    "objectID": "tools.html#killifish-genome-browser",
+    "href": "tools.html#killifish-genome-browser",
+    "title": "Lab Tools and Resources",
+    "section": "Killifish Genome Browser",
+    "text": "Killifish Genome Browser\nOur Killifish Genome Browser provides access to the genomes of Nothobranchius furzeri, Nothobranchius orthonotus, Aphyosemion australe, Callopanchax toddi, and Pachypanchax playfairii.\n\n\n\nKillifish genome browser — N. furzeri view"
+  },
+  {
+    "objectID": "scattelan.html",
+    "href": "scattelan.html",
+    "title": "Silvia Cattelan",
+    "section": "",
+    "text": "Silvia Cattelan is an evolutionary biologist whose interests span sexual selection and behavioural ecology. Her research in the Valenzano Lab focuses on male reproductive aging in Nothobranchius furzeri: how ejaculate characteristics change with age, and how advanced paternal age affects offspring fitness. She uses in vitro and behavioural experiments alongside histochemical and molecular techniques to dissect the mechanisms of male reproductive aging in killifish."
+  },
+  {
+    "objectID": "scattelan.html#bio",
+    "href": "scattelan.html#bio",
+    "title": "Silvia Cattelan",
+    "section": "",
+    "text": "Silvia Cattelan is an evolutionary biologist whose interests span sexual selection and behavioural ecology. Her research in the Valenzano Lab focuses on male reproductive aging in Nothobranchius furzeri: how ejaculate characteristics change with age, and how advanced paternal age affects offspring fitness. She uses in vitro and behavioural experiments alongside histochemical and molecular techniques to dissect the mechanisms of male reproductive aging in killifish."
+  },
+  {
+    "objectID": "scattelan.html#education",
+    "href": "scattelan.html#education",
+    "title": "Silvia Cattelan",
+    "section": "Education",
+    "text": "Education\nUniversity of Padova | Padova, Italy\nPh.D. in Biosciences and Biotechnologies | January 2013 – March 2016\nUniversity of Padova | Padova, Italy\nMaster’s Degree in Evolutionary Biology | October 2010 – October 2012"
+  },
+  {
+    "objectID": "scattelan.html#experience",
+    "href": "scattelan.html#experience",
+    "title": "Silvia Cattelan",
+    "section": "Experience",
+    "text": "Experience\nLeibniz Institute on Aging | Postdoc | September 2021 – Present\nUniversity of Padova | Postdoc | April 2016 – April 2021"
+  },
+  {
+    "objectID": "posts/2026-03-21-welcome/index.html",
+    "href": "posts/2026-03-21-welcome/index.html",
+    "title": "Launching the new lab site",
+    "section": "",
+    "text": "After several years running a Distill-based website, we have rebuilt the lab site on Quarto. The structure is cleaner, the pages render faster, and — most importantly — it is now straightforward to add a blog. This is the first post.\nWe intend to use this space for things that don’t belong in a paper but are worth sharing: field notes from Zimbabwe, preprint announcements, methods we learned the hard way, and occasional commentary on the biology. The format will be informal. Posts can be short. The goal is continuity — a record of what the lab is thinking about and working on between publications.\nThe publications and people pages have been migrated from the old site and are up to date as of today. If you notice anything missing or broken, let us know.\nThe 2026 Gonarezhou field season is coming up. We will be sampling wild killifish populations at the end of the rainy season when the pools are still full, following up on the eDNA transects Allen Mavuru has been running from the molecular field lab. Expect a post from the field."
+  },
+  {
+    "objectID": "pgrigaravicius.html",
+    "href": "pgrigaravicius.html",
+    "title": "Paulius Grigaravicius",
+    "section": "",
+    "text": "Paulius Grigaravicius is a biophysicist with expertise in cytometry and imaging in the context of genomic instability. His work in the Valenzano Lab is aimed at molecular phenotyping of killifish pre-clinical models, with a particular focus on the interplay between neurodegenerative diseases and aging. He applies cutting-edge screening techniques to cells and to Nothobranchius furzeri, a vertebrate that offers a compressed timescale for studying accelerated aging."
+  },
+  {
+    "objectID": "pgrigaravicius.html#bio",
+    "href": "pgrigaravicius.html#bio",
+    "title": "Paulius Grigaravicius",
+    "section": "",
+    "text": "Paulius Grigaravicius is a biophysicist with expertise in cytometry and imaging in the context of genomic instability. His work in the Valenzano Lab is aimed at molecular phenotyping of killifish pre-clinical models, with a particular focus on the interplay between neurodegenerative diseases and aging. He applies cutting-edge screening techniques to cells and to Nothobranchius furzeri, a vertebrate that offers a compressed timescale for studying accelerated aging."
+  },
+  {
+    "objectID": "pgrigaravicius.html#education",
+    "href": "pgrigaravicius.html#education",
+    "title": "Paulius Grigaravicius",
+    "section": "Education",
+    "text": "Education\nFriedrich Schiller University Jena | Jena, Germany\nDr. rer. nat. | 2009\nVilnius University | Vilnius, Lithuania\nM.S. in Biophysics | 2003\nVilnius University | Vilnius, Lithuania\nB.S. in Physics | 2001"
+  },
+  {
+    "objectID": "pgrigaravicius.html#experience",
+    "href": "pgrigaravicius.html#experience",
+    "title": "Paulius Grigaravicius",
+    "section": "Experience",
+    "text": "Experience\nLeibniz Institute on Aging | Staff Scientist, Valenzano Lab | 2025 – Present\nLeibniz Institute on Aging | Staff Scientist, Ori Lab | 2023 – 2024\nLeibniz Institute on Aging | PostDoc / Staff Scientist, Wang Lab | 2015 – 2023\nGerman Cancer Research Center (DKFZ) | PostDoc | 2010 – 2015\nUniversitätsklinikum Jena | PostDoc | 2009 – 2010\nLeibniz Institute on Aging | PhD | 2003 – 2009"
+  },
+  {
+    "objectID": "pdevi.html",
+    "href": "pdevi.html",
+    "title": "Priti Malik Devi",
+    "section": "",
+    "text": "Priti Malik Devi is a microbiologist and genomicist working at the intersection of infectious disease, host-microbiome interactions, and functional genomics. Her research focuses on how microbial signatures and host factors — in particular antimicrobial peptides — modulate microbial community composition during aging in Nothobranchius furzeri."
+  },
+  {
+    "objectID": "pdevi.html#bio",
+    "href": "pdevi.html#bio",
+    "title": "Priti Malik Devi",
+    "section": "",
+    "text": "Priti Malik Devi is a microbiologist and genomicist working at the intersection of infectious disease, host-microbiome interactions, and functional genomics. Her research focuses on how microbial signatures and host factors — in particular antimicrobial peptides — modulate microbial community composition during aging in Nothobranchius furzeri."
+  },
+  {
+    "objectID": "pdevi.html#education",
+    "href": "pdevi.html#education",
+    "title": "Priti Malik Devi",
+    "section": "Education",
+    "text": "Education\nCSIR Institute of Genomics and Integrative Biology | New Delhi, India\nPh.D. in Biological Sciences | August 2020 – January 2025\nMaharshi Dayanand University | Rohtak, India\nMaster’s Degree in Genetics"
+  },
+  {
+    "objectID": "pdevi.html#experience",
+    "href": "pdevi.html#experience",
+    "title": "Priti Malik Devi",
+    "section": "Experience",
+    "text": "Experience\nLeibniz Institute on Aging | Postdoc | January 2026 – Present\nCSIR Institute of Genomics and Integrative Biology | Project Scientist | April 2025 – December 2025"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Valenzano Lab",
+    "section": "",
+    "text": "We love answering open questions at the intersection of evolution, ecology, and aging.\nWe investigate how evolution shapes life history traits across species in nature, combining evolutionary theory, comparative genomics, and animal physiology to understand why and how organisms age. We apply an evolutionary and ecological perspective to host-microbiome interactions in health, disease, and aging, and we use statistical modeling, experimental biology, and fieldwork in Zimbabwe to answer open questions and develop interventions that improve biomedical resilience.\nIf you are interested in joining our lab, see the openings page."
+  },
+  {
+    "objectID": "index.html#evolution-shapes-the-pace-of-aging",
+    "href": "index.html#evolution-shapes-the-pace-of-aging",
+    "title": "Valenzano Lab",
+    "section": "Evolution shapes the pace of aging",
+    "text": "Evolution shapes the pace of aging\n\nLifespan varies enormously across species, even among closely related ones. We ask what evolutionary forces produce this variation. We build and test theoretical models of genome evolution in age-structured populations to understand how population size, mutation load, and selection interact to determine when and how fast species age. This framework applies across taxa: from bacteria and flies to vertebrates and humans. Our individual-based simulation platform AEGIS, now published in PLoS Computational Biology, implements these models in a species-agnostic, extensible framework for studying the evolution of life history traits."
+  },
+  {
+    "objectID": "index.html#immune-aging-reshapes-microbial-communities",
+    "href": "index.html#immune-aging-reshapes-microbial-communities",
+    "title": "Valenzano Lab",
+    "section": "Immune aging reshapes microbial communities",
+    "text": "Immune aging reshapes microbial communities\n\nKillifish are a natural vertebrate model to study the evolutionary basis of immune aging. B cell diversity contracts sharply with age, antibody repertoires narrow, and immune progenitor cells accumulate DNA damage and reduce their repair capacity, driving systemic inflammation and microbial dysbiosis. We study how adaptive immunity evolved across killifish species, how somatic mutations accumulate in B cells over time, and how immune senescence shifts gut microbiome composition. We combine immunology, single-cell genomics, and comparative approaches to understand why immune-microbiome balance breaks down with age and how that breakdown accelerates aging. Our multi-omics atlas of killifish immune aging, KIAMO, is published in Nature Aging."
+  },
+  {
+    "objectID": "index.html#gut-microbiome-co-evolves-with-the-aging-host",
+    "href": "index.html#gut-microbiome-co-evolves-with-the-aging-host",
+    "title": "Valenzano Lab",
+    "section": "Gut microbiome co-evolves with the aging host",
+    "text": "Gut microbiome co-evolves with the aging host\nThe gut microbiome changes dramatically as killifish age, and those changes feed back on host health. We study how hosts select their microbial community across the lifespan, whether commensal microbes evolve within a single host generation, and how shifts in microbial composition affect systemic aging and pathology. We use germ-free fish, microbiota transplants, culturomics, and longitudinal metagenomic sequencing to move from correlation to causation in host-microbiome interactions."
+  },
+  {
+    "objectID": "index.html#ecology-and-evolution-of-killifish-in-the-gonarezhou-national-park",
+    "href": "index.html#ecology-and-evolution-of-killifish-in-the-gonarezhou-national-park",
+    "title": "Valenzano Lab",
+    "section": "Ecology and Evolution of killifish in the Gonarezhou National Park",
+    "text": "Ecology and Evolution of killifish in the Gonarezhou National Park\n\nOur primary field site is the Gonarezhou National Park in Zimbabwe, which hosts natural populations of turquoise killifish in seasonal pools that evaporate each dry season. We study how demography, ecology, and predation shape killifish evolution in the wild, sampling genetics, gut microbiota, and aging biomarkers directly from living populations. Field observations constrain and motivate our laboratory models; laboratory findings guide what we measure next in the field."
+  },
+  {
+    "objectID": "dario.html",
+    "href": "dario.html",
+    "title": "Dario Riccardo Valenzano",
+    "section": "",
+    "text": "I am a professor at the Friedrich Schiller University in Jena (Germany) and the Scientific Director of the Leibniz Institute on Aging (Fritz-Lipmann Institute), where I also coordinate the research focus on Microbiome and Aging.\nI am an evolutionary biologist and I study why we age. In my group we investigate how evolution shapes life history traits across species in nature. We apply an evolutionary and ecological perspective to the study of host-microbiome interactions in the context of health, disease and aging. Our work is at the confluence of evolutionary theory, ecology, genomics, and animal physiology. We employ statistical modeling, experimental biology, and field work to answer open questions and help develop interventions to improve biomedical resilience."
+  },
+  {
+    "objectID": "dario.html#bio",
+    "href": "dario.html#bio",
+    "title": "Dario Riccardo Valenzano",
+    "section": "",
+    "text": "I am a professor at the Friedrich Schiller University in Jena (Germany) and the Scientific Director of the Leibniz Institute on Aging (Fritz-Lipmann Institute), where I also coordinate the research focus on Microbiome and Aging.\nI am an evolutionary biologist and I study why we age. In my group we investigate how evolution shapes life history traits across species in nature. We apply an evolutionary and ecological perspective to the study of host-microbiome interactions in the context of health, disease and aging. Our work is at the confluence of evolutionary theory, ecology, genomics, and animal physiology. We employ statistical modeling, experimental biology, and field work to answer open questions and help develop interventions to improve biomedical resilience."
+  },
+  {
+    "objectID": "dario.html#education",
+    "href": "dario.html#education",
+    "title": "Dario Riccardo Valenzano",
+    "section": "Education",
+    "text": "Education\nScuola Normale Superiore | Pisa, Italy\nPh.D. in Neuroscience | January 2003 – April 2006\nUniversity of Pisa and Scuola Normale Superiore | Pisa, Italy\nM.Sc. in Biological Sciences | September 1996 – October 2001"
+  },
+  {
+    "objectID": "dario.html#academic-appointments",
+    "href": "dario.html#academic-appointments",
+    "title": "Dario Riccardo Valenzano",
+    "section": "Academic Appointments",
+    "text": "Academic Appointments\nCluster of Excellence — Balance of the Microverse (FSU) | Jena, Germany\nPrincipal Investigator | since April 2023\nFriedrich Schiller University (FSU) | Jena, Germany\nFull Professor in Functional Host-Microbiome Interactions | since July 2021\nLeibniz Institute on Aging, Fritz Lipmann Institute | Jena, Germany\nSenior Researcher | since July 2021"
+  },
+  {
+    "objectID": "dario.html#teaching",
+    "href": "dario.html#teaching",
+    "title": "Dario Riccardo Valenzano",
+    "section": "Teaching",
+    "text": "Teaching\nPopulation Genetics | May 2021, University of Cologne, Germany\nBiology of Aging | July–August 2023, MBL Summer Course, Woods Hole, USA\nEvolutionary Biology of Aging | January 2026, Friedrich Schiller University, Jena, Germany"
+  },
+  {
+    "objectID": "aryabova.html",
+    "href": "aryabova.html",
+    "title": "Alina Ryabova",
+    "section": "",
+    "text": "Alina Ryabova is a molecular biologist studying the lifelong crosstalk between killifish immunity and the gut microbiome. Her research examines how the adaptive immune system and microbial communities co-evolve during aging, using omics technologies to connect immune senescence to changes in microbiome composition."
+  },
+  {
+    "objectID": "aryabova.html#bio",
+    "href": "aryabova.html#bio",
+    "title": "Alina Ryabova",
+    "section": "",
+    "text": "Alina Ryabova is a molecular biologist studying the lifelong crosstalk between killifish immunity and the gut microbiome. Her research examines how the adaptive immune system and microbial communities co-evolve during aging, using omics technologies to connect immune senescence to changes in microbiome composition."
+  },
+  {
+    "objectID": "aryabova.html#education",
+    "href": "aryabova.html#education",
+    "title": "Alina Ryabova",
+    "section": "Education",
+    "text": "Education\nRussian Anti-Plague Research Institute “Microbe” | Saratov, Russia\nPh.D. in Epidemiology | 2014\nSaratov State University | Saratov, Russia\nB.S./M.S. in Zoology | 2003 – 2009"
+  },
+  {
+    "objectID": "aryabova.html#experience",
+    "href": "aryabova.html#experience",
+    "title": "Alina Ryabova",
+    "section": "Experience",
+    "text": "Experience\nLeibniz Institute on Aging | Postdoc | September 2022 – Present\nNational Medical Research Center for Endocrinology | Senior Researcher | 2020 – 2022\nKazan Federal University, Extreme Biology Laboratory | Researcher | 2015 – 2020\nRussian Anti-Plague Research Institute “Microbe” | Junior Researcher | 2010 – 2015"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Lab Blog",
+    "section": "",
+    "text": "Launching the new lab site\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 21, 2026\n\n\nDario Valenzano\n\n\n\n\n\n\n\n\n\n\n\n\nAsking questions after a seminar — a practical guide\n\n\n\n\n\n\nscience culture\n\n\ntraining\n\n\n\n\n\n\n\n\n\nAug 23, 2023\n\n\nDario Valenzano\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "fcosta.html",
+    "href": "fcosta.html",
+    "title": "Flávio Costa",
+    "section": "",
+    "text": "Flávio Costa is a microbiologist focused on unraveling the interaction between the gut microbiome and aging in Nothobranchius furzeri. His background spans microbiomes in animals and soil, metal resistance in bacteria, and microbial genomics. At the Valenzano Lab he applies culturomics and metagenomic approaches to understand how microbial communities change across the killifish lifespan and how those changes feed back on host physiology."
+  },
+  {
+    "objectID": "fcosta.html#bio",
+    "href": "fcosta.html#bio",
+    "title": "Flávio Costa",
+    "section": "",
+    "text": "Flávio Costa is a microbiologist focused on unraveling the interaction between the gut microbiome and aging in Nothobranchius furzeri. His background spans microbiomes in animals and soil, metal resistance in bacteria, and microbial genomics. At the Valenzano Lab he applies culturomics and metagenomic approaches to understand how microbial communities change across the killifish lifespan and how those changes feed back on host physiology."
+  },
+  {
+    "objectID": "fcosta.html#education",
+    "href": "fcosta.html#education",
+    "title": "Flávio Costa",
+    "section": "Education",
+    "text": "Education\nFriedrich Schiller University Jena | Jena, Germany\nPh.D. in Microbiology | March 2018 – October 2023\nCatholic University of Brasília | Brasília, Brazil\nMaster’s Degree in Genomic Sciences and Biotechnology | February 2014 – February 2016\nCatholic University of Brasília | Brasília, Brazil\nBachelor’s Degree in Biological Sciences | August 2010 – December 2013"
+  },
+  {
+    "objectID": "fcosta.html#experience",
+    "href": "fcosta.html#experience",
+    "title": "Flávio Costa",
+    "section": "Experience",
+    "text": "Experience\nLeibniz Institute on Aging | Postdoc | January 2024 – Present\nFriedrich Schiller University Jena / Max Planck Institute for Biogeochemistry | PhD Researcher | March 2018 – October 2023\nCatholic University of Brasília | Scientific Staff | September 2011 – June 2017"
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join Us",
+    "section": "",
+    "text": "We are currently searching for talented and motivated individuals to join our team. Below are the open positions.\n\nPostdoctoral Researchers\n1. Postdoc in Population Genetics, Genomics, and Bioinformatics\nWe are looking for a postdoctoral researcher with expertise in population genetics, quantitative genetics, computational biology, or functional genomics. The candidate will work on projects involving sequence alignment, simulations, and statistical modeling. If you have a background in physics, mathematics, or data science and are passionate about evolutionary genomics, we encourage you to apply.\n2. Postdoc in Molecular Biology and Cell Physiology\nWe are seeking a postdoctoral researcher with a strong background in molecular biology, cell culture, and animal physiology. The project focuses on understanding gut barrier loss during aging in killifish, utilizing techniques such as microscopy, cytometry, and genome editing.\n\n\nPhD Student\nPhD in Experimental Evolution\nWe are looking for a PhD student to work on aging in microbes using experimental evolution. The project will involve cytometry, genomics, statistical genetics, and modeling. A background in biology, physics, bioinformatics, or a related field is preferred.\n\n\nMaster Students\nWe are always open to applications from ambitious, hard-working, and curious Master students. If you are interested in doing your Master thesis project with us, please contact us with your CV and a 1–2 page motivation letter in English.\n\n\n\n\nHow to apply: Contact us directly at nicole.wolf@leibniz-fli.de. Please include your CV, contacts for at least two referees, and a 1–2 page background statement."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "We are a team of international scientists working to answer open questions in evolutionary biology of aging and microbiome research."
+  },
+  {
+    "objectID": "people.html#senior-scientist",
+    "href": "people.html#senior-scientist",
+    "title": "People",
+    "section": "Senior Scientist",
+    "text": "Senior Scientist\n\n Kathrin Reichwald manages the Valenzano lab, from animal licences, to group coordination and support of scientific projects.\n\n\n Paulius Grigaravicius is a biophysicist with expertise in cytometry and imaging in the context of genomic instability. His work is aimed at molecular phenotyping of killifish pre-clinical models."
+  },
+  {
+    "objectID": "people.html#research-engineer",
+    "href": "people.html#research-engineer",
+    "title": "People",
+    "section": "Research Engineer",
+    "text": "Research Engineer\n\n Farzana Shamim-Schulze isolates and cultures our killifish-derived microbial isolates. Farzana works on the puzzling role of phages in microbes isolated from young and old killifish."
+  },
+  {
+    "objectID": "people.html#lab-technicians",
+    "href": "people.html#lab-technicians",
+    "title": "People",
+    "section": "Lab Technicians",
+    "text": "Lab Technicians\n\n Ivonne Heinze is supporting projects revolving around genomics, molecular cloning, and general lab organization.\n\n\n Shaymaa Azawi is our killifish transgenic expert and helps generate killifish lines as pre-clinical models of neurodegenerative diseases, with a special focus on ALS."
+  },
+  {
+    "objectID": "people.html#guest-scientists",
+    "href": "people.html#guest-scientists",
+    "title": "People",
+    "section": "Guest Scientists",
+    "text": "Guest Scientists\n\n Allen Mavuru is a field ecologist interested in using eDNA technology to study species conservation and trace species interactions in natural habitats. Allen is currently based in the molecular field lab in the Gonarezhou National Park in Zimbabwe."
+  },
+  {
+    "objectID": "people.html#student-interns",
+    "href": "people.html#student-interns",
+    "title": "People",
+    "section": "Student Interns",
+    "text": "Student Interns\n\n Jhanya Baskaran studies the trans-generational effects of male reproductive aging in the naturally short-lived turquoise killifish."
+  },
+  {
+    "objectID": "people.html#postdocs",
+    "href": "people.html#postdocs",
+    "title": "People",
+    "section": "Postdocs",
+    "text": "Postdocs\n\n Silvia Cattelan studies male reproductive aging in turquoise killifish. Silvia is an experimental biologist performing experiments in captive killifish cohorts.\n\n\n Alina Ryabova studies immune aging in killifish. Alina is an experimental biologist using omics technologies to understand co-evolution between gut microbiome and immune system during aging.\n\n\n Flávio Costa is a microbiologist and his work unravels the interaction between the gut microbiome and aging in turquoise killifish.\n\n\n Siqi Liu is a microbiologist with a focus on microbial genomics and evolution.\n\n\n Priti Malik Devi studies the impact of infection and infectious diseases on the microbiome."
+  },
+  {
+    "objectID": "people.html#graduate-students",
+    "href": "people.html#graduate-students",
+    "title": "People",
+    "section": "Graduate Students",
+    "text": "Graduate Students\n\n Jens Seidel is interested in the interplay between immune aging and microbiome composition in killifish and mice. He develops molecular methods to study how the host immune system shapes the commensal microbiome. Jens’ work involves molecular biology, genome editing, and genomics.\n\n\n Martin Bagic develops numerical models of genome evolution, exploring how demography and ecology shape the evolution of genetic variants that cause aging across species in nature.\n\n\n Sam Kean studies how microbiota establish themselves, persist, and change in composition throughout host life. Sam’s work involves fieldwork, genomics, bioinformatics, and microbiology.\n\n\n Ruchitha Byrohalli studies how wild killifish populations adapt to their environment, exploring the role of hybridization in adaptation, speciation, and aging."
+  },
+  {
+    "objectID": "posts/2023-08-23-questions/index.html",
+    "href": "posts/2023-08-23-questions/index.html",
+    "title": "Asking questions after a seminar — a practical guide",
+    "section": "",
+    "text": "In this post I share some thoughts about the “art of asking scientific questions”.1 My goal is to share with you a rudimentary toolbox to work your way into asking questions more frequently and more effectively.\nAsking questions after a scientific presentation is very important. It is part of the dialectic of science. Questioning and discussing experiments, methods, results and interpretations is what makes science fun and so effective. Ideas bounce, conclusions are challenged, a new model emerges from the discussion. As scientists, we ought to question stuff.\nAfter I give a talk, if nobody asks a question, I feel I did not do my job well. If I invite a guest speaker and after the seminar nobody in the hosting institute asks a question, I feel I am letting down both the guest and the audience. No questions asked is a symptom that presenter and audience are out of sync.\nLet’s start from the basics. Why would I ask questions at all?\nHere are a few realistic reasons:\nI found it useful to think of “asking questions” as a specific task, which I set even before the talk starts. Let me clarify. I sometimes explicitly decide before a talk that I will have 2–3 questions written down ready to be asked (it’s OK if I do not get to ask them). I sometimes write “2” and circle it at the top of my notebook page. That number will indicate the number of questions I set myself to have at the end of the presentation. Whenever I moderate a session at a conference, host an invited speaker, or am invited to a conference, I need to have questions to stimulate the discussion and actively contribute to the scientific debate. If I am in the “I really should ask a question after this talk” mode, I will avidly take notes and write down a question as soon as something comes up during the talk. If I listen to someone’s presentation with this “asking questions” mindset, I find it much easier to come up at the end with questions, as opposed to casually thinking about possible questions only at the end of a talk. In other words, asking questions can be exercised, and I believe it is an important part of our scientific training. You can definitely practice and learn to ask questions."
+  },
+  {
+    "objectID": "posts/2023-08-23-questions/index.html#what-question-should-i-ask",
+    "href": "posts/2023-08-23-questions/index.html#what-question-should-i-ask",
+    "title": "Asking questions after a seminar — a practical guide",
+    "section": "What question should I ask?",
+    "text": "What question should I ask?\nThis seems to be a tough one.\nAs you know well by now, each talk has a rather standard structure, with only a few limited accepted variations. It starts with a title slide, then continues with the background information, the gap in knowledge, the main research question, the approach/methods, the results, the interpretation of the results, the discussion of the results in the broad context of the field, the conclusions, the future directions (sometimes), and the acknowledgments of the people, institutions and funding bodies that contributed to the project.\nThe great news is that you can ask questions that relate to pretty much all the components of the presentation, starting from the title, all the way to the acknowledgments. Here are a few examples:\nBackground: Do I agree with the provided information? Is there something that was missed that would have led to a different formulation of the question? Did I know about the background that was provided? Can the author tell more about the background information? What if some info provided as background was recently refuted or challenged? We should ask for the presenter’s opinion.\nMethods: Do I understand the methods? Can the authors explain how the methods work in more detail? I am not sure I am following. How can one go from a to b? What is 16S rRNA sequencing? How does the pipeline work? How do you correct for batch effect? Were the experiments done at the same time of the day? Were experiments done in both male and female mice? Why did the authors use killifish instead of zebrafish?\nResults: This is exciting. However, I am not sure I understand that plot. What is shown on the x axis? What is on the y axis? What does the legend indicate? What is a t-SNE plot? Did I see gene A appearing on that list? Can you tell me more about it? Did you check which paralog that was? What does that gene do?\nInterpretation: While I see that the interpretation presented is plausible, can an alternative scenario also explain the observed results? How can the presenter choose one interpretation over the other? Should they test for a, b, and c in order to be sure they got the mechanism right? Are there additional interpretations for the presented results? This is also the place to ask whether the title reflects the presented results. If it does not (sometimes that’s the case), you can ask: “You titled your talk ‘Evolutionary Ecology of Aging’, but then you talked about demography and genomics. Did I miss the part about ecology?”\nDiscussion: This is where the results are placed in the context of what is already known, and where the true novelty and relevance of the results is discussed. Often, the discussion of each result occurs in the same slide where results are shown. This is the place to compare the presented results with something that is already known, already published, or perhaps with some personal observation. Here you can ask: “If what you showed is true, does it then mean that a, b, c, are also possible?”\nFuture directions: Even here we can ask questions: can the presenter consider doing additional experiments? Should the presenter perhaps check datasets a, b, c to further test their model? Is the shown mechanism evolutionarily conserved (a rather frequent, generic, and evergreen question)? Did the authors check whether gene A is associated with any known human disease (another classic)?\nAcknowledgments: You can ask whether funding agency X, which appears in the acknowledgment slide, still funds projects related to the topic presented.\nAs you see, you can ask questions that address virtually every part of the presentation. There’s plenty of room."
+  },
+  {
+    "objectID": "posts/2023-08-23-questions/index.html#i-have-questions-but-i-am-afraid-to-raise-my-hand.",
+    "href": "posts/2023-08-23-questions/index.html#i-have-questions-but-i-am-afraid-to-raise-my-hand.",
+    "title": "Asking questions after a seminar — a practical guide",
+    "section": "I have questions — but I am afraid to raise my hand.",
+    "text": "I have questions — but I am afraid to raise my hand.\nOne thing is to have a question in mind. Another is to formulate and voice it.\nI think I do have a question, but I am wondering whether I am formulating it well enough. My suggestion here is to write down the question. Reading the question is perfectly fine.\nWhat if I am afraid to speak up? A trick that works for me to mitigate the social anxiety of being in a crowded hall is to sit in the front rows. In this way I can hear the presentation more clearly, I get less distracted, and being at the front I forget there are plenty of people behind me — so I am less nervous."
+  },
+  {
+    "objectID": "posts/2023-08-23-questions/index.html#a-few-tricks",
+    "href": "posts/2023-08-23-questions/index.html#a-few-tricks",
+    "title": "Asking questions after a seminar — a practical guide",
+    "section": "A few tricks",
+    "text": "A few tricks\nHere is a collection of tricks that might help you ask questions more often:\n\nPlan to ask two questions before the talk starts.\nWrite down questions in your notebook as you take notes during the talk.\nBreak down the notes into introduction–methods–results–discussion and search for possible questions in each of these parts. Do this during the talk, not only at the end — otherwise you will be distracted by other people’s questions.\nFrom time to time throughout the talk, try to recap mentally what the presenter is telling you. Build your model of the project you heard so far. It will help you find the information that you’re missing. Once you identify the missing part, you might have a question.\nChatGPT (I am looking at you): if the speaker is presenting a preprint, a proceedings abstract, or published work, you have the opportunity to submit the abstract and discussion to ChatGPT and ask it to formulate three questions. Pick one that you like and use it to practice asking questions. This trick is more about practicing than about generating your own question — but it can be fun to try."
+  },
+  {
+    "objectID": "posts/2023-08-23-questions/index.html#a-final-note",
+    "href": "posts/2023-08-23-questions/index.html#a-final-note",
+    "title": "Asking questions after a seminar — a practical guide",
+    "section": "A final note",
+    "text": "A final note\nEveryone asks questions in a unique way. If you pay attention, different people tend to ask the same type of question, with a rather consistent formulation. Some people are more focused on the general model (big picture), others on technical details. By practicing “asking questions”, you will find out what type of questions suit you best."
+  },
+  {
+    "objectID": "posts/2023-08-23-questions/index.html#footnotes",
+    "href": "posts/2023-08-23-questions/index.html#footnotes",
+    "title": "Asking questions after a seminar — a practical guide",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nWhat this post is NOT about is the etiquette of asking questions. I am not thinking about how to ask questions politely or professionally. Rather, I am sharing thoughts about how to come up with a list of reasonable questions and what they could be about.↩︎"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Our papers, preprints and reviews",
+    "section": "",
+    "text": "Bagic M, Šajina A, Bradshaw WJ, Valenzano DR. (2026). AEGIS: Individual-based modeling of life history evolution. PLoS Comput Biol 22(3): e1014109. https://doi.org/10.1371/journal.pcbi.1014109.\nMorabito G, Dönertas HM, Sperti L, Seidel J, Poursadegh Zonouzi A, Poeschla M, Valenzano DR. (2026). Spontaneous aging-associated inflammation and genome instability in the immune system of turquoise killifish. Nat Aging 6, 665–681. https://doi.org/10.1038/s43587-026-01086-2.\nNussey, D.H., D’Adda di Fagagna, F., Bardin, A.J., Blau, H., Brunet, A., Bulavin, D.V., Guo, L., Hara, E., Junker, J.P., Gorbunova, V., Mittelbrunn, M., Rera, M., Reznick, J., Seluanov, A., Schumacher, B., Teeling, E.C., Valenzano, D.R., Ye, J., Yun, M.H., Garinis, G.A., Gilson, E. (2026). Molecular evolution of animal aging. EMBO J. https://doi.org/10.1038/s44318-026-00725-z.\nSteiger, M., Singh, N., Tyers, A.M., Kretzmer H., Valenzano DR., Meissner A. (2026). The DNA methylation landscape of naturally short-lived killifish. Sci Rep 16, 7173. https://doi.org/10.1038/s41598-026-39352-3.\nCattelan S, Valenzano DR. (2025). Early-life reproduction predicts male lifespan in turquoise killifish (Nothobranchius furzeri). bioRxiv 2025.09.27.678976. https://doi.org/10.1101/2025.09.27.678976.\nBarth E, Baumgart M, Dolfi L, Cui R, Groth M, Ripa R, Savino A, Valenzano DR, Platzer M, Marz M, Cellerino A. (2025). Analysis of microRNA expression reveals convergent evolution of the molecular control of diapause in annual killifishes. Frontiers in Genetics 16, 1583989. https://doi.org/10.3389/fgene.2025.1583989.\nAwuor Owuor M, Seehausen O, Borokini IT, Abila R, Githiora YW, Speranza CI, Njau MG, Ngila P, Chiawo D, Valenzano DR, Alawa GN, Akite P, Gross RB, Alila DO, Agonvonon GA, Mahulu A. (2025). Ecology in Africa: historical perspectives, present state and prospects. EcoEvoRxiv. https://doi.org/10.32942/X24S7F.\nCattelan S, Valenzano DR. (2025). Age-dependent decline in sperm quality and function in a naturally short-lived vertebrate. BMC Ecol Evo 25, 2. https://doi.org/10.1186/s12862-024-02343-x.\nde Bakker DEM, Mihaljević M, Gharat K, Richter Y, van Bebber F, Adam L, Shamim-Schulze F, Ohlenschläger O, Bens M, Cirri E, Antebi A, Matić I, Schneider A, Schmid B, Kirstein J, Valenzano DR. (2024). Amyloid Beta Precursor Protein contributes to brain aging and learning decline in short-lived turquoise killifish (Nothobranchius furzeri). bioRxiv 2024.10.11.617841. https://doi.org/10.1101/2024.10.11.617841.\nMorabito G, Ryabova A & Valenzano DR. (2024). Immune aging in annual killifish. Immun Ageing 21, 18. https://doi.org/10.1186/s12979-024-00418-3.\nMorabito G, Davila Aleman FD, Valenzano DR. (2023). Assessing Age-Related Decline in Anti-Bacterial Immune Responses Using an Ex-vivo Assay in African Turquoise Killifish (Nothobranchius furzeri). bioRxiv 2023.11.24.568569. https://doi.org/10.1101/2023.11.24.568569.\nXu A, Teefy BB, Lu RJ, Nozownik S, Tyers AM, Valenzano DR, Benayoun BA. (2023). Transcriptomes of aging brain, heart, muscle, and spleen from female and male African turquoise killifish. Scientific Data 10, 695. https://doi.org/10.1038/s41597-023-02609-x.\nMonzo C, Gkioni L, Beyer A, Valenzano DR^, Gronke S^, Partridge L^. (2023). Dietary restriction mitigates the age-associated decline in mouse B cell receptor repertoire diversity. Cell Reports 42(7), 112722. https://doi.org/10.1016/j.celrep.2023.112722. ^corresponding authors\nde Bakker DEM and Valenzano DR. (2023). Turquoise killifish: a natural model of age-dependent brain degeneration. Ageing Research Reviews 90(102019). https://doi.org/10.1016/j.arr.2023.102019.\nCattelan S, Valenzano DR. (2023). Noninvasive Ejaculate Collection from the African Turquoise Killifish (Nothobranchius furzeri). Cold Spring Harbor Protocols. doi: 10.1101/pdb.prot108155.\nSeidel J, Popkes M, Valenzano DR. (2023). Taxonomic Profiling of Fecal and Intestinal Microbiota in the African Turquoise Killifish Nothobranchius furzeri. Cold Spring Harb Protoc. 2023(10):755–62. doi: 10.1101/pdb.prot107749.\nSeidel J, Bradshaw WJ, Valenzano DR. (2023). Sequencing the Immunoglobulin Heavy-Chain Locus (IgH) in Turquoise Killifish (Nothobranchius furzeri). Cold Spring Harbor Protocols. doi: 10.1101/pdb.prot107750.\nBagic M and Valenzano DR. (2022). Population size shapes the evolution of lifespan. bioRxiv 2022.12.17.520867. https://doi.org/10.1101/2022.12.17.520867.\nPromislow D, Anderson RM, Scheffer M, Crespi B, DeGregori J, Harris K, Natterson Horowitz B, Levine ME, Riolo MA, Schneider DS, Spencer SL, Valenzano DR, Hochberg ME. (2022). Resilience Integrates Concepts in Aging Research. iScience. https://doi.org/10.1016/j.isci.2022.104199.\nBradshaw WJ, Poeschla M, Placzek A, Kean S, Valenzano DR. (2022). Extensive age-dependent loss of antibody diversity in naturally short-lived turquoise killifish. eLife 2022;11:e65117. https://elifesciences.org/articles/65117.\nMeron E, Thaysen M, Angeli S, Antebi A, Barzilai N, Baur JA, Bekker-Jensen S, Birkisdottir M, Bischof E, Bruening J, Brunet A, Buchwalter A, Cabreiro F, Cai S, Chen BH, Ermolaeva M, Ewald CY, Ferrucci L, Florian MC, Fortney K, Freund A, Georgievskaya A, Gladyshev VN, Glass D, Golato T, Gorbunova V, Hoejimakers J, Houtkooper RH, Jager S, Jaksch F, Janssens G, Borch Jensen M, Kaeberlein M, Karsenty G, de Keizer P, Kennedy B, Kirkland JL, Kjaer M, Kroemer G, Lee KF, Lemaitre JM, Liaskos D, Longo VD, Lu YX, MacArthur MR, Maier AB, Manakanatas C, Mitchell SJ, Moskalev A, Niedernhofer L, Ozerov I, Partridge L, Passegué E, Petr MA, Peyer J, Radenkovic D, Rando TA, Rattan S, Riedel CG, Rudolph L, Ai R, Serrano M, Schumacher B, Sinclair DA, Smith R, Suh Y, Taub P, Trapp A, Trendelenburg AU, Valenzano DR, Verburgh K, Verdin E, Vijg J, Westendorp RGJ, Zonari A, Bakula D, Zhavoronkov A, Scheibye-Knudsen M. (2022). Meeting Report: Aging Research and Drug Discovery. Aging 14(2):530–543. https://doi.org/10.18632/aging.203859.\nKhallaf MA, Cui R, Weissflog J, Svatoš A, Dweck HKM, Valenzano DR, Hansson BS, Knaden M. (2021). Large-scale characterization of sex pheromone communication systems in Drosophila. Nat Commun 12, 4165. https://doi.org/10.1038/s41467-021-24395-z.\nCui R, Tyers AM, Malubhoy ZJ, Wisotsky S, Valdesalici S, Henriette E, Kosakovsky Pond SL, Valenzano DR. (2021). Ancestral transoceanic colonization and recent population reduction in a non-annual killifish from the Seychelles archipelago. Molecular Ecology 30(14). https://doi.org/10.1111/mec.15982.\nWillemsen D, Cui R, Reichard M, Valenzano DR. (2020). Intra-species differences in population size shape life history and genome evolution. eLife 2020;9:e55794. https://doi.org/10.7554/eLife.55794.\nMkrtchyan GV, Abdelmohsen J, Andreux P, Bagdonaite I, Barzilai N, Brunak S, Cabreiro F, de Cabo R, Campisi J, Cuervo AM, Demaria M, Ewald CY, Fei Fang E, Faragher R, Ferrucci L, Freund A, Silva-Garcia CG, Georgievskaya A, Gladyshev VN, Glass DJ, Gorbunova V, de Grey A, He WW, Hoeijmakers J, Hoffmann E, Horvath S, Houtkooper RH, Jensen MK, Borch Jensen M, Kane A, Kassem M, de Keizer P, Kennedy B, Karsenty G, Lamming DW, Lee KF, MacAulay N, Mamoshina P, Mellon J, Molenaars M, Moskalev A, Mund A, Niedernhofer L, Osborne B, Pak HH, Parkhitko A, Raimundo N, Rando TA, Rasmussen LJ, Reis C, Riedel CG, Franco-Romero A, Schumacher B, Sinclair DA, Suh Y, Taub PR, Toiber D, Treebak JT, Valenzano DR, Verdin E, Vijg J, Young S, Zhang L, Bakula D, Zhavoronkov A, Scheibye-Knudsen M. (2020). ARDD 2020: from aging mechanisms to interventions. Aging 12(24), 24484.\nPopkes M, Valenzano DR. (2020). Microbiota-host interactions shape ageing dynamics. Phil. Trans. R. Soc. B 375:20190596. http://doi.org/10.1098/rstb.2019.0596.\nCui R, Willemsen D, Valenzano DR. (2020). Nothobranchius furzeri (African Turquoise Killifish). Trends In Genetics. https://doi.org/10.1016/j.tig.2020.01.012.\nBradshaw WJ, Valenzano DR. (2020). Extreme genomic volatility characterises the evolution of the immunoglobulin heavy chain locus in cyprinodontiform fishes. Proceedings of the Royal Society B 287(1927). https://doi.org/10.1098/rspb.2020.0489.\nPoeschla M, Valenzano DR. (2020). The turquoise killifish: a genetically tractable model for the study of aging. Journal of Experimental Biology 223:jeb.209296. doi: 10.1242/jeb.209296.\nDolfi L, Ripa R, Antebi A, Valenzano DR, Cellerino A. (2019). Cell cycle dynamics during diapause entry and exit in an annual killifish revealed by FUCCI technology. EvoDevo 10(1), 1–22. https://doi.org/10.1186/s13227-019-0142-5.\nAleman F.D.D., and Valenzano DR. (2019). Microbiome evolution during host aging. PLoS Pathogens 15, e1007727.\nMetge F, Kim Y, Boucas J, Dieterich C, Valenzano DR. (2019). Circular RNAs in the ageing African turquoise killifish. bioRxiv. https://doi.org/10.1101/699694.\nCui R, Medeiros T, Willemsen D, Iasi LNM, Collier GE, Graef M, Reichard M, Valenzano DR. (2019). Relaxed Selection Limits Lifespan by Increasing Mutation Load. Cell Jul 11;178:1–15 (cover article).\nBradshaw WJ, Šajina A, Valenzano DR. (2019). AEGIS: An In Silico Tool to model Genome Evolution in Age-Structured Populations. bioRxiv. https://doi.org/10.1101/646877.\nAhuja G, Bartsch D, Yao W, Geissen S, Frank S, Aguirre A, Russ N, Messling JE, Dodzian J, Lagerborg KA, Emilse Vargas N, Muck JS, Brodesser S, Baldus S, Sachinidis A, Hescheler J, Dieterich C, Trifunovic A, Papantonis A, Petrascheck M, Klinke A, Jain M, Valenzano DR^, Kurian L^. (2019). Loss of genomic integrity induced by lysosphingolipid imbalance drives ageing in the heart. EMBO Reports e47407. https://doi.org/10.15252/embr.201847407. ^Co-last authors.\nKeesey IW, Grabe V, Gruber L, Koerte S, Obiero GF, Bolton G, Khallaf MA, Kunert G, Lavista-Llanos S, Valenzano DR, Rybak J, Barrett BA, Knaden M, Hansson BS. (2019). Inverse resource allocation between vision and olfaction across the genus Drosophila. Nature Communications 10:1162. https://doi.org/10.1038/s41467-019-09087-z.\nValenzano DR. (2018). Host-microbiota interactions during ageing. Old Herborn University Seminar Monograph 32: Ageing and the Microbiome. Old Herborn University Foundation, Herborn, Germany: 33–41.\nSeidel J, Valenzano DR. (2018). The role of the gut microbiome during host ageing. F1000Research 2018, 7(F1000 Faculty Rev):1086. doi: 10.12688/f1000research.15121.1.\nMuck J, Kean S, Valenzano DR. (2018). The short-lived African turquoise killifish (Nothobranchius furzeri): a new model system for research on ageing. In Conn’s Handbook of Models of Human Aging, 2nd Ed (May 2018). ISBN: 978-0-12-811353-0.\nDodzian J, Kean S, Seidel J, Valenzano DR. (2018). A Protocol for Laboratory Housing of Turquoise Killifish (Nothobranchius furzeri). J. Vis. Exp. (134), e57073. doi:10.3791/57073.\nSmith P, Willemsen D, Popkes M, Metge F, Gandiwa E, Reichard M, Valenzano DR. (2017). Regulation of Life Span by the Gut Microbiota in The Short-Lived African Turquoise Killifish. Elife Aug 22;6. doi: 10.775/eLife.27014.\nValenzano DR, Aboobaker A, Seluanov A, Gorbunova V. (2017). Non-canonical aging model systems and why we need them. EMBO J. DOI: 10.15252/embj.201796837.\nHarel I, Valenzano DR, Brunet A. (2016). Efficient genome engineering in the short-lived African turquoise killifish. Nature Protocols Oct;11(10):2010–2028.\nKim Y, Nam HG, Valenzano DR. (2016). The short-lived African Turquoise Killifish: an Emerging Model for Ageing. DMM Feb 3;9(2):115–129 (cover article).\nŠajina A, Valenzano DR. (2016). An In Silico Model to Simulate the Evolution of Biological Aging. [bioRxiv] [arXiv]\nValenzano DR^#, Benayoun BA^, Singh PP^, Zhang E, Etter PD, Hu CK, Clement-Ziza M, Willemsen D, Cui R, Harel I, Machado B, Yee MC, Sharp SC, Bustamante CD, Beyer A, Johnson EA, Brunet A#. (2015). The African turquoise killifish genome provides insights into evolution and genetic architecture of lifespan. Cell Dec 3;162(6):1539–1554. ^Co-first; #co-corresponding.\nReichard M, Cellerino A, Valenzano DR. (2015). Turquoise Killifish. Current Biology Aug;25(17):R741–2.\nCellerino A, Valenzano DR, Reichard M. (2015). From the bush to the bench: the annual Nothobranchius fishes as a new model system in biology. Biological Reviews. DOI: 10.1111/brv.12183.\nHarel I, Benayoun BA, Machado B, Singh PP, Hu CK, Pech MF, Valenzano DR, Zhang E, Sharp SC, Artandi SE, Brunet A. (2015). A platform for rapid exploration of aging and diseases in a naturally short-lived vertebrate. Cell Feb 26;160(5):1013–26.\n\nPublications before 2013 (selected)\nValenzano DR, Sharp S, Brunet A. (2011). Transposon-Mediated Transgenesis in the Short-Lived African Killifish Nothobranchius furzeri, a Vertebrate Model for Aging. G3 (Bethesda) Dec;1(7):531–8.\nValenzano DR^, Kirschner J^, Kamber RA, Zhang E, Weber D, Cellerino A, Englert C, Platzer M, Reichwald K, Brunet A. (2009). Mapping loci associated with tail color and sex determination in the short-lived fish Nothobranchius furzeri. Genetics Dec;183(4):1385–95. ^Co-first.\nTerzibasi E, Valenzano DR, Benedetti M, Roncaglia P, Cattaneo A, Domenici L, Cellerino A. (2008). Large differences in aging phenotype between strains of the short-lived annual fish Nothobranchius furzeri. PLoS One 3(12):e3866.\nTerzibasi E, Valenzano DR, Cellerino A. (2007). The short-lived fish Nothobranchius furzeri as a new model system for aging studies. Exp Gerontol Jan–Feb;42(1–2):81–9.\nValenzano DR, Terzibasi E, Cattaneo A, Domenici L, Cellerino A. (2006). Temperature affects longevity and age-related locomotor and cognitive decay in the short-lived fish Nothobranchius furzeri. Aging Cell Jun;5(3):275–8.\nValenzano DR, Cellerino A. (2006). Resveratrol and the pharmacology of aging: a new vertebrate model to validate an old molecule. Cell Cycle May;5(10):1027–32.\nValenzano DR, Terzibasi E, Genade T, Cattaneo A, Domenici L, Cellerino A. (2006). Resveratrol prolongs lifespan and retards the onset of age-related markers in a short-lived vertebrate. Curr Biol Feb 7;16(3):296–300.\nGenade T, Benedetti M, Terzibasi E, Roncaglia P, Valenzano DR, Cattaneo A, Cellerino A. (2005). Annual fishes of the genus Nothobranchius as a model system for aging research. Aging Cell Oct;4(5):223–33."
+  },
+  {
+    "objectID": "sliu.html",
+    "href": "sliu.html",
+    "title": "Siqi Liu",
+    "section": "",
+    "text": "Siqi Liu is a microbiologist focusing on microbial genomics and evolution. Her research explores how microorganisms adapt to environmental change and what drives their evolutionary dynamics, with a current focus on the gut microbiome of Nothobranchius furzeri and how microbial communities evolve within a single host lifespan."
+  },
+  {
+    "objectID": "sliu.html#bio",
+    "href": "sliu.html#bio",
+    "title": "Siqi Liu",
+    "section": "",
+    "text": "Siqi Liu is a microbiologist focusing on microbial genomics and evolution. Her research explores how microorganisms adapt to environmental change and what drives their evolutionary dynamics, with a current focus on the gut microbiome of Nothobranchius furzeri and how microbial communities evolve within a single host lifespan."
+  },
+  {
+    "objectID": "sliu.html#education",
+    "href": "sliu.html#education",
+    "title": "Siqi Liu",
+    "section": "Education",
+    "text": "Education\nChinese Academy of Sciences | Shanghai, China\nPh.D. in Microbiology | September 2020 – June 2025\nUniversity of Yangzhou | Yangzhou, China\nBachelor’s Degree in Animal Medicine | September 2016 – June 2020"
+  },
+  {
+    "objectID": "sliu.html#experience",
+    "href": "sliu.html#experience",
+    "title": "Siqi Liu",
+    "section": "Experience",
+    "text": "Experience\nLeibniz Institute on Aging | Postdoc | September 2025 – Present"
+  }
+]
