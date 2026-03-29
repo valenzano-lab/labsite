@@ -1,0 +1,38 @@
+---
+title: "Alina Ryabova"
+about:
+  template: trestles
+  image: files/pictures/people/Alina-Ryabova_s.jpg
+  image-alt: "Alina Ryabova"
+  links:
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.ru/citations?user=zuCiP4kAAAAJ&hl=ru
+    - icon: envelope
+      text: Email
+      href: mailto:Alina.Ryabova@leibniz-fli.de
+---
+
+## Bio
+
+Alina Ryabova is a molecular biologist studying the lifelong crosstalk between killifish immunity and the gut microbiome. Her research examines how the adaptive immune system and microbial communities co-evolve during aging, using omics technologies to connect immune senescence to changes in microbiome composition.
+
+## Education
+
+**Russian Anti-Plague Research Institute "Microbe"** | Saratov, Russia
+
+Ph.D. in Epidemiology | 2014
+
+**Saratov State University** | Saratov, Russia
+
+B.S./M.S. in Zoology | 2003 – 2009
+
+## Experience
+
+**Leibniz Institute on Aging** | Postdoc | September 2022 – Present
+
+**National Medical Research Center for Endocrinology** | Senior Researcher | 2020 – 2022
+
+**Kazan Federal University, Extreme Biology Laboratory** | Researcher | 2015 – 2020
+
+**Russian Anti-Plague Research Institute "Microbe"** | Junior Researcher | 2010 – 2015

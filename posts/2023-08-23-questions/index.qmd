@@ -1,0 +1,78 @@
+---
+title: "Asking questions after a seminar — a practical guide"
+date: 2023-08-23
+author: Dario Valenzano
+categories: [science culture, training]
+css: style.css
+---
+
+In this post I share some thoughts about the "art of asking scientific questions".[^1]
+My goal is to share with you a rudimentary toolbox to work your way into asking questions more frequently and more effectively.
+
+[^1]: What this post is NOT about is the etiquette of asking questions. I am not thinking about how to ask questions politely or professionally. Rather, I am sharing thoughts about how to come up with a list of reasonable questions and what they could be about.
+
+Asking questions after a scientific presentation is very important. It is part of the dialectic of science. Questioning and discussing experiments, methods, results and interpretations is what makes science fun and so effective. Ideas bounce, conclusions are challenged, a new model emerges from the discussion. As scientists, we ought to question stuff.
+
+After I give a talk, if nobody asks a question, I feel I did not do my job well. If I invite a guest speaker and after the seminar nobody in the hosting institute asks a question, I feel I am letting down both the guest and the audience. No questions asked is a symptom that presenter and audience are out of sync.
+
+Let's start from the basics. Why would I ask questions at all?
+
+Here are a few realistic reasons:
+
+1. I am genuinely curious to know more about what was presented.
+2. I am confused about the methods or results presented. I need more info to fully appreciate the method or the results presented.
+3. While I get the results, I am not convinced about the interpretation.
+4. I am shocked — I can't believe what I heard was true or even possible. I need to make sure I understood correctly.
+5. This is cool work. In the context of what I heard, I wonder what the presenter thinks about other recently published results.
+6. Gosh, my PI wants me to ask questions and I feel I have to show I paid attention.
+7. My colleague asks so many questions — I should do the same!
+8. (...).
+
+I found it useful to think of "asking questions" as a specific task, which I set even before the talk starts.
+Let me clarify. I sometimes explicitly decide before a talk that I will have 2–3 questions written down ready to be asked (it's OK if I do not get to ask them). I sometimes write "2" and circle it at the top of my notebook page. That number will indicate the number of questions I set myself to have at the end of the presentation. Whenever I moderate a session at a conference, host an invited speaker, or am invited to a conference, I need to have questions to stimulate the discussion and actively contribute to the scientific debate. If I am in the "I really should ask a question after this talk" mode, I will avidly take notes and write down a question as soon as something comes up during the talk. If I listen to someone's presentation with this "asking questions" mindset, I find it much easier to come up at the end with questions, as opposed to casually thinking about possible questions only at the end of a talk. In other words, asking questions can be exercised, and I believe it is an important part of our scientific training. You can definitely practice and learn to ask questions.
+
+## What question should I ask?
+
+This seems to be a tough one.
+
+As you know well by now, each talk has a rather standard structure, with only a few limited accepted variations. It starts with a title slide, then continues with the background information, the gap in knowledge, the main research question, the approach/methods, the results, the interpretation of the results, the discussion of the results in the broad context of the field, the conclusions, the future directions (sometimes), and the acknowledgments of the people, institutions and funding bodies that contributed to the project.
+
+The great news is that you can ask questions that relate to pretty much all the components of the presentation, starting from the title, all the way to the acknowledgments. Here are a few examples:
+
+_Background_: Do I agree with the provided information? Is there something that was missed that would have led to a different formulation of the question? Did I know about the background that was provided? Can the author tell more about the background information? What if some info provided as background was recently refuted or challenged? We should ask for the presenter's opinion.
+
+_Methods_: Do I understand the methods? Can the authors explain how the methods work in more detail? I am not sure I am following. How can one go from a to b? What is 16S rRNA sequencing? How does the pipeline work? How do you correct for batch effect? Were the experiments done at the same time of the day? Were experiments done in both male and female mice? Why did the authors use killifish instead of zebrafish?
+
+_Results_: This is exciting. However, I am not sure I understand that plot. What is shown on the x axis? What is on the y axis? What does the legend indicate? What is a t-SNE plot? Did I see gene A appearing on that list? Can you tell me more about it? Did you check which paralog that was? What does that gene do?
+
+_Interpretation_: While I see that the interpretation presented is plausible, can an alternative scenario also explain the observed results? How can the presenter choose one interpretation over the other? Should they test for a, b, and c in order to be sure they got the mechanism right? Are there additional interpretations for the presented results? This is also the place to ask whether the title reflects the presented results. If it does not (sometimes that's the case), you can ask: "You titled your talk 'Evolutionary Ecology of Aging', but then you talked about demography and genomics. Did I miss the part about ecology?"
+
+_Discussion_: This is where the results are placed in the context of what is already known, and where the true novelty and relevance of the results is discussed. Often, the discussion of each result occurs in the same slide where results are shown. This is the place to compare the presented results with something that is already known, already published, or perhaps with some personal observation. Here you can ask: "If what you showed is true, does it then mean that a, b, c, are also possible?"
+
+_Future directions_: Even here we can ask questions: can the presenter consider doing additional experiments? Should the presenter perhaps check datasets a, b, c to further test their model? Is the shown mechanism evolutionarily conserved (a rather frequent, generic, and evergreen question)? Did the authors check whether gene A is associated with any known human disease (another classic)?
+
+_Acknowledgments_: You can ask whether funding agency X, which appears in the acknowledgment slide, still funds projects related to the topic presented.
+
+As you see, you can ask questions that address virtually every part of the presentation. There's plenty of room.
+
+## I have questions — but I am afraid to raise my hand.
+
+One thing is to have a question in mind. Another is to formulate and voice it.
+
+I think I do have a question, but I am wondering whether I am formulating it well enough. My suggestion here is to write down the question. Reading the question is perfectly fine.
+
+What if I am afraid to speak up? A trick that works for me to mitigate the social anxiety of being in a crowded hall is to sit in the front rows. In this way I can hear the presentation more clearly, I get less distracted, and being at the front I forget there are plenty of people behind me — so I am less nervous.
+
+## A few tricks
+
+Here is a collection of tricks that might help you ask questions more often:
+
+1. Plan to ask two questions before the talk starts.
+2. Write down questions in your notebook as you take notes during the talk.
+3. Break down the notes into introduction–methods–results–discussion and search for possible questions in each of these parts. Do this during the talk, not only at the end — otherwise you will be distracted by other people's questions.
+4. From time to time throughout the talk, try to recap mentally what the presenter is telling you. Build your model of the project you heard so far. It will help you find the information that you're missing. Once you identify the missing part, you might have a question.
+5. ChatGPT (I am looking at you): if the speaker is presenting a preprint, a proceedings abstract, or published work, you have the opportunity to submit the abstract and discussion to ChatGPT and ask it to formulate three questions. Pick one that you like and use it to practice asking questions. This trick is more about practicing than about generating your own question — but it can be fun to try.
+
+## A final note
+
+Everyone asks questions in a unique way. If you pay attention, different people tend to ask the same type of question, with a rather consistent formulation. Some people are more focused on the general model (big picture), others on technical details. By practicing "asking questions", you will find out what type of questions suit you best.

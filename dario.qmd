@@ -1,0 +1,61 @@
+---
+title: "Dario Riccardo Valenzano"
+about:
+  template: trestles
+  image: files/pictures/people/DValenzano_s.bmp
+  image-alt: "Dario Riccardo Valenzano"
+  links:
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=YILt54YAAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/dario-riccardo-valenzano-84a514384/
+    - icon: github
+      text: GitHub
+      href: https://github.com/dvalenzano
+    - icon: file-pdf
+      text: CV (Feb 2026)
+      href: files/dario_CV_02-2026.pdf
+    - icon: globe
+      text: Lab Website
+      href: https://valenzano-lab.github.io/labsite/
+---
+
+## Bio
+
+I am a professor at the Friedrich Schiller University in Jena (Germany) and the Scientific Director of the Leibniz Institute on Aging (Fritz-Lipmann Institute), where I also coordinate the research focus on **Microbiome and Aging**.
+
+I am an evolutionary biologist and I study why we age. In my group we investigate how evolution shapes life history traits across species in nature. We apply an evolutionary and ecological perspective to the study of host-microbiome interactions in the context of health, disease and aging. Our work is at the confluence of evolutionary theory, ecology, genomics, and animal physiology. We employ statistical modeling, experimental biology, and field work to answer open questions and help develop interventions to improve biomedical resilience.
+
+## Education
+
+**[Scuola Normale Superiore](https://www.sns.it/en)** | Pisa, Italy
+
+Ph.D. in Neuroscience | January 2003 – April 2006
+
+**[University of Pisa](https://www.unipi.it/index.php/english)** and **[Scuola Normale Superiore](https://www.sns.it/en)** | Pisa, Italy
+
+M.Sc. in Biological Sciences | September 1996 – October 2001
+
+## Academic Appointments
+
+**[Cluster of Excellence — Balance of the Microverse](https://www.microverse-cluster.de/en/contact.html)** (FSU) | Jena, Germany
+
+Principal Investigator | since April 2023
+
+**[Friedrich Schiller University](https://www.uni-jena.de/en)** (FSU) | Jena, Germany
+
+Full Professor in Functional Host-Microbiome Interactions | since July 2021
+
+**[Leibniz Institute on Aging](https://www.leibniz-fli.de/)**, Fritz Lipmann Institute | Jena, Germany
+
+Senior Researcher | since July 2021
+
+## Teaching
+
+**[Population Genetics](https://dvalenzano.github.io/Teaching/popgen_21_03.html#1)** | May 2021, University of Cologne, Germany
+
+**Biology of Aging** | July–August 2023, MBL Summer Course, Woods Hole, USA
+
+**Evolutionary Biology of Aging** | January 2026, Friedrich Schiller University, Jena, Germany

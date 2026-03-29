@@ -1,0 +1,101 @@
+---
+title: "People"
+---
+
+![](files/pictures/daVolpedo.png)
+
+We are a team of international scientists working to answer open questions in evolutionary biology of aging and microbiome research.
+
+## Senior Scientist
+
+<figure class="person">
+<img src="files/pictures/people/KReichwald_s.jpeg" alt="Kathrin Reichwald" />
+**Kathrin Reichwald** manages the Valenzano lab, from animal licences, to group coordination and support of scientific projects.
+</figure>
+
+<figure class="person">
+<img src="files/pictures/people/PGrigaravicius_s.jpg" alt="Paulius Grigaravicius" />
+**[Paulius Grigaravicius](pgrigaravicius.qmd)** is a biophysicist with expertise in cytometry and imaging in the context of genomic instability. His work is aimed at molecular phenotyping of killifish pre-clinical models.
+</figure>
+
+## Research Engineer
+
+<figure class="person">
+<img src="files/pictures/people/FShamim-Schulze_s.jpg" alt="Farzana Shamim-Schulze" />
+**Farzana Shamim-Schulze** isolates and cultures our killifish-derived microbial isolates. Farzana works on the puzzling role of phages in microbes isolated from young and old killifish.
+</figure>
+
+## Lab Technicians
+
+<figure class="person">
+<img src="files/pictures/people/IHeinze_s.jpg" alt="Ivonne Heinze" />
+**Ivonne Heinze** is supporting projects revolving around genomics, molecular cloning, and general lab organization.
+</figure>
+
+<figure class="person">
+<img src="files/pictures/people/SAzawi_s.jpg" alt="Shaymaa Azawi" />
+**Shaymaa Azawi** is our killifish transgenic expert and helps generate killifish lines as pre-clinical models of neurodegenerative diseases, with a special focus on ALS.
+</figure>
+
+## Guest Scientists
+
+<figure class="person">
+<img src="files/pictures/people/Allen-Mavuru_s.jpg" alt="Allen Mavuru" />
+**Allen Mavuru** is a field ecologist interested in using eDNA technology to study species conservation and trace species interactions in natural habitats. Allen is currently based in the molecular field lab in the Gonarezhou National Park in Zimbabwe.
+</figure>
+
+## Student Interns
+
+<figure class="person">
+<img src="files/pictures/people/JhanyaBaskaran_s.jpg" alt="Jhanya Baskaran" />
+**Jhanya Baskaran** studies the trans-generational effects of male reproductive aging in the naturally short-lived turquoise killifish.
+</figure>
+
+## Postdocs
+
+<figure class="person">
+<img src="files/pictures/people/SCattelan_s.jpg" alt="Silvia Cattelan" />
+**[Silvia Cattelan](scattelan.qmd)** studies male reproductive aging in turquoise killifish. Silvia is an experimental biologist performing experiments in captive killifish cohorts.
+</figure>
+
+<figure class="person">
+<img src="files/pictures/people/Alina-Ryabova_s.jpg" alt="Alina Ryabova" />
+**[Alina Ryabova](aryabova.qmd)** studies immune aging in killifish. Alina is an experimental biologist using omics technologies to understand co-evolution between gut microbiome and immune system during aging.
+</figure>
+
+<figure class="person">
+<img src="files/pictures/people/FCosta_s.jpg" alt="Flavio Costa" />
+**[Flávio Costa](fcosta.qmd)** is a microbiologist and his work unravels the interaction between the gut microbiome and aging in turquoise killifish.
+</figure>
+
+<figure class="person">
+<img src="files/pictures/people/SLiu_s.jpg" alt="Siqi Liu" />
+**[Siqi Liu](sliu.qmd)** is a microbiologist with a focus on microbial genomics and evolution.
+</figure>
+
+<figure class="person">
+<img src="files/pictures/people/PDevi_s.jpg" alt="Priti Malik Devi" />
+**[Priti Malik Devi](pdevi.qmd)** studies the impact of infection and infectious diseases on the microbiome.
+</figure>
+
+## Graduate Students
+
+<figure class="person">
+<img src="files/pictures/people/JSeidel_s.jpg" alt="Jens Seidel" />
+**Jens Seidel** is interested in the interplay between immune aging and microbiome composition in killifish and mice. He develops molecular methods to study how the host immune system shapes the commensal microbiome. Jens' work involves molecular biology, genome editing, and genomics.
+</figure>
+
+<figure class="person">
+<img src="files/pictures/people/MBagic_s.jpg" alt="Martin Bagic" />
+**Martin Bagic** develops numerical models of genome evolution, exploring how demography and ecology shape the evolution of genetic variants that cause aging across species in nature.
+</figure>
+
+<figure class="person">
+<img src="files/pictures/people/SKean_s.jpeg" alt="Sam Kean" />
+**Sam Kean** studies how microbiota establish themselves, persist, and change in composition throughout host life. Sam's work involves fieldwork, genomics, bioinformatics, and microbiology.
+</figure>
+
+<figure class="person">
+<img src="files/pictures/people/RBG_s.jpg" alt="Ruchitha Byrohalli" />
+**Ruchitha Byrohalli** studies how wild killifish populations adapt to their environment, exploring the role of hybridization in adaptation, speciation, and aging.
+</figure>

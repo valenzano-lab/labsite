@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _output
+  render:
+    - "*.qmd"
+    - "posts/**/*.qmd"
+
+website:
+  title: "Valenzano Lab"
+  description: "Evolution and Ecology of Aging — FLI Jena"
+  site-url: "https://valenzano-lab.github.io/labsite/"
+  favicon: files/pictures/lablogo_notext.png
+  navbar:
+    logo: files/pictures/lablogo_notext.png
+    logo-alt: "Valenzano Lab"
+    background: "#f5f5f5"
+    foreground: "#1a2a3a"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Blog"
+        href: blog.qmd
+      - text: "Papers"
+        href: publications.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "Join Us"
+        href: join.qmd
+      - text: "Dario"
+        href: dario.qmd
+    right:
+      - icon: github
+        href: https://github.com/valenzano-lab/
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:Nicole.Wolf@leibniz-fli.de
+        aria-label: Email
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

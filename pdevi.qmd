@@ -1,0 +1,34 @@
+---
+title: "Priti Malik Devi"
+about:
+  template: trestles
+  image: files/pictures/people/PDevi_s.jpg
+  image-alt: "Priti Malik Devi"
+  links:
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=xn5DDF4AAAAJ&hl=en&oi=ao
+    - icon: envelope
+      text: Email
+      href: mailto:Priti.Devi@leibniz-fli.de
+---
+
+## Bio
+
+Priti Malik Devi is a microbiologist and genomicist working at the intersection of infectious disease, host-microbiome interactions, and functional genomics. Her research focuses on how microbial signatures and host factors — in particular antimicrobial peptides — modulate microbial community composition during aging in *Nothobranchius furzeri*.
+
+## Education
+
+**CSIR Institute of Genomics and Integrative Biology** | New Delhi, India
+
+Ph.D. in Biological Sciences | August 2020 – January 2025
+
+**Maharshi Dayanand University** | Rohtak, India
+
+Master's Degree in Genetics
+
+## Experience
+
+**Leibniz Institute on Aging** | Postdoc | January 2026 – Present
+
+**CSIR Institute of Genomics and Integrative Biology** | Project Scientist | April 2025 – December 2025

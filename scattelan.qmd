@@ -1,0 +1,37 @@
+---
+title: "Silvia Cattelan"
+about:
+  template: trestles
+  image: files/pictures/people/SCattelan_s.jpg
+  image-alt: "Silvia Cattelan"
+  links:
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.it/citations?user=3TtP1xoAAAAJ&hl=it
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/SilviaCat_telan
+    - icon: envelope
+      text: Email
+      href: mailto:Silvia.Cattelan@leibniz-fli.de
+---
+
+## Bio
+
+Silvia Cattelan is an evolutionary biologist whose interests span sexual selection and behavioural ecology. Her research in the Valenzano Lab focuses on male reproductive aging in *Nothobranchius furzeri*: how ejaculate characteristics change with age, and how advanced paternal age affects offspring fitness. She uses in vitro and behavioural experiments alongside histochemical and molecular techniques to dissect the mechanisms of male reproductive aging in killifish.
+
+## Education
+
+**University of Padova** | Padova, Italy
+
+Ph.D. in Biosciences and Biotechnologies | January 2013 – March 2016
+
+**University of Padova** | Padova, Italy
+
+Master's Degree in Evolutionary Biology | October 2010 – October 2012
+
+## Experience
+
+**Leibniz Institute on Aging** | Postdoc | September 2021 – Present
+
+**University of Padova** | Postdoc | April 2016 – April 2021

@@ -1,0 +1,31 @@
+---
+title: "Join Us"
+---
+
+<img src="files/pictures/kairos-francescosalviati.jpeg" alt="" style="float:left; width:180px; margin: 0 40px 20px 0;" />
+
+We are currently searching for talented and motivated individuals to join our team. Below are the open positions.
+
+### Postdoctoral Researchers
+
+**1. Postdoc in Population Genetics, Genomics, and Bioinformatics**
+
+We are looking for a postdoctoral researcher with expertise in population genetics, quantitative genetics, computational biology, or functional genomics. The candidate will work on projects involving sequence alignment, simulations, and statistical modeling. If you have a background in physics, mathematics, or data science and are passionate about evolutionary genomics, we encourage you to apply.
+
+**2. Postdoc in Molecular Biology and Cell Physiology**
+
+We are seeking a postdoctoral researcher with a strong background in molecular biology, cell culture, and animal physiology. The project focuses on understanding gut barrier loss during aging in killifish, utilizing techniques such as microscopy, cytometry, and genome editing.
+
+### PhD Student
+
+**PhD in Experimental Evolution**
+
+We are looking for a PhD student to work on aging in microbes using experimental evolution. The project will involve cytometry, genomics, statistical genetics, and modeling. A background in biology, physics, bioinformatics, or a related field is preferred.
+
+### Master Students
+
+We are always open to applications from ambitious, hard-working, and curious Master students. If you are interested in doing your Master thesis project with us, please [contact us](mailto:nicole.wolf@leibniz-fli.de?subject=[Master%20Thesis%20Application]%20Inquiry) with your CV and a 1–2 page motivation letter in English.
+
+<div style="clear:both;"></div>
+
+> **How to apply:** Contact us directly at [nicole.wolf\@leibniz-fli.de](mailto:nicole.wolf@leibniz-fli.de?subject=[PhD%20in%20Experimental%20Evolution]%20Application). Please include your CV, contacts for at least two referees, and a 1–2 page background statement.

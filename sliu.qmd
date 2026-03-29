@@ -1,0 +1,32 @@
+---
+title: "Siqi Liu"
+about:
+  template: trestles
+  image: files/pictures/people/SLiu_s.jpg
+  image-alt: "Siqi Liu"
+  links:
+    - icon: cloud
+      text: Bluesky
+      href: https://bsky.app/profile/siqi647.bsky.social
+    - icon: envelope
+      text: Email
+      href: mailto:Siqi.Liu@leibniz-fli.de
+---
+
+## Bio
+
+Siqi Liu is a microbiologist focusing on microbial genomics and evolution. Her research explores how microorganisms adapt to environmental change and what drives their evolutionary dynamics, with a current focus on the gut microbiome of *Nothobranchius furzeri* and how microbial communities evolve within a single host lifespan.
+
+## Education
+
+**Chinese Academy of Sciences** | Shanghai, China
+
+Ph.D. in Microbiology | September 2020 – June 2025
+
+**University of Yangzhou** | Yangzhou, China
+
+Bachelor's Degree in Animal Medicine | September 2016 – June 2020
+
+## Experience
+
+**Leibniz Institute on Aging** | Postdoc | September 2025 – Present

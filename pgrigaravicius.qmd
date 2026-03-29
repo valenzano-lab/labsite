@@ -1,0 +1,46 @@
+---
+title: "Paulius Grigaravicius"
+about:
+  template: trestles
+  image: files/pictures/people/PGrigaravicius_s.jpg
+  image-alt: "Paulius Grigaravicius"
+  links:
+    - icon: globe
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Paulius-Grigaravicius
+    - icon: envelope
+      text: Email
+      href: mailto:pgrigaravicius@leibniz-fli.de
+---
+
+## Bio
+
+Paulius Grigaravicius is a biophysicist with expertise in cytometry and imaging in the context of genomic instability. His work in the Valenzano Lab is aimed at molecular phenotyping of killifish pre-clinical models, with a particular focus on the interplay between neurodegenerative diseases and aging. He applies cutting-edge screening techniques to cells and to *Nothobranchius furzeri*, a vertebrate that offers a compressed timescale for studying accelerated aging.
+
+## Education
+
+**Friedrich Schiller University Jena** | Jena, Germany
+
+Dr. rer. nat. | 2009
+
+**Vilnius University** | Vilnius, Lithuania
+
+M.S. in Biophysics | 2003
+
+**Vilnius University** | Vilnius, Lithuania
+
+B.S. in Physics | 2001
+
+## Experience
+
+**Leibniz Institute on Aging** | Staff Scientist, Valenzano Lab | 2025 – Present
+
+**Leibniz Institute on Aging** | Staff Scientist, Ori Lab | 2023 – 2024
+
+**Leibniz Institute on Aging** | PostDoc / Staff Scientist, Wang Lab | 2015 – 2023
+
+**German Cancer Research Center (DKFZ)** | PostDoc | 2010 – 2015
+
+**Universitätsklinikum Jena** | PostDoc | 2009 – 2010
+
+**Leibniz Institute on Aging** | PhD | 2003 – 2009

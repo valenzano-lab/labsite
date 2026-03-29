@@ -1,0 +1,43 @@
+---
+title: "Flávio Costa"
+about:
+  template: trestles
+  image: files/pictures/people/FCosta_s.jpg
+  image-alt: "Flávio Costa"
+  links:
+    - icon: globe
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Flavio-Costa-3
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/fl%C3%A1vio-costa-99332a293/
+    - icon: envelope
+      text: Email
+      href: mailto:Flavio.Costa@leibniz-fli.de
+---
+
+## Bio
+
+Flávio Costa is a microbiologist focused on unraveling the interaction between the gut microbiome and aging in *Nothobranchius furzeri*. His background spans microbiomes in animals and soil, metal resistance in bacteria, and microbial genomics. At the Valenzano Lab he applies culturomics and metagenomic approaches to understand how microbial communities change across the killifish lifespan and how those changes feed back on host physiology.
+
+## Education
+
+**Friedrich Schiller University Jena** | Jena, Germany
+
+Ph.D. in Microbiology | March 2018 – October 2023
+
+**Catholic University of Brasília** | Brasília, Brazil
+
+Master's Degree in Genomic Sciences and Biotechnology | February 2014 – February 2016
+
+**Catholic University of Brasília** | Brasília, Brazil
+
+Bachelor's Degree in Biological Sciences | August 2010 – December 2013
+
+## Experience
+
+**Leibniz Institute on Aging** | Postdoc | January 2024 – Present
+
+**Friedrich Schiller University Jena / Max Planck Institute for Biogeochemistry** | PhD Researcher | March 2018 – October 2023
+
+**Catholic University of Brasília** | Scientific Staff | September 2011 – June 2017
