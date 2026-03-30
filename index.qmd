@@ -31,6 +31,8 @@ Killifish are a natural vertebrate model to study the evolutionary basis of immu
 
 ## Gut microbiome co-evolves with the aging host
 
+![](files/pictures/fish-microbiome.png){width="40%" style="float:right; margin-left:2em; margin-bottom:1em;"}
+
 The gut microbiome changes dramatically as killifish age, and those changes feed back on host health. We study how hosts select their microbial community across the lifespan, whether commensal microbes evolve within a single host generation, and how shifts in microbial composition affect systemic aging and pathology. We use microbiota transplants, culturomics, and longitudinal metagenomic sequencing to move from correlation to causation in host-microbiome interactions.
 
 ## Ecology and Evolution of killifish in nature
