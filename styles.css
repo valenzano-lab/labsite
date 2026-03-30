@@ -208,6 +208,11 @@ body:has(.quarto-about-trestles) #quarto-content main {
   padding-right: 2.5rem;
 }
 
+/* Name heading in left column: 2/3 of default h1 size */
+.quarto-about-trestles .about-entity h1 {
+  font-size: 1.33rem !important;
+}
+
 /* Photo: fill the column, no circular crop */
 .quarto-about-trestles .about-entity img,
 img.about-image {
