@@ -31,10 +31,10 @@ Killifish are a natural vertebrate model to study the evolutionary basis of immu
 
 ## Gut microbiome co-evolves with the aging host
 
-The gut microbiome changes dramatically as killifish age, and those changes feed back on host health. We study how hosts select their microbial community across the lifespan, whether commensal microbes evolve within a single host generation, and how shifts in microbial composition affect systemic aging and pathology. We use germ-free fish, microbiota transplants, culturomics, and longitudinal metagenomic sequencing to move from correlation to causation in host-microbiome interactions.
+The gut microbiome changes dramatically as killifish age, and those changes feed back on host health. We study how hosts select their microbial community across the lifespan, whether commensal microbes evolve within a single host generation, and how shifts in microbial composition affect systemic aging and pathology. We use microbiota transplants, culturomics, and longitudinal metagenomic sequencing to move from correlation to causation in host-microbiome interactions.
 
-## Ecology and Evolution of killifish in the Gonarezhou National Park
+## Ecology and Evolution of killifish in nature
 
 ![](files/pictures/fieldwork/killifish_field.gif){width="27%" style="float:right; margin-left:2em; margin-bottom:1em;"}
 
-Our primary field site is the Gonarezhou National Park in Zimbabwe, which hosts natural populations of turquoise killifish in seasonal pools that evaporate each dry season. We study how demography, ecology, and predation shape killifish evolution in the wild, sampling genetics, gut microbiota, and aging biomarkers directly from living populations. In collaboration with the Gonarezhou Conservation Trust, we conduct molecular work on site, including Nanopore sequencing directly in the field. Field observations constrain and motivate our laboratory models; laboratory findings guide what we measure next in the field.
+Our primary field site is the Gonarezhou National Park in Zimbabwe, which hosts natural populations of turquoise killifish in seasonal pools that evaporate each dry season. We study how demography, ecology, and predation shape killifish evolution in the wild, sampling genetics, gut and environmental microbiota (via eDNA), and aging biomarkers directly from living populations. In collaboration with the Gonarezhou Conservation Trust, we conduct molecular work on site, including Nanopore sequencing directly in the field.
