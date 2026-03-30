@@ -3,6 +3,7 @@ title: "Launching the new lab site"
 date: 2026-03-21
 author: Dario Valenzano
 categories: [news]
+css: style.css
 ---
 
 After several years running a Distill-based website, we have rebuilt the lab site on Quarto. The structure is cleaner, the pages render faster, and — most importantly — it is now straightforward to add a blog.
