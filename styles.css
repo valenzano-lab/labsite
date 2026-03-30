@@ -198,10 +198,10 @@ body:has(.quarto-about-trestles) #quarto-content main {
   padding-right: 4rem !important;
 }
 
-/* Left column (photo + name + links): 1/3 width */
+/* Left column (photo + name + links): 1/4 width */
 .quarto-about-trestles .about-entity {
-  flex: 0 0 33.333% !important;
-  max-width: 33.333% !important;
+  flex: 0 0 25% !important;
+  max-width: 25% !important;
   display: flex !important;
   flex-direction: column !important;
   align-items: center !important;
@@ -218,10 +218,10 @@ img.about-image {
   object-fit: cover !important;
 }
 
-/* Right column (bio): 2/3 width, justified text */
+/* Right column (bio): 3/4 width, justified text */
 .quarto-about-trestles .about-contents {
-  flex: 0 0 66.666% !important;
-  max-width: 66.666% !important;
+  flex: 0 0 75% !important;
+  max-width: 75% !important;
   font-size: 0.97rem;
   text-align: justify;
 }
