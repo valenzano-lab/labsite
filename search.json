@@ -126,11 +126,11 @@
     "text": "Evolution shapes the pace of aging\n\nLifespan varies enormously across species, even among closely related ones. We ask what evolutionary forces produce this variation. We build and test theoretical models of genome evolution in age-structured populations to understand how population size, mutation load, and selection interact to determine when and how fast species age. This framework applies across taxa: from bacteria and flies to vertebrates and humans. Our individual-based simulation platform AEGIS, now published in PLoS Computational Biology, implements these models in a species-agnostic, extensible framework for studying the evolution of life history traits."
   },
   {
-    "objectID": "index.html#immune-aging-reshapes-microbial-communities",
-    "href": "index.html#immune-aging-reshapes-microbial-communities",
+    "objectID": "index.html#killifish-as-a-model-of-vertebrate-immune-aging",
+    "href": "index.html#killifish-as-a-model-of-vertebrate-immune-aging",
     "title": "Valenzano Lab",
-    "section": "Immune aging reshapes microbial communities",
-    "text": "Immune aging reshapes microbial communities\n\nKillifish are a natural vertebrate model to study the evolutionary basis of immune aging. B cell diversity contracts sharply with age, antibody repertoires narrow, and immune progenitor cells accumulate DNA damage and reduce their repair capacity, driving systemic inflammation and microbial dysbiosis. We study how adaptive immunity evolved across killifish species, how somatic mutations accumulate in B cells over time, and how immune senescence shifts gut microbiome composition. We combine immunology, single-cell genomics, and comparative approaches to understand why immune-microbiome balance breaks down with age and how that breakdown accelerates aging. Our multi-omics atlas of killifish immune aging, KIAMO, is published in Nature Aging."
+    "section": "Killifish as a model of vertebrate immune aging",
+    "text": "Killifish as a model of vertebrate immune aging\n\nKillifish are a powerful vertebrate model for studying how immunity ages. B cell diversity contracts sharply with age, antibody repertoires narrow, and immune progenitor cells accumulate DNA damage and reduce their repair capacity, driving systemic inflammation. We study how adaptive immunity evolved across killifish species and how somatic mutations accumulate in B cells over a compressed lifespan. By combining single-cell genomics, immunology, and comparative approaches, we can dissect the cellular and molecular basis of immune senescence with a resolution not possible in longer-lived vertebrates. Our multi-omics atlas of killifish immune aging, KIAMO, is published in Nature Aging."
   },
   {
     "objectID": "index.html#gut-microbiome-co-evolves-with-the-aging-host",
