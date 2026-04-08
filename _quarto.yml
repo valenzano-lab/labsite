@@ -4,6 +4,8 @@ project:
   render:
     - "*.qmd"
     - "posts/**/*.qmd"
+  resources:
+    - "files/*.pdf"
 
 website:
   title: "Valenzano Lab"
