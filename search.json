@@ -53,203 +53,49 @@
     "href": "posts/2026-03-21-welcome/index.html",
     "title": "Launching the new lab site",
     "section": "",
-    "text": "After several years running a Distill-based website, we have rebuilt the lab site on Quarto. The structure is cleaner, the pages render faster, and — most importantly — it is now straightforward to add a blog.\nWe intend to use this space for things that don’t belong in a paper but are worth sharing: field notes from Zimbabwe, preprint announcements, methods we learned the hard way, and occasional commentary on the biology. The format will be informal. Posts can be short. The goal is continuity — a record of what the lab is thinking about and working on between publications.\nThe publications and people pages have been migrated from the old site and are up to date as of today. If you notice anything missing or broken, let us know.\nThe 2026 Gonarezhou field season took place in February and was a success. Alix Tyers and Allen Mavuru joined Dario for over a week in the Gonarezhou National Park, sampling wild killifish populations at the end of the rainy season when the pools are still full, following up on the eDNA transects Allen has been running from the molecular field lab. As always, we had outstanding field support from Hasani Pardon and Dr. Bob Mandinyenya’s team at the Gonarezhou Conservation Trust. A full field report is coming."
+    "text": "After several years running a Distill-based website, we have rebuilt the lab site on Quarto. The structure is cleaner, the pages render faster, and — most importantly — it is now straightforward to add a blog.\nWe intend to use this space for things that don’t belong in a paper but are worth sharing: field notes from Zimbabwe, preprint announcements, methods we learned the hard way, and occasional commentary on the biology. The format will be informal. Posts can be short. The goal is continuity — a record of what the lab is thinking about and working on between publications.\nThe publications and people pages have been migrated from the old site and are up to date as of today. If you notice anything missing or broken, let us know."
   },
   {
-    "objectID": "pgrigaravicius.html",
-    "href": "pgrigaravicius.html",
-    "title": "Paulius Grigaravicius",
+    "objectID": "posts/2023-08-23-questions/index.html",
+    "href": "posts/2023-08-23-questions/index.html",
+    "title": "Asking questions after a seminar — a practical guide",
     "section": "",
-    "text": "Paulius Grigaravicius is a biophysicist with expertise in cytometry and imaging in the context of genomic instability. His work in the Valenzano Lab is aimed at molecular phenotyping of killifish pre-clinical models, with a particular focus on the interplay between neurodegenerative diseases and aging. He applies cutting-edge screening techniques to cells and to Nothobranchius furzeri, a vertebrate that offers a compressed timescale for studying accelerated aging."
+    "text": "In this post I share some thoughts about the “art of asking scientific questions”.1 My goal is to share with you a rudimentary toolbox to work your way into asking questions more frequently and more effectively.\nAsking questions after a scientific presentation is very important. It is part of the dialectic of science. Questioning and discussing experiments, methods, results and interpretations is what makes science fun and so effective. Ideas bounce, conclusions are challenged, a new model emerges from the discussion. As scientists, we ought to question stuff.\nAfter I give a talk, if nobody asks a question, I feel I did not do my job well. If I invite a guest speaker and after the seminar nobody in the hosting institute asks a question, I feel I am letting down both the guest and the audience. No questions asked is a symptom that presenter and audience are out of sync.\nLet’s start from the basics. Why would I ask questions at all?\nHere are a few realistic reasons:\nI found it useful to think of “asking questions” as a specific task, which I set even before the talk starts. Let me clarify. I sometimes explicitly decide before a talk that I will have 2–3 questions written down ready to be asked (it’s OK if I do not get to ask them). I sometimes write “2” and circle it at the top of my notebook page. That number will indicate the number of questions I set myself to have at the end of the presentation. Whenever I moderate a session at a conference, host an invited speaker, or am invited to a conference, I need to have questions to stimulate the discussion and actively contribute to the scientific debate. If I am in the “I really should ask a question after this talk” mode, I will avidly take notes and write down a question as soon as something comes up during the talk. If I listen to someone’s presentation with this “asking questions” mindset, I find it much easier to come up at the end with questions, as opposed to casually thinking about possible questions only at the end of a talk. In other words, asking questions can be exercised, and I believe it is an important part of our scientific training. You can definitely practice and learn to ask questions."
   },
   {
-    "objectID": "pgrigaravicius.html#bio",
-    "href": "pgrigaravicius.html#bio",
-    "title": "Paulius Grigaravicius",
-    "section": "",
-    "text": "Paulius Grigaravicius is a biophysicist with expertise in cytometry and imaging in the context of genomic instability. His work in the Valenzano Lab is aimed at molecular phenotyping of killifish pre-clinical models, with a particular focus on the interplay between neurodegenerative diseases and aging. He applies cutting-edge screening techniques to cells and to Nothobranchius furzeri, a vertebrate that offers a compressed timescale for studying accelerated aging."
+    "objectID": "posts/2023-08-23-questions/index.html#what-question-should-i-ask",
+    "href": "posts/2023-08-23-questions/index.html#what-question-should-i-ask",
+    "title": "Asking questions after a seminar — a practical guide",
+    "section": "What question should I ask?",
+    "text": "What question should I ask?\nThis seems to be a tough one.\nAs you know well by now, each talk has a rather standard structure, with only a few limited accepted variations. It starts with a title slide, then continues with the background information, the gap in knowledge, the main research question, the approach/methods, the results, the interpretation of the results, the discussion of the results in the broad context of the field, the conclusions, the future directions (sometimes), and the acknowledgments of the people, institutions and funding bodies that contributed to the project.\nThe great news is that you can ask questions that relate to pretty much all the components of the presentation, starting from the title, all the way to the acknowledgments. Here are a few examples:\nBackground: Do I agree with the provided information? Is there something that was missed that would have led to a different formulation of the question? Did I know about the background that was provided? Can the author tell more about the background information? What if some info provided as background was recently refuted or challenged? We should ask for the presenter’s opinion.\nMethods: Do I understand the methods? Can the authors explain how the methods work in more detail? I am not sure I am following. How can one go from a to b? What is 16S rRNA sequencing? How does the pipeline work? How do you correct for batch effect? Were the experiments done at the same time of the day? Were experiments done in both male and female mice? Why did the authors use killifish instead of zebrafish?\nResults: This is exciting. However, I am not sure I understand that plot. What is shown on the x axis? What is on the y axis? What does the legend indicate? What is a t-SNE plot? Did I see gene A appearing on that list? Can you tell me more about it? Did you check which paralog that was? What does that gene do?\nInterpretation: While I see that the interpretation presented is plausible, can an alternative scenario also explain the observed results? How can the presenter choose one interpretation over the other? Should they test for a, b, and c in order to be sure they got the mechanism right? Are there additional interpretations for the presented results? This is also the place to ask whether the title reflects the presented results. If it does not (sometimes that’s the case), you can ask: “You titled your talk ‘Evolutionary Ecology of Aging’, but then you talked about demography and genomics. Did I miss the part about ecology?”\nDiscussion: This is where the results are placed in the context of what is already known, and where the true novelty and relevance of the results is discussed. Often, the discussion of each result occurs in the same slide where results are shown. This is the place to compare the presented results with something that is already known, already published, or perhaps with some personal observation. Here you can ask: “If what you showed is true, does it then mean that a, b, c, are also possible?”\nFuture directions: Even here we can ask questions: can the presenter consider doing additional experiments? Should the presenter perhaps check datasets a, b, c to further test their model? Is the shown mechanism evolutionarily conserved (a rather frequent, generic, and evergreen question)? Did the authors check whether gene A is associated with any known human disease (another classic)?\nAcknowledgments: You can ask whether funding agency X, which appears in the acknowledgment slide, still funds projects related to the topic presented.\nAs you see, you can ask questions that address virtually every part of the presentation. There’s plenty of room."
   },
   {
-    "objectID": "pgrigaravicius.html#education",
-    "href": "pgrigaravicius.html#education",
-    "title": "Paulius Grigaravicius",
-    "section": "Education",
-    "text": "Education\nFriedrich Schiller University Jena | Jena, Germany\nDr. rer. nat. | 2009\nVilnius University | Vilnius, Lithuania\nM.S. in Biophysics | 2003\nVilnius University | Vilnius, Lithuania\nB.S. in Physics | 2001"
+    "objectID": "posts/2023-08-23-questions/index.html#i-have-questions-but-i-am-afraid-to-raise-my-hand.",
+    "href": "posts/2023-08-23-questions/index.html#i-have-questions-but-i-am-afraid-to-raise-my-hand.",
+    "title": "Asking questions after a seminar — a practical guide",
+    "section": "I have questions — but I am afraid to raise my hand.",
+    "text": "I have questions — but I am afraid to raise my hand.\nOne thing is to have a question in mind. Another is to formulate and voice it.\nI think I do have a question, but I am wondering whether I am formulating it well enough. My suggestion here is to write down the question. Reading the question is perfectly fine.\nWhat if I am afraid to speak up? A trick that works for me to mitigate the social anxiety of being in a crowded hall is to sit in the front rows. In this way I can hear the presentation more clearly, I get less distracted, and being at the front I forget there are plenty of people behind me — so I am less nervous."
   },
   {
-    "objectID": "pgrigaravicius.html#experience",
-    "href": "pgrigaravicius.html#experience",
-    "title": "Paulius Grigaravicius",
-    "section": "Experience",
-    "text": "Experience\nLeibniz Institute on Aging | Staff Scientist, Valenzano Lab | 2025 – Present\nLeibniz Institute on Aging | Staff Scientist, Ori Lab | 2023 – 2024\nLeibniz Institute on Aging | PostDoc / Staff Scientist, Wang Lab | 2015 – 2023\nGerman Cancer Research Center (DKFZ) | PostDoc | 2010 – 2015\nUniversitätsklinikum Jena | PostDoc | 2009 – 2010\nLeibniz Institute on Aging | PhD | 2003 – 2009"
+    "objectID": "posts/2023-08-23-questions/index.html#a-few-tricks",
+    "href": "posts/2023-08-23-questions/index.html#a-few-tricks",
+    "title": "Asking questions after a seminar — a practical guide",
+    "section": "A few tricks",
+    "text": "A few tricks\nHere is a collection of tricks that might help you ask questions more often:\n\nPlan to ask two questions before the talk starts.\nWrite down questions in your notebook as you take notes during the talk.\nBreak down the notes into introduction–methods–results–discussion and search for possible questions in each of these parts. Do this during the talk, not only at the end — otherwise you will be distracted by other people’s questions.\nFrom time to time throughout the talk, try to recap mentally what the presenter is telling you. Build your model of the project you heard so far. It will help you find the information that you’re missing. Once you identify the missing part, you might have a question.\nChatGPT (I am looking at you): if the speaker is presenting a preprint, a proceedings abstract, or published work, you have the opportunity to submit the abstract and discussion to ChatGPT and ask it to formulate three questions. Pick one that you like and use it to practice asking questions. This trick is more about practicing than about generating your own question — but it can be fun to try."
   },
   {
-    "objectID": "pdevi.html",
-    "href": "pdevi.html",
-    "title": "Priti Malik Devi",
-    "section": "",
-    "text": "Priti Malik Devi is a microbiologist and genomicist working at the intersection of infectious disease, host-microbiome interactions, and functional genomics. Her research focuses on how microbial signatures and host factors — in particular antimicrobial peptides — modulate microbial community composition during aging in Nothobranchius furzeri."
+    "objectID": "posts/2023-08-23-questions/index.html#a-final-note",
+    "href": "posts/2023-08-23-questions/index.html#a-final-note",
+    "title": "Asking questions after a seminar — a practical guide",
+    "section": "A final note",
+    "text": "A final note\nEveryone asks questions in a unique way. If you pay attention, different people tend to ask the same type of question, with a rather consistent formulation. Some people are more focused on the general model (big picture), others on technical details. By practicing “asking questions”, you will find out what type of questions suit you best."
   },
   {
-    "objectID": "pdevi.html#bio",
-    "href": "pdevi.html#bio",
-    "title": "Priti Malik Devi",
-    "section": "",
-    "text": "Priti Malik Devi is a microbiologist and genomicist working at the intersection of infectious disease, host-microbiome interactions, and functional genomics. Her research focuses on how microbial signatures and host factors — in particular antimicrobial peptides — modulate microbial community composition during aging in Nothobranchius furzeri."
-  },
-  {
-    "objectID": "pdevi.html#education",
-    "href": "pdevi.html#education",
-    "title": "Priti Malik Devi",
-    "section": "Education",
-    "text": "Education\nCSIR Institute of Genomics and Integrative Biology | New Delhi, India\nPh.D. in Biological Sciences | August 2020 – January 2025\nMaharshi Dayanand University | Rohtak, India\nMaster’s Degree in Genetics"
-  },
-  {
-    "objectID": "pdevi.html#experience",
-    "href": "pdevi.html#experience",
-    "title": "Priti Malik Devi",
-    "section": "Experience",
-    "text": "Experience\nLeibniz Institute on Aging | Postdoc | January 2026 – Present\nCSIR Institute of Genomics and Integrative Biology | Project Scientist | April 2025 – December 2025"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Valenzano Lab",
-    "section": "",
-    "text": "We love answering open questions at the intersection of evolution, ecology, and aging.\nWe investigate how evolution shapes life history traits across species in nature, combining evolutionary theory, comparative genomics, and animal physiology to understand why and how organisms age. We apply an evolutionary and ecological perspective to host-microbiome interactions in health, disease, and aging, and we use statistical modeling, experimental biology, and fieldwork in Zimbabwe to answer open questions and develop interventions that improve biomedical resilience.\nIf you are interested in joining our lab, see the openings page."
-  },
-  {
-    "objectID": "index.html#evolution-shapes-the-pace-of-aging",
-    "href": "index.html#evolution-shapes-the-pace-of-aging",
-    "title": "Valenzano Lab",
-    "section": "Evolution shapes the pace of aging",
-    "text": "Evolution shapes the pace of aging\n\nLifespan varies enormously across species, even among closely related ones. We ask what evolutionary forces produce this variation. We build and test theoretical models of genome evolution in age-structured populations to understand how population size, mutation load, and selection interact to determine when and how fast species age. This framework applies across taxa: from bacteria and flies to vertebrates and humans. Our individual-based simulation platform AEGIS, now published in PLoS Computational Biology, implements these models in a species-agnostic, extensible framework for studying the evolution of life history traits."
-  },
-  {
-    "objectID": "index.html#killifish-as-a-model-of-vertebrate-immune-aging",
-    "href": "index.html#killifish-as-a-model-of-vertebrate-immune-aging",
-    "title": "Valenzano Lab",
-    "section": "Killifish as a model of vertebrate immune aging",
-    "text": "Killifish as a model of vertebrate immune aging\n\nKillifish are a powerful vertebrate model for studying how immunity ages. B cell diversity contracts sharply with age, antibody repertoires narrow, and immune progenitor cells accumulate DNA damage and reduce their repair capacity, driving systemic inflammation. We study how adaptive immunity evolved across killifish species and how somatic mutations accumulate in B cells over a compressed lifespan. By combining single-cell genomics, immunology, and comparative approaches, we can dissect the cellular and molecular basis of immune senescence with a resolution not possible in longer-lived vertebrates. Our multi-omics atlas of killifish immune aging, KIAMO, is published in Nature Aging."
-  },
-  {
-    "objectID": "index.html#gut-microbiome-co-evolves-with-the-aging-host",
-    "href": "index.html#gut-microbiome-co-evolves-with-the-aging-host",
-    "title": "Valenzano Lab",
-    "section": "Gut microbiome co-evolves with the aging host",
-    "text": "Gut microbiome co-evolves with the aging host\n\nThe gut microbiome changes dramatically as killifish age, and those changes feed back on host health. We study how hosts select their microbial community across the lifespan, whether commensal microbes evolve within a single host generation, and how shifts in microbial composition affect systemic aging and pathology. We use microbiota transplants, culturomics, and longitudinal metagenomic sequencing to move from correlation to causation in host-microbiome interactions."
-  },
-  {
-    "objectID": "index.html#ecology-and-evolution-of-killifish-in-nature",
-    "href": "index.html#ecology-and-evolution-of-killifish-in-nature",
-    "title": "Valenzano Lab",
-    "section": "Ecology and Evolution of killifish in nature",
-    "text": "Ecology and Evolution of killifish in nature\n\nOur primary field site is the Gonarezhou National Park in Zimbabwe, which hosts natural populations of turquoise killifish in seasonal pools that evaporate each dry season. We study how demography, ecology, and predation shape killifish evolution in the wild, sampling genetics, gut and environmental microbiota (via eDNA), and aging biomarkers directly from living populations. In collaboration with the Gonarezhou Conservation Trust, we conduct molecular work on site, including Nanopore sequencing directly in the field."
-  },
-  {
-    "objectID": "dario.html",
-    "href": "dario.html",
-    "title": "Dario Riccardo Valenzano",
-    "section": "",
-    "text": "I am a professor at the Friedrich Schiller University in Jena (Germany) and the Scientific Director of the Leibniz Institute on Aging (Fritz-Lipmann Institute), where I also coordinate the research focus on Microbiome and Aging.\nI am an evolutionary biologist and I study why we age. In my group we investigate how evolution shapes life history traits across species in nature. We apply an evolutionary and ecological perspective to the study of host-microbiome interactions in the context of health, disease and aging. Our work is at the confluence of evolutionary theory, ecology, genomics, and animal physiology. We employ statistical modeling, experimental biology, and field work to answer open questions and help develop interventions to improve biomedical resilience."
-  },
-  {
-    "objectID": "dario.html#bio",
-    "href": "dario.html#bio",
-    "title": "Dario Riccardo Valenzano",
-    "section": "",
-    "text": "I am a professor at the Friedrich Schiller University in Jena (Germany) and the Scientific Director of the Leibniz Institute on Aging (Fritz-Lipmann Institute), where I also coordinate the research focus on Microbiome and Aging.\nI am an evolutionary biologist and I study why we age. In my group we investigate how evolution shapes life history traits across species in nature. We apply an evolutionary and ecological perspective to the study of host-microbiome interactions in the context of health, disease and aging. Our work is at the confluence of evolutionary theory, ecology, genomics, and animal physiology. We employ statistical modeling, experimental biology, and field work to answer open questions and help develop interventions to improve biomedical resilience."
-  },
-  {
-    "objectID": "dario.html#education",
-    "href": "dario.html#education",
-    "title": "Dario Riccardo Valenzano",
-    "section": "Education",
-    "text": "Education\nScuola Normale Superiore | Pisa, Italy\nPh.D. in Neuroscience | January 2003 – April 2006\nUniversity of Pisa and Scuola Normale Superiore | Pisa, Italy\nM.Sc. in Biological Sciences | September 1996 – October 2001"
-  },
-  {
-    "objectID": "dario.html#academic-appointments",
-    "href": "dario.html#academic-appointments",
-    "title": "Dario Riccardo Valenzano",
-    "section": "Academic Appointments",
-    "text": "Academic Appointments\nCluster of Excellence — Balance of the Microverse (FSU) | Jena, Germany\nPrincipal Investigator | since April 2023\nFriedrich Schiller University (FSU) | Jena, Germany\nFull Professor in Functional Host-Microbiome Interactions | since July 2021\nLeibniz Institute on Aging, Fritz Lipmann Institute | Jena, Germany\nSenior Researcher | since July 2021"
-  },
-  {
-    "objectID": "dario.html#teaching",
-    "href": "dario.html#teaching",
-    "title": "Dario Riccardo Valenzano",
-    "section": "Teaching",
-    "text": "Teaching\nPopulation Genetics | May 2021, University of Cologne, Germany\nBiology of Aging | July–August 2023, MBL Summer Course, Woods Hole, USA\nEvolutionary Biology of Aging | January 2026, Friedrich Schiller University, Jena, Germany"
-  },
-  {
-    "objectID": "aryabova.html",
-    "href": "aryabova.html",
-    "title": "Alina Ryabova",
-    "section": "",
-    "text": "Alina Ryabova is a molecular biologist studying the lifelong crosstalk between killifish immunity and the gut microbiome. Her research examines how the adaptive immune system and microbial communities co-evolve during aging, using omics technologies to connect immune senescence to changes in microbiome composition."
-  },
-  {
-    "objectID": "aryabova.html#bio",
-    "href": "aryabova.html#bio",
-    "title": "Alina Ryabova",
-    "section": "",
-    "text": "Alina Ryabova is a molecular biologist studying the lifelong crosstalk between killifish immunity and the gut microbiome. Her research examines how the adaptive immune system and microbial communities co-evolve during aging, using omics technologies to connect immune senescence to changes in microbiome composition."
-  },
-  {
-    "objectID": "aryabova.html#education",
-    "href": "aryabova.html#education",
-    "title": "Alina Ryabova",
-    "section": "Education",
-    "text": "Education\nRussian Anti-Plague Research Institute “Microbe” | Saratov, Russia\nPh.D. in Epidemiology | 2014\nSaratov State University | Saratov, Russia\nB.S./M.S. in Zoology | 2003 – 2009"
-  },
-  {
-    "objectID": "aryabova.html#experience",
-    "href": "aryabova.html#experience",
-    "title": "Alina Ryabova",
-    "section": "Experience",
-    "text": "Experience\nLeibniz Institute on Aging | Postdoc | September 2022 – Present\nNational Medical Research Center for Endocrinology | Senior Researcher | 2020 – 2022\nKazan Federal University, Extreme Biology Laboratory | Researcher | 2015 – 2020\nRussian Anti-Plague Research Institute “Microbe” | Junior Researcher | 2010 – 2015"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Lab Blog",
-    "section": "",
-    "text": "Launching the new lab site\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 21, 2026\n\n\nDario Valenzano\n\n\n\n\n\n\n\n\n\n\n\n\nAsking questions after a seminar — a practical guide\n\n\n\n\n\n\nscience culture\n\n\ntraining\n\n\n\n\n\n\n\n\n\nAug 23, 2023\n\n\nDario Valenzano\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "fcosta.html",
-    "href": "fcosta.html",
-    "title": "Flávio Costa",
-    "section": "",
-    "text": "Flávio Costa is a microbiologist focused on unraveling the interaction between the gut microbiome and aging in Nothobranchius furzeri. His background spans microbiomes in animals and soil, metal resistance in bacteria, and microbial genomics. At the Valenzano Lab he applies culturomics and metagenomic approaches to understand how microbial communities change across the killifish lifespan and how those changes feed back on host physiology."
-  },
-  {
-    "objectID": "fcosta.html#bio",
-    "href": "fcosta.html#bio",
-    "title": "Flávio Costa",
-    "section": "",
-    "text": "Flávio Costa is a microbiologist focused on unraveling the interaction between the gut microbiome and aging in Nothobranchius furzeri. His background spans microbiomes in animals and soil, metal resistance in bacteria, and microbial genomics. At the Valenzano Lab he applies culturomics and metagenomic approaches to understand how microbial communities change across the killifish lifespan and how those changes feed back on host physiology."
-  },
-  {
-    "objectID": "fcosta.html#education",
-    "href": "fcosta.html#education",
-    "title": "Flávio Costa",
-    "section": "Education",
-    "text": "Education\nFriedrich Schiller University Jena | Jena, Germany\nPh.D. in Microbiology | March 2018 – October 2023\nCatholic University of Brasília | Brasília, Brazil\nMaster’s Degree in Genomic Sciences and Biotechnology | February 2014 – February 2016\nCatholic University of Brasília | Brasília, Brazil\nBachelor’s Degree in Biological Sciences | August 2010 – December 2013"
-  },
-  {
-    "objectID": "fcosta.html#experience",
-    "href": "fcosta.html#experience",
-    "title": "Flávio Costa",
-    "section": "Experience",
-    "text": "Experience\nLeibniz Institute on Aging | Postdoc | January 2024 – Present\nFriedrich Schiller University Jena / Max Planck Institute for Biogeochemistry | PhD Researcher | March 2018 – October 2023\nCatholic University of Brasília | Scientific Staff | September 2011 – June 2017"
-  },
-  {
-    "objectID": "join.html",
-    "href": "join.html",
-    "title": "Join Us",
-    "section": "",
-    "text": "We are currently searching for talented and motivated individuals to join our team. Below are the open positions.\n\nPostdoctoral Researchers\n1. Postdoc in Population Genetics, Genomics, and Bioinformatics\nWe are looking for a postdoctoral researcher with expertise in population genetics, quantitative genetics, computational biology, or functional genomics. The candidate will work on projects involving sequence alignment, simulations, and statistical modeling. If you have a background in physics, mathematics, or data science and are passionate about evolutionary genomics, we encourage you to apply.\n2. Postdoc in Molecular Biology and Cell Physiology\nWe are seeking a postdoctoral researcher with a strong background in molecular biology, cell culture, and animal physiology. The project focuses on understanding gut barrier loss during aging in killifish, utilizing techniques such as microscopy, cytometry, and genome editing.\n\n\nPhD Student\nPhD in Experimental Evolution\nWe are looking for a PhD student to work on aging in microbes using experimental evolution. The project will involve cytometry, genomics, statistical genetics, and modeling. A background in biology, physics, bioinformatics, or a related field is preferred.\n\n\nMaster Students\nWe are always open to applications from ambitious, hard-working, and curious Master students. If you are interested in doing your Master thesis project with us, please contact us with your CV and a 1–2 page motivation letter in English.\n\n\n\n\nHow to apply: Contact us directly at nicole.wolf@leibniz-fli.de. Please include your CV, contacts for at least two referees, and a 1–2 page background statement."
+    "objectID": "posts/2023-08-23-questions/index.html#footnotes",
+    "href": "posts/2023-08-23-questions/index.html#footnotes",
+    "title": "Asking questions after a seminar — a practical guide",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nWhat this post is NOT about is the etiquette of asking questions. I am not thinking about how to ask questions politely or professionally. Rather, I am sharing thoughts about how to come up with a list of reasonable questions and what they could be about.↩︎"
   },
   {
     "objectID": "people.html",
@@ -308,46 +154,249 @@
     "text": "Graduate Students\n\n Jens Seidel is interested in the interplay between immune aging and microbiome composition in killifish and mice. He develops molecular methods to study how the host immune system shapes the commensal microbiome. Jens’ work involves molecular biology, genome editing, and genomics.\n\n\n Martin Bagic develops numerical models of genome evolution, exploring how demography and ecology shape the evolution of genetic variants that cause aging across species in nature.\n\n\n Sam Kean studies how microbiota establish themselves, persist, and change in composition throughout host life. Sam’s work involves fieldwork, genomics, bioinformatics, and microbiology.\n\n\n Ruchitha Byrohalli studies how wild killifish populations adapt to their environment, exploring the role of hybridization in adaptation, speciation, and aging."
   },
   {
-    "objectID": "posts/2023-08-23-questions/index.html",
-    "href": "posts/2023-08-23-questions/index.html",
-    "title": "Asking questions after a seminar — a practical guide",
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join Us",
     "section": "",
-    "text": "In this post I share some thoughts about the “art of asking scientific questions”.1 My goal is to share with you a rudimentary toolbox to work your way into asking questions more frequently and more effectively.\nAsking questions after a scientific presentation is very important. It is part of the dialectic of science. Questioning and discussing experiments, methods, results and interpretations is what makes science fun and so effective. Ideas bounce, conclusions are challenged, a new model emerges from the discussion. As scientists, we ought to question stuff.\nAfter I give a talk, if nobody asks a question, I feel I did not do my job well. If I invite a guest speaker and after the seminar nobody in the hosting institute asks a question, I feel I am letting down both the guest and the audience. No questions asked is a symptom that presenter and audience are out of sync.\nLet’s start from the basics. Why would I ask questions at all?\nHere are a few realistic reasons:\nI found it useful to think of “asking questions” as a specific task, which I set even before the talk starts. Let me clarify. I sometimes explicitly decide before a talk that I will have 2–3 questions written down ready to be asked (it’s OK if I do not get to ask them). I sometimes write “2” and circle it at the top of my notebook page. That number will indicate the number of questions I set myself to have at the end of the presentation. Whenever I moderate a session at a conference, host an invited speaker, or am invited to a conference, I need to have questions to stimulate the discussion and actively contribute to the scientific debate. If I am in the “I really should ask a question after this talk” mode, I will avidly take notes and write down a question as soon as something comes up during the talk. If I listen to someone’s presentation with this “asking questions” mindset, I find it much easier to come up at the end with questions, as opposed to casually thinking about possible questions only at the end of a talk. In other words, asking questions can be exercised, and I believe it is an important part of our scientific training. You can definitely practice and learn to ask questions."
+    "text": "We are currently searching for talented and motivated individuals to join our team. Below are the open positions.\n\nPostdoctoral Researchers\n1. Postdoc in Population Genetics, Genomics, and Bioinformatics\nWe are looking for a postdoctoral researcher with expertise in population genetics, quantitative genetics, computational biology, or functional genomics. The candidate will work on projects involving sequence alignment, simulations, and statistical modeling. If you have a background in physics, mathematics, or data science and are passionate about evolutionary genomics, we encourage you to apply.\n2. Postdoc in Molecular Biology and Cell Physiology\nWe are seeking a postdoctoral researcher with a strong background in molecular biology, cell culture, and animal physiology. The project focuses on understanding gut barrier loss during aging in killifish, utilizing techniques such as microscopy, cytometry, and genome editing.\n\n\nPhD Student\nPhD in Experimental Evolution\nWe are looking for a PhD student to work on aging in microbes using experimental evolution. The project will involve cytometry, genomics, statistical genetics, and modeling. A background in biology, physics, bioinformatics, or a related field is preferred.\n\n\nMaster Students\nWe are always open to applications from ambitious, hard-working, and curious Master students. If you are interested in doing your Master thesis project with us, please contact us with your CV and a 1–2 page motivation letter in English.\n\n\n\n\nHow to apply: Contact us directly at nicole.wolf@leibniz-fli.de. Please include your CV, contacts for at least two referees, and a 1–2 page background statement."
   },
   {
-    "objectID": "posts/2023-08-23-questions/index.html#what-question-should-i-ask",
-    "href": "posts/2023-08-23-questions/index.html#what-question-should-i-ask",
-    "title": "Asking questions after a seminar — a practical guide",
-    "section": "What question should I ask?",
-    "text": "What question should I ask?\nThis seems to be a tough one.\nAs you know well by now, each talk has a rather standard structure, with only a few limited accepted variations. It starts with a title slide, then continues with the background information, the gap in knowledge, the main research question, the approach/methods, the results, the interpretation of the results, the discussion of the results in the broad context of the field, the conclusions, the future directions (sometimes), and the acknowledgments of the people, institutions and funding bodies that contributed to the project.\nThe great news is that you can ask questions that relate to pretty much all the components of the presentation, starting from the title, all the way to the acknowledgments. Here are a few examples:\nBackground: Do I agree with the provided information? Is there something that was missed that would have led to a different formulation of the question? Did I know about the background that was provided? Can the author tell more about the background information? What if some info provided as background was recently refuted or challenged? We should ask for the presenter’s opinion.\nMethods: Do I understand the methods? Can the authors explain how the methods work in more detail? I am not sure I am following. How can one go from a to b? What is 16S rRNA sequencing? How does the pipeline work? How do you correct for batch effect? Were the experiments done at the same time of the day? Were experiments done in both male and female mice? Why did the authors use killifish instead of zebrafish?\nResults: This is exciting. However, I am not sure I understand that plot. What is shown on the x axis? What is on the y axis? What does the legend indicate? What is a t-SNE plot? Did I see gene A appearing on that list? Can you tell me more about it? Did you check which paralog that was? What does that gene do?\nInterpretation: While I see that the interpretation presented is plausible, can an alternative scenario also explain the observed results? How can the presenter choose one interpretation over the other? Should they test for a, b, and c in order to be sure they got the mechanism right? Are there additional interpretations for the presented results? This is also the place to ask whether the title reflects the presented results. If it does not (sometimes that’s the case), you can ask: “You titled your talk ‘Evolutionary Ecology of Aging’, but then you talked about demography and genomics. Did I miss the part about ecology?”\nDiscussion: This is where the results are placed in the context of what is already known, and where the true novelty and relevance of the results is discussed. Often, the discussion of each result occurs in the same slide where results are shown. This is the place to compare the presented results with something that is already known, already published, or perhaps with some personal observation. Here you can ask: “If what you showed is true, does it then mean that a, b, c, are also possible?”\nFuture directions: Even here we can ask questions: can the presenter consider doing additional experiments? Should the presenter perhaps check datasets a, b, c to further test their model? Is the shown mechanism evolutionarily conserved (a rather frequent, generic, and evergreen question)? Did the authors check whether gene A is associated with any known human disease (another classic)?\nAcknowledgments: You can ask whether funding agency X, which appears in the acknowledgment slide, still funds projects related to the topic presented.\nAs you see, you can ask questions that address virtually every part of the presentation. There’s plenty of room."
+    "objectID": "fcosta.html",
+    "href": "fcosta.html",
+    "title": "Flávio Costa",
+    "section": "",
+    "text": "Flávio Costa is a microbiologist focused on unraveling the interaction between the gut microbiome and aging in Nothobranchius furzeri. His background spans microbiomes in animals and soil, metal resistance in bacteria, and microbial genomics. At the Valenzano Lab he applies culturomics and metagenomic approaches to understand how microbial communities change across the killifish lifespan and how those changes feed back on host physiology."
   },
   {
-    "objectID": "posts/2023-08-23-questions/index.html#i-have-questions-but-i-am-afraid-to-raise-my-hand.",
-    "href": "posts/2023-08-23-questions/index.html#i-have-questions-but-i-am-afraid-to-raise-my-hand.",
-    "title": "Asking questions after a seminar — a practical guide",
-    "section": "I have questions — but I am afraid to raise my hand.",
-    "text": "I have questions — but I am afraid to raise my hand.\nOne thing is to have a question in mind. Another is to formulate and voice it.\nI think I do have a question, but I am wondering whether I am formulating it well enough. My suggestion here is to write down the question. Reading the question is perfectly fine.\nWhat if I am afraid to speak up? A trick that works for me to mitigate the social anxiety of being in a crowded hall is to sit in the front rows. In this way I can hear the presentation more clearly, I get less distracted, and being at the front I forget there are plenty of people behind me — so I am less nervous."
+    "objectID": "fcosta.html#bio",
+    "href": "fcosta.html#bio",
+    "title": "Flávio Costa",
+    "section": "",
+    "text": "Flávio Costa is a microbiologist focused on unraveling the interaction between the gut microbiome and aging in Nothobranchius furzeri. His background spans microbiomes in animals and soil, metal resistance in bacteria, and microbial genomics. At the Valenzano Lab he applies culturomics and metagenomic approaches to understand how microbial communities change across the killifish lifespan and how those changes feed back on host physiology."
   },
   {
-    "objectID": "posts/2023-08-23-questions/index.html#a-few-tricks",
-    "href": "posts/2023-08-23-questions/index.html#a-few-tricks",
-    "title": "Asking questions after a seminar — a practical guide",
-    "section": "A few tricks",
-    "text": "A few tricks\nHere is a collection of tricks that might help you ask questions more often:\n\nPlan to ask two questions before the talk starts.\nWrite down questions in your notebook as you take notes during the talk.\nBreak down the notes into introduction–methods–results–discussion and search for possible questions in each of these parts. Do this during the talk, not only at the end — otherwise you will be distracted by other people’s questions.\nFrom time to time throughout the talk, try to recap mentally what the presenter is telling you. Build your model of the project you heard so far. It will help you find the information that you’re missing. Once you identify the missing part, you might have a question.\nChatGPT (I am looking at you): if the speaker is presenting a preprint, a proceedings abstract, or published work, you have the opportunity to submit the abstract and discussion to ChatGPT and ask it to formulate three questions. Pick one that you like and use it to practice asking questions. This trick is more about practicing than about generating your own question — but it can be fun to try."
+    "objectID": "fcosta.html#education",
+    "href": "fcosta.html#education",
+    "title": "Flávio Costa",
+    "section": "Education",
+    "text": "Education\nFriedrich Schiller University Jena | Jena, Germany\nPh.D. in Microbiology | March 2018 – October 2023\nCatholic University of Brasília | Brasília, Brazil\nMaster’s Degree in Genomic Sciences and Biotechnology | February 2014 – February 2016\nCatholic University of Brasília | Brasília, Brazil\nBachelor’s Degree in Biological Sciences | August 2010 – December 2013"
   },
   {
-    "objectID": "posts/2023-08-23-questions/index.html#a-final-note",
-    "href": "posts/2023-08-23-questions/index.html#a-final-note",
-    "title": "Asking questions after a seminar — a practical guide",
-    "section": "A final note",
-    "text": "A final note\nEveryone asks questions in a unique way. If you pay attention, different people tend to ask the same type of question, with a rather consistent formulation. Some people are more focused on the general model (big picture), others on technical details. By practicing “asking questions”, you will find out what type of questions suit you best."
+    "objectID": "fcosta.html#experience",
+    "href": "fcosta.html#experience",
+    "title": "Flávio Costa",
+    "section": "Experience",
+    "text": "Experience\nLeibniz Institute on Aging | Postdoc | January 2024 – Present\nFriedrich Schiller University Jena / Max Planck Institute for Biogeochemistry | PhD Researcher | March 2018 – October 2023\nCatholic University of Brasília | Scientific Staff | September 2011 – June 2017"
   },
   {
-    "objectID": "posts/2023-08-23-questions/index.html#footnotes",
-    "href": "posts/2023-08-23-questions/index.html#footnotes",
-    "title": "Asking questions after a seminar — a practical guide",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nWhat this post is NOT about is the etiquette of asking questions. I am not thinking about how to ask questions politely or professionally. Rather, I am sharing thoughts about how to come up with a list of reasonable questions and what they could be about.↩︎"
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Lab Blog",
+    "section": "",
+    "text": "2026 Killifish expedition in the Gonarezhou National Park\n\n\n\n\n\n\nfield-work\n\n\ngonarezhou\n\n\nkillifish\n\n\n\nA report from our latest field season in Zimbabwe: five years of longitudinal population sampling, independent field sequencing, and new conservation collaborations.\n\n\n\n\n\nMar 21, 2026\n\n\nDario Valenzano\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching the new lab site\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 21, 2026\n\n\nDario Valenzano\n\n\n\n\n\n\n\n\n\n\n\n\nAsking questions after a seminar — a practical guide\n\n\n\n\n\n\nscience culture\n\n\ntraining\n\n\n\n\n\n\n\n\n\nAug 23, 2023\n\n\nDario Valenzano\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "aryabova.html",
+    "href": "aryabova.html",
+    "title": "Alina Ryabova",
+    "section": "",
+    "text": "Alina Ryabova is a molecular biologist studying the lifelong crosstalk between killifish immunity and the gut microbiome. Her research examines how the adaptive immune system and microbial communities co-evolve during aging, using omics technologies to connect immune senescence to changes in microbiome composition."
+  },
+  {
+    "objectID": "aryabova.html#bio",
+    "href": "aryabova.html#bio",
+    "title": "Alina Ryabova",
+    "section": "",
+    "text": "Alina Ryabova is a molecular biologist studying the lifelong crosstalk between killifish immunity and the gut microbiome. Her research examines how the adaptive immune system and microbial communities co-evolve during aging, using omics technologies to connect immune senescence to changes in microbiome composition."
+  },
+  {
+    "objectID": "aryabova.html#education",
+    "href": "aryabova.html#education",
+    "title": "Alina Ryabova",
+    "section": "Education",
+    "text": "Education\nRussian Anti-Plague Research Institute “Microbe” | Saratov, Russia\nPh.D. in Epidemiology | 2014\nSaratov State University | Saratov, Russia\nB.S./M.S. in Zoology | 2003 – 2009"
+  },
+  {
+    "objectID": "aryabova.html#experience",
+    "href": "aryabova.html#experience",
+    "title": "Alina Ryabova",
+    "section": "Experience",
+    "text": "Experience\nLeibniz Institute on Aging | Postdoc | September 2022 – Present\nNational Medical Research Center for Endocrinology | Senior Researcher | 2020 – 2022\nKazan Federal University, Extreme Biology Laboratory | Researcher | 2015 – 2020\nRussian Anti-Plague Research Institute “Microbe” | Junior Researcher | 2010 – 2015"
+  },
+  {
+    "objectID": "dario.html",
+    "href": "dario.html",
+    "title": "Dario Riccardo Valenzano",
+    "section": "",
+    "text": "I am a professor at the Friedrich Schiller University in Jena (Germany) and the Scientific Director of the Leibniz Institute on Aging (Fritz-Lipmann Institute), where I also coordinate the research focus on Microbiome and Aging.\nI am an evolutionary biologist and I study why we age. In my group we investigate how evolution shapes life history traits across species in nature. We apply an evolutionary and ecological perspective to the study of host-microbiome interactions in the context of health, disease and aging. Our work is at the confluence of evolutionary theory, ecology, genomics, and animal physiology. We employ statistical modeling, experimental biology, and field work to answer open questions and help develop interventions to improve biomedical resilience."
+  },
+  {
+    "objectID": "dario.html#bio",
+    "href": "dario.html#bio",
+    "title": "Dario Riccardo Valenzano",
+    "section": "",
+    "text": "I am a professor at the Friedrich Schiller University in Jena (Germany) and the Scientific Director of the Leibniz Institute on Aging (Fritz-Lipmann Institute), where I also coordinate the research focus on Microbiome and Aging.\nI am an evolutionary biologist and I study why we age. In my group we investigate how evolution shapes life history traits across species in nature. We apply an evolutionary and ecological perspective to the study of host-microbiome interactions in the context of health, disease and aging. Our work is at the confluence of evolutionary theory, ecology, genomics, and animal physiology. We employ statistical modeling, experimental biology, and field work to answer open questions and help develop interventions to improve biomedical resilience."
+  },
+  {
+    "objectID": "dario.html#education",
+    "href": "dario.html#education",
+    "title": "Dario Riccardo Valenzano",
+    "section": "Education",
+    "text": "Education\nScuola Normale Superiore | Pisa, Italy\nPh.D. in Neuroscience | January 2003 – April 2006\nUniversity of Pisa and Scuola Normale Superiore | Pisa, Italy\nM.Sc. in Biological Sciences | September 1996 – October 2001"
+  },
+  {
+    "objectID": "dario.html#academic-appointments",
+    "href": "dario.html#academic-appointments",
+    "title": "Dario Riccardo Valenzano",
+    "section": "Academic Appointments",
+    "text": "Academic Appointments\nCluster of Excellence — Balance of the Microverse (FSU) | Jena, Germany\nPrincipal Investigator | since April 2023\nFriedrich Schiller University (FSU) | Jena, Germany\nFull Professor in Functional Host-Microbiome Interactions | since July 2021\nLeibniz Institute on Aging, Fritz Lipmann Institute | Jena, Germany\nSenior Researcher | since July 2021"
+  },
+  {
+    "objectID": "dario.html#teaching",
+    "href": "dario.html#teaching",
+    "title": "Dario Riccardo Valenzano",
+    "section": "Teaching",
+    "text": "Teaching\nPopulation Genetics | May 2021, University of Cologne, Germany\nBiology of Aging | July–August 2023, MBL Summer Course, Woods Hole, USA\nEvolutionary Biology of Aging | January 2026, Friedrich Schiller University, Jena, Germany"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Valenzano Lab",
+    "section": "",
+    "text": "We love answering open questions at the intersection of evolution, ecology, and aging.\nWe investigate how evolution shapes life history traits across species in nature, combining evolutionary theory, comparative genomics, and animal physiology to understand why and how organisms age. We apply an evolutionary and ecological perspective to host-microbiome interactions in health, disease, and aging, and we use statistical modeling, experimental biology, and fieldwork in Zimbabwe to answer open questions and develop interventions that improve biomedical resilience.\nIf you are interested in joining our lab, see the openings page."
+  },
+  {
+    "objectID": "index.html#evolution-shapes-the-pace-of-aging",
+    "href": "index.html#evolution-shapes-the-pace-of-aging",
+    "title": "Valenzano Lab",
+    "section": "Evolution shapes the pace of aging",
+    "text": "Evolution shapes the pace of aging\n\nLifespan varies enormously across species, even among closely related ones. We ask what evolutionary forces produce this variation. We build and test theoretical models of genome evolution in age-structured populations to understand how population size, mutation load, and selection interact to determine when and how fast species age. This framework applies across taxa: from bacteria and flies to vertebrates and humans. Our individual-based simulation platform AEGIS, now published in PLoS Computational Biology, implements these models in a species-agnostic, extensible framework for studying the evolution of life history traits."
+  },
+  {
+    "objectID": "index.html#killifish-as-a-model-of-vertebrate-immune-aging",
+    "href": "index.html#killifish-as-a-model-of-vertebrate-immune-aging",
+    "title": "Valenzano Lab",
+    "section": "Killifish as a model of vertebrate immune aging",
+    "text": "Killifish as a model of vertebrate immune aging\n\nKillifish are a powerful vertebrate model for studying how immunity ages. B cell diversity contracts sharply with age, antibody repertoires narrow, and immune progenitor cells accumulate DNA damage and reduce their repair capacity, driving systemic inflammation. We study how adaptive immunity evolved across killifish species and how somatic mutations accumulate in B cells over a compressed lifespan. By combining single-cell genomics, immunology, and comparative approaches, we can dissect the cellular and molecular basis of immune senescence with a resolution not possible in longer-lived vertebrates. Our multi-omics atlas of killifish immune aging, KIAMO, is published in Nature Aging."
+  },
+  {
+    "objectID": "index.html#gut-microbiome-co-evolves-with-the-aging-host",
+    "href": "index.html#gut-microbiome-co-evolves-with-the-aging-host",
+    "title": "Valenzano Lab",
+    "section": "Gut microbiome co-evolves with the aging host",
+    "text": "Gut microbiome co-evolves with the aging host\n\nThe gut microbiome changes dramatically as killifish age, and those changes feed back on host health. We study how hosts select their microbial community across the lifespan, whether commensal microbes evolve within a single host generation, and how shifts in microbial composition affect systemic aging and pathology. We use microbiota transplants, culturomics, and longitudinal metagenomic sequencing to move from correlation to causation in host-microbiome interactions."
+  },
+  {
+    "objectID": "index.html#ecology-and-evolution-of-killifish-in-nature",
+    "href": "index.html#ecology-and-evolution-of-killifish-in-nature",
+    "title": "Valenzano Lab",
+    "section": "Ecology and Evolution of killifish in nature",
+    "text": "Ecology and Evolution of killifish in nature\n\nOur primary field site is the Gonarezhou National Park in Zimbabwe, which hosts natural populations of turquoise killifish in seasonal pools that evaporate each dry season. We study how demography, ecology, and predation shape killifish evolution in the wild, sampling genetics, gut and environmental microbiota (via eDNA), and aging biomarkers directly from living populations. In collaboration with the Gonarezhou Conservation Trust, we conduct molecular work on site, including Nanopore sequencing directly in the field."
+  },
+  {
+    "objectID": "pdevi.html",
+    "href": "pdevi.html",
+    "title": "Priti Malik Devi",
+    "section": "",
+    "text": "Priti Malik Devi is a microbiologist and genomicist working at the intersection of infectious disease, host-microbiome interactions, and functional genomics. Her research focuses on how microbial signatures and host factors — in particular antimicrobial peptides — modulate microbial community composition during aging in Nothobranchius furzeri."
+  },
+  {
+    "objectID": "pdevi.html#bio",
+    "href": "pdevi.html#bio",
+    "title": "Priti Malik Devi",
+    "section": "",
+    "text": "Priti Malik Devi is a microbiologist and genomicist working at the intersection of infectious disease, host-microbiome interactions, and functional genomics. Her research focuses on how microbial signatures and host factors — in particular antimicrobial peptides — modulate microbial community composition during aging in Nothobranchius furzeri."
+  },
+  {
+    "objectID": "pdevi.html#education",
+    "href": "pdevi.html#education",
+    "title": "Priti Malik Devi",
+    "section": "Education",
+    "text": "Education\nCSIR Institute of Genomics and Integrative Biology | New Delhi, India\nPh.D. in Biological Sciences | August 2020 – January 2025\nMaharshi Dayanand University | Rohtak, India\nMaster’s Degree in Genetics"
+  },
+  {
+    "objectID": "pdevi.html#experience",
+    "href": "pdevi.html#experience",
+    "title": "Priti Malik Devi",
+    "section": "Experience",
+    "text": "Experience\nLeibniz Institute on Aging | Postdoc | January 2026 – Present\nCSIR Institute of Genomics and Integrative Biology | Project Scientist | April 2025 – December 2025"
+  },
+  {
+    "objectID": "pgrigaravicius.html",
+    "href": "pgrigaravicius.html",
+    "title": "Paulius Grigaravicius",
+    "section": "",
+    "text": "Paulius Grigaravicius is a biophysicist with expertise in cytometry and imaging in the context of genomic instability. His work in the Valenzano Lab is aimed at molecular phenotyping of killifish pre-clinical models, with a particular focus on the interplay between neurodegenerative diseases and aging. He applies cutting-edge screening techniques to cells and to Nothobranchius furzeri, a vertebrate that offers a compressed timescale for studying accelerated aging."
+  },
+  {
+    "objectID": "pgrigaravicius.html#bio",
+    "href": "pgrigaravicius.html#bio",
+    "title": "Paulius Grigaravicius",
+    "section": "",
+    "text": "Paulius Grigaravicius is a biophysicist with expertise in cytometry and imaging in the context of genomic instability. His work in the Valenzano Lab is aimed at molecular phenotyping of killifish pre-clinical models, with a particular focus on the interplay between neurodegenerative diseases and aging. He applies cutting-edge screening techniques to cells and to Nothobranchius furzeri, a vertebrate that offers a compressed timescale for studying accelerated aging."
+  },
+  {
+    "objectID": "pgrigaravicius.html#education",
+    "href": "pgrigaravicius.html#education",
+    "title": "Paulius Grigaravicius",
+    "section": "Education",
+    "text": "Education\nFriedrich Schiller University Jena | Jena, Germany\nDr. rer. nat. | 2009\nVilnius University | Vilnius, Lithuania\nM.S. in Biophysics | 2003\nVilnius University | Vilnius, Lithuania\nB.S. in Physics | 2001"
+  },
+  {
+    "objectID": "pgrigaravicius.html#experience",
+    "href": "pgrigaravicius.html#experience",
+    "title": "Paulius Grigaravicius",
+    "section": "Experience",
+    "text": "Experience\nLeibniz Institute on Aging | Staff Scientist, Valenzano Lab | 2025 – Present\nLeibniz Institute on Aging | Staff Scientist, Ori Lab | 2023 – 2024\nLeibniz Institute on Aging | PostDoc / Staff Scientist, Wang Lab | 2015 – 2023\nGerman Cancer Research Center (DKFZ) | PostDoc | 2010 – 2015\nUniversitätsklinikum Jena | PostDoc | 2009 – 2010\nLeibniz Institute on Aging | PhD | 2003 – 2009"
+  },
+  {
+    "objectID": "posts/2026-03-21-gonarezhou-2026/index.html",
+    "href": "posts/2026-03-21-gonarezhou-2026/index.html",
+    "title": "2026 Killifish expedition in the Gonarezhou National Park",
+    "section": "",
+    "text": "February 2026 brought us back to the Gonarezhou National Park, Zimbabwe, for another field season. Alix Tyers and Allen Mavuru joined me for over a week of sampling at the end of the rainy season, when the seasonal waterholes are still full and wild Nothobranchius furzeri populations are at their most accessible. This year’s exceptional rainfall, consistent with a La Niña season that has kept southern Africa wet well into March, meant pools were deep and fish were abundant."
+  },
+  {
+    "objectID": "posts/2026-03-21-gonarezhou-2026/index.html#five-years-of-longitudinal-sampling",
+    "href": "posts/2026-03-21-gonarezhou-2026/index.html#five-years-of-longitudinal-sampling",
+    "title": "2026 Killifish expedition in the Gonarezhou National Park",
+    "section": "Five years of longitudinal sampling",
+    "text": "Five years of longitudinal sampling\nWe have been working in the Gonarezhou since 2013, initially mapping the distribution of killifish across the park. Over time, the focus has sharpened: for the past five years, we have been sampling two specific populations longitudinally, returning to the same waterholes each year to track genetic diversity, demographic change, and habitat conditions. The primary goal of every expedition is to collect fish for this eDNA and population genomics dataset. The time series is becoming genuinely instructive, and we look forward to sharing the findings with the community once Nagoya Protocol clearance is in place."
+  },
+  {
+    "objectID": "posts/2026-03-21-gonarezhou-2026/index.html#independent-field-sequencing",
+    "href": "posts/2026-03-21-gonarezhou-2026/index.html#independent-field-sequencing",
+    "title": "2026 Killifish expedition in the Gonarezhou National Park",
+    "section": "Independent field sequencing",
+    "text": "Independent field sequencing\nIn past expeditions, Sam Kean has been the indispensable driving force behind Nanopore sequencing at the Chipinda Pools molecular field laboratory. This year, for the first time, Allen, Alix, and I ran the sequencing independently. It worked. The salt-based DNA extraction protocol we have developed — no phenol-chloroform-isoamyl alcohol — proved reliable and robust under field conditions. As a proof of principle, we sequenced draft genomes for four plant species central to the lowveld ecosystem: Mopane, Tamboti, Combretum, and Baobab. Our lab is now self-sufficient for field sequencing, and this opens the door to a much broader program of molecular field ecology across the park."
+  },
+  {
+    "objectID": "posts/2026-03-21-gonarezhou-2026/index.html#nagoya-protocol-benefit-sharing",
+    "href": "posts/2026-03-21-gonarezhou-2026/index.html#nagoya-protocol-benefit-sharing",
+    "title": "2026 Killifish expedition in the Gonarezhou National Park",
+    "section": "Nagoya Protocol benefit sharing",
+    "text": "Nagoya Protocol benefit sharing\nWe made substantial progress on the regulatory requirements for benefit sharing under the Nagoya Protocol, which governs access to genetic resources and the fair distribution of benefits with provider countries. Getting this right is a prerequisite for responsible long-term research in Zimbabwe and has been a sustained priority for the collaboration."
+  },
+  {
+    "objectID": "posts/2026-03-21-gonarezhou-2026/index.html#black-rhino-gut-microbiome",
+    "href": "posts/2026-03-21-gonarezhou-2026/index.html#black-rhino-gut-microbiome",
+    "title": "2026 Killifish expedition in the Gonarezhou National Park",
+    "section": "Black rhino gut microbiome",
+    "text": "Black rhino gut microbiome\nOne of the highlights of the expedition was a discussion with Sarah Clegg of the Malilangwe Trust about a new project on the gut microbiome of black rhinos. This is a budding collaboration, and a natural application of the molecular capacity we have built in the field: the same tools we use to study killifish can now be turned toward conservation-critical megafauna. We are eager to extend this further — the African elephant is an obvious next candidate. Aging is at the core of all of this: the black rhino population is also a compelling test case for understanding how demographic constraints shape aging in wild species. This is a direction the lab is increasingly moving toward, asking how lifespan and aging vary across populations subject to very different ecological pressures."
+  },
+  {
+    "objectID": "posts/2026-03-21-gonarezhou-2026/index.html#the-team",
+    "href": "posts/2026-03-21-gonarezhou-2026/index.html#the-team",
+    "title": "2026 Killifish expedition in the Gonarezhou National Park",
+    "section": "The team",
+    "text": "The team\nNone of this work is possible without the research team at the Gonarezhou Conservation Trust. Dr. Bob Mandinyenya leads the GCT research program and has been a key scientific partner since the beginning. Hasani Pardon, research ranger, combines ecological knowledge of the park with deep familiarity with the killifish populations we monitor. Julius Shimbane is a ranger with encyclopedic expertise in herbaceous plants and a deep understanding of the ecology of the Gonarezhou — knowledge that no amount of laboratory training can substitute. Julius and I share a passion for maps and cartography. During the 2025 expedition, Julius arrived one morning with an old hand-drawn map of the area and a solution to a long-standing puzzle: the physical location of Sazale Pan, the place where Nothobranchius furzeri was first collected in 1969. The answer, made possible by Andrew Wilkinson, a road engineer working in the park, confirmed what we had long suspected: Sazale is what is today known as Malugwe. The pan is marked in red on the map below.\n\n\n\nSazale Pan marked on a historical hand-drawn map of the Gonarezhou. Nothobranchius furzeri was first collected here in 1969. Sazale is the historical name for what is today known as Malugwe.\n\n\nWe are grateful to work alongside such remarkable experts, and to keep learning from their experience. We are grateful to ZimParks for continued support and permitting.\nThe killifish and waterhole ecology project is a purely academic collaboration between our lab, the Gonarezhou Conservation Trust, and the University of Zimbabwe, where James Machingura leads the partnership on the Zimbabwean side.\nA personal note: Alix Tyers was lab manager at the Valenzano Lab during our years at the MPI for Biology of Ageing in Cologne. It has been a genuine pleasure to have her back in the team. Alix is a true expert in field work, and I look forward to collaborating with her again in future expeditions."
+  },
+  {
+    "objectID": "posts/2026-03-21-gonarezhou-2026/index.html#molecular-ecology-in-the-field",
+    "href": "posts/2026-03-21-gonarezhou-2026/index.html#molecular-ecology-in-the-field",
+    "title": "2026 Killifish expedition in the Gonarezhou National Park",
+    "section": "Molecular ecology in the field",
+    "text": "Molecular ecology in the field\nMore than a decade of fieldwork in the Gonarezhou has demonstrated that molecular field ecology is practical, scalable, and valuable. eDNA sampling and on-site sequencing are no longer aspirational: they work, reliably, in a remote national park in southern Africa. The same approach that lets us track killifish populations can serve biodiversity biomonitoring, conservation genomics, and ecological questions across the park’s full species inventory. We intend to keep building on it."
   },
   {
     "objectID": "publications.html",
