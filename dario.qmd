@@ -20,6 +20,9 @@ about:
     - icon: globe
       text: Lab Website
       href: https://valenzano-lab.github.io/labsite/
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/dvalenzano.bsky.social
 ---
 
 ## Bio
