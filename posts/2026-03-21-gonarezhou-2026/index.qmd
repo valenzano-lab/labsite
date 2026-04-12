@@ -1,0 +1,41 @@
+---
+title: "2026 Killifish expedition in the Gonarezhou National Park"
+date: 2026-03-21
+author: Dario Valenzano
+categories: [field-work, gonarezhou, killifish]
+description: "A report from our latest field season in Zimbabwe: five years of longitudinal population sampling, independent field sequencing, and new conservation collaborations."
+---
+
+February 2026 brought us back to the Gonarezhou National Park, Zimbabwe, for another field season. Alix Tyers and Allen Mavuru joined me for over a week of sampling at the end of the rainy season, when the seasonal waterholes are still full and wild *Nothobranchius furzeri* populations are at their most accessible. This year's exceptional rainfall, consistent with a La Niña season that has kept southern Africa wet well into March, meant pools were deep and fish were abundant.
+
+## Five years of longitudinal sampling
+
+We have been working in the Gonarezhou since 2013, initially mapping the distribution of killifish across the park. Over time, the focus has sharpened: for the past five years, we have been sampling two specific populations longitudinally, returning to the same waterholes each year to track genetic diversity, demographic change, and habitat conditions. The primary goal of every expedition is to collect fish for this eDNA and population genomics dataset. The time series is becoming genuinely instructive, and we look forward to sharing the findings with the community once Nagoya Protocol clearance is in place.
+
+## Independent field sequencing
+
+In past expeditions, Sam Kean has been the indispensable driving force behind Nanopore sequencing at the Chipinda Pools molecular field laboratory. This year, for the first time, Allen, Alix, and I ran the sequencing independently. It worked. The salt-based DNA extraction protocol we have developed — no phenol-chloroform-isoamyl alcohol — proved reliable and robust under field conditions. As a proof of principle, we sequenced draft genomes for four plant species central to the lowveld ecosystem: Mopane, Tamboti, Combretum, and Baobab. Our lab is now self-sufficient for field sequencing, and this opens the door to a much broader program of molecular field ecology across the park.
+
+## Nagoya Protocol benefit sharing
+
+We made substantial progress on the regulatory requirements for benefit sharing under the [Nagoya Protocol](https://nagoyaprotocol-hub.de/), which governs access to genetic resources and the fair distribution of benefits with provider countries. Getting this right is a prerequisite for responsible long-term research in Zimbabwe and has been a sustained priority for the collaboration.
+
+## Black rhino gut microbiome
+
+One of the highlights of the expedition was a discussion with Sarah Clegg of the Malilangwe Trust about a new project on the gut microbiome of black rhinos. This is a budding collaboration, and a natural application of the molecular capacity we have built in the field: the same tools we use to study killifish can now be turned toward conservation-critical megafauna. We are eager to extend this further — the African elephant is an obvious next candidate. Aging is at the core of all of this: the black rhino population is also a compelling test case for understanding how demographic constraints shape aging in wild species. This is a direction the lab is increasingly moving toward, asking how lifespan and aging vary across populations subject to very different ecological pressures.
+
+## The team
+
+None of this work is possible without the research team at the Gonarezhou Conservation Trust. Dr. Bob Mandinyenya leads the GCT research program and has been a key scientific partner since the beginning. Hasani Pardon, research ranger, combines ecological knowledge of the park with deep familiarity with the killifish populations we monitor. Julius Shimbane is a ranger with encyclopedic expertise in herbaceous plants and a deep understanding of the ecology of the Gonarezhou — knowledge that no amount of laboratory training can substitute. Julius and I share a passion for maps and cartography. During the 2025 expedition, Julius arrived one morning with an old hand-drawn map of the area and a solution to a long-standing puzzle: the physical location of Sazale Pan, the place where *Nothobranchius furzeri* was first collected in 1969. The answer, made possible by Andrew Wilkinson, a road engineer working in the park, confirmed what we had long suspected: Sazale is what is today known as Malugwe. The pan is marked in red on the map below.
+
+![Sazale Pan marked on a historical hand-drawn map of the Gonarezhou. *Nothobranchius furzeri* was first collected here in 1969. Sazale is the historical name for what is today known as Malugwe.](../../files/pictures/fieldwork/sazale.png){width=66% style="float: right; margin-left: 1.5em; margin-bottom: 1em;"}
+
+We are grateful to work alongside such remarkable experts, and to keep learning from their experience. We are grateful to ZimParks for continued support and permitting.
+
+The killifish and waterhole ecology project is a purely academic collaboration between our lab, the Gonarezhou Conservation Trust, and the University of Zimbabwe, where James Machingura leads the partnership on the Zimbabwean side.
+
+A personal note: Alix Tyers was lab manager at the Valenzano Lab during our years at the MPI for Biology of Ageing in Cologne. It has been a genuine pleasure to have her back in the team. Alix is a true expert in field work, and I look forward to collaborating with her again in future expeditions.
+
+## Molecular ecology in the field
+
+More than a decade of fieldwork in the Gonarezhou has demonstrated that molecular field ecology is practical, scalable, and valuable. eDNA sampling and on-site sequencing are no longer aspirational: they work, reliably, in a remote national park in southern Africa. The same approach that lets us track killifish populations can serve biodiversity biomonitoring, conservation genomics, and ecological questions across the park's full species inventory. We intend to keep building on it.
