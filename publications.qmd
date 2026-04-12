@@ -8,6 +8,8 @@ title: "Our papers, preprints and reviews"
 
 <div class="publications-list">
 
+Sandhi S, Somers H, Cox M, Nobrega C, Seaman R, Bakers E, Letchner O, Reeve R, Menard R, Godwin J, Paulmann A, Rogers A, Valenzano DR, Graber J, Haller H, Madelaine R. (2026). Sexually dimorphic response to dietary restriction-induced longevity and muscle rejuvenation in *Nothobranchius furzeri*. *bioRxiv* 2026.02.09.704879. <https://doi.org/10.64898/2026.02.09.704879>.
+
 Bagic M, Šajina A, Bradshaw WJ, Valenzano DR. (2026). AEGIS: Individual-based modeling of life history evolution. *PLoS Comput Biol* 22(3): e1014109. <https://doi.org/10.1371/journal.pcbi.1014109>.
 
 Morabito G, Dönertas HM, Sperti L, Seidel J, Poursadegh Zonouzi A, Poeschla M, Valenzano DR. (2026). Spontaneous aging-associated inflammation and genome instability in the immune system of turquoise killifish. *Nat Aging* 6, 665–681. <https://doi.org/10.1038/s43587-026-01086-2>.
