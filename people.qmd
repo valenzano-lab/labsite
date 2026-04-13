@@ -37,20 +37,6 @@ We are a team of international scientists working to answer open questions in ev
 **Shaymaa Azawi** is our killifish transgenic expert and helps generate killifish lines as pre-clinical models of neurodegenerative diseases, with a special focus on ALS.
 </figure>
 
-## Guest Scientists
-
-<figure class="person">
-<img src="files/pictures/people/Allen-Mavuru_s.jpg" alt="Allen Mavuru" />
-**Allen Mavuru** is a field ecologist interested in using eDNA technology to study species conservation and trace species interactions in natural habitats. Allen is currently based in the molecular field lab in the Gonarezhou National Park in Zimbabwe.
-</figure>
-
-## Student Interns
-
-<figure class="person">
-<img src="files/pictures/people/JhanyaBaskaran_s.jpg" alt="Jhanya Baskaran" />
-**Jhanya Baskaran** studies the trans-generational effects of male reproductive aging in the naturally short-lived turquoise killifish.
-</figure>
-
 ## Postdocs
 
 <figure class="person">
