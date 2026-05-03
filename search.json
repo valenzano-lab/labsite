@@ -130,7 +130,7 @@
     "href": "people.html#postdocs",
     "title": "People",
     "section": "Postdocs",
-    "text": "Postdocs\n\n Silvia Cattelan studies male reproductive aging in turquoise killifish. Silvia is an experimental biologist performing experiments in captive killifish cohorts.\n\n\n Alina Ryabova studies immune aging in killifish. Alina is an experimental biologist using omics technologies to understand co-evolution between gut microbiome and immune system during aging.\n\n\n Flávio Costa is a microbiologist and his work unravels the interaction between the gut microbiome and aging in turquoise killifish.\n\n\n Siqi Liu is a microbiologist with a focus on microbial genomics and evolution.\n\n\n Priti Malik Devi studies the impact of infection and infectious diseases on the microbiome."
+    "text": "Postdocs\n\n Silvia Cattelan studies male reproductive aging in turquoise killifish. Silvia is an experimental biologist performing experiments in captive killifish cohorts.\n\n\n Alina Ryabova studies immune aging in killifish. Alina is an experimental biologist using omics technologies to understand co-evolution between gut microbiome and immune system during aging.\n\n\n Flávio Costa is a microbiologist and his work unravels the interaction between the gut microbiome and aging in turquoise killifish.\n\n\n Siqi Liu is a microbiologist with a focus on microbial genomics and evolution.\n\n\n Priti Malik Devi studies the impact of infection and infectious diseases on the microbiome.\n\n\n Kanstantsin Siniuk is a molecular biologist with a medical background, interested in how DNA damage repair interacts with transcription and metabolism in the pathophysiology of aging and age-related rare familial syndromes, like amyotrophic lateral sclerosis (ALS)."
   },
   {
     "objectID": "people.html#graduate-students",
@@ -140,74 +140,67 @@
     "text": "Graduate Students\n\n Jens Seidel is interested in the interplay between immune aging and microbiome composition in killifish and mice. He develops molecular methods to study how the host immune system shapes the commensal microbiome. Jens’ work involves molecular biology, genome editing, and genomics.\n\n\n Martin Bagic develops numerical models of genome evolution, exploring how demography and ecology shape the evolution of genetic variants that cause aging across species in nature.\n\n\n Sam Kean studies how microbiota establish themselves, persist, and change in composition throughout host life. Sam’s work involves fieldwork, genomics, bioinformatics, and microbiology.\n\n\n Ruchitha Byrohalli studies how wild killifish populations adapt to their environment, exploring the role of hybridization in adaptation, speciation, and aging."
   },
   {
-    "objectID": "join.html",
-    "href": "join.html",
-    "title": "Join Us",
+    "objectID": "ksiniuk.html",
+    "href": "ksiniuk.html",
+    "title": "Kanstantsin Siniuk",
     "section": "",
-    "text": "We are currently searching for talented and motivated individuals to join our team. Below are the open positions.\n\nPostdoctoral Researchers\n1. Postdoc in Population Genetics, Genomics, and Bioinformatics\nWe are looking for a postdoctoral researcher with expertise in population genetics, quantitative genetics, computational biology, or functional genomics. The candidate will work on projects involving sequence alignment, simulations, and statistical modeling. If you have a background in physics, mathematics, or data science and are passionate about evolutionary genomics, we encourage you to apply.\n2. Postdoc in Molecular Biology and Cell Physiology\nWe are seeking a postdoctoral researcher with a strong background in molecular biology, cell culture, and animal physiology. The project focuses on understanding gut barrier loss during aging in killifish, utilizing techniques such as microscopy, cytometry, and genome editing.\n\n\nPhD Student\nPhD in Experimental Evolution\nWe are looking for a PhD student to work on aging in microbes using experimental evolution. The project will involve cytometry, genomics, statistical genetics, and modeling. A background in biology, physics, bioinformatics, or a related field is preferred.\n\n\nMaster Students\nWe are always open to applications from ambitious, hard-working, and curious Master students. If you are interested in doing your Master thesis project with us, please contact us with your CV and a 1–2 page motivation letter in English.\n\n\n\n\nHow to apply: Contact us directly at nicole.wolf@leibniz-fli.de. Please include your CV, contacts for at least two referees, and a 1–2 page background statement."
+    "text": "Kanstantsin Siniuk is a molecular biologist with a medical background and practical expertise in microscopy, automated image analysis, CRISPR/Cas genome editing and molecular evolution. He is interested in understanding how DNA damage repair interacts with transcription and metabolism in the context of cancer development, aging and rare familial syndromes, like amyotrophic lateral sclerosis (ALS). In the Valenzano Lab he uses CRISPR/Cas9 genome editing to generate a novel model of ALS in order to dissect how DNA repeat expansion drives ALS pathology."
   },
   {
-    "objectID": "fcosta.html",
-    "href": "fcosta.html",
-    "title": "Flávio Costa",
+    "objectID": "ksiniuk.html#bio",
+    "href": "ksiniuk.html#bio",
+    "title": "Kanstantsin Siniuk",
     "section": "",
-    "text": "Flávio Costa is a microbiologist focused on unraveling the interaction between the gut microbiome and aging in Nothobranchius furzeri. His background spans microbiomes in animals and soil, metal resistance in bacteria, and microbial genomics. At the Valenzano Lab he applies culturomics and metagenomic approaches to understand how microbial communities change across the killifish lifespan and how those changes feed back on host physiology."
+    "text": "Kanstantsin Siniuk is a molecular biologist with a medical background and practical expertise in microscopy, automated image analysis, CRISPR/Cas genome editing and molecular evolution. He is interested in understanding how DNA damage repair interacts with transcription and metabolism in the context of cancer development, aging and rare familial syndromes, like amyotrophic lateral sclerosis (ALS). In the Valenzano Lab he uses CRISPR/Cas9 genome editing to generate a novel model of ALS in order to dissect how DNA repeat expansion drives ALS pathology."
   },
   {
-    "objectID": "fcosta.html#bio",
-    "href": "fcosta.html#bio",
-    "title": "Flávio Costa",
-    "section": "",
-    "text": "Flávio Costa is a microbiologist focused on unraveling the interaction between the gut microbiome and aging in Nothobranchius furzeri. His background spans microbiomes in animals and soil, metal resistance in bacteria, and microbial genomics. At the Valenzano Lab he applies culturomics and metagenomic approaches to understand how microbial communities change across the killifish lifespan and how those changes feed back on host physiology."
-  },
-  {
-    "objectID": "fcosta.html#education",
-    "href": "fcosta.html#education",
-    "title": "Flávio Costa",
+    "objectID": "ksiniuk.html#education",
+    "href": "ksiniuk.html#education",
+    "title": "Kanstantsin Siniuk",
     "section": "Education",
-    "text": "Education\nFriedrich Schiller University Jena | Jena, Germany\nPh.D. in Microbiology | March 2018 – October 2023\nCatholic University of Brasília | Brasília, Brazil\nMaster’s Degree in Genomic Sciences and Biotechnology | February 2014 – February 2016\nCatholic University of Brasília | Brasília, Brazil\nBachelor’s Degree in Biological Sciences | August 2010 – December 2013"
+    "text": "Education\nFriedrich Schiller University Jena | Jena, Germany\nPh.D. in Cellular Biology | 2015 – 2021\nFriedrich Schiller University Jena | Jena, Germany\nM.Sc. in Molecular Medicine | 2014 – 2015\nBelarusian State Medical University | Minsk, Belarus\nMD in Preventive Medicine and Epidemiology | 2007 – 2013"
   },
   {
-    "objectID": "fcosta.html#experience",
-    "href": "fcosta.html#experience",
-    "title": "Flávio Costa",
+    "objectID": "ksiniuk.html#experience",
+    "href": "ksiniuk.html#experience",
+    "title": "Kanstantsin Siniuk",
     "section": "Experience",
-    "text": "Experience\nLeibniz Institute on Aging | Postdoc | January 2024 – Present\nFriedrich Schiller University Jena / Max Planck Institute for Biogeochemistry | PhD Researcher | March 2018 – October 2023\nCatholic University of Brasília | Scientific Staff | September 2011 – June 2017"
+    "text": "Experience\nLeibniz Institute on Aging | Postdoc, Valenzano Group | 2026 – Present\nLeibniz Institute on Aging | Postdoc, Hoffmann Group | 2023 – 2025\nLeibniz Institute on Aging | Postdoc, Pospiech Group | 2020 – 2023\nLeibniz Institute on Aging | Researcher, Wang Group | 2014 – 2020\nBelarusian Republican Center for Epidemiology and Microbiology | Full-time Researcher, Titov Group | 2013 – 2014\nBelarusian Republican Center for Epidemiology and Microbiology | Part-time Researcher, Titov Group | 2010 – 2013"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Lab Blog",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Valenzano Lab",
     "section": "",
-    "text": "2026 Killifish expedition in the Gonarezhou National Park\n\n\n\n\n\n\nfield-work\n\n\ngonarezhou\n\n\nkillifish\n\n\n\nA report from our latest field season in Zimbabwe: five years of longitudinal population sampling, independent field sequencing, and new conservation collaborations.\n\n\n\n\n\nMar 21, 2026\n\n\nDario Valenzano\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching the new lab site\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 21, 2026\n\n\nDario Valenzano\n\n\n\n\n\n\n\n\n\n\n\n\nAsking questions after a seminar — a practical guide\n\n\n\n\n\n\nscience culture\n\n\ntraining\n\n\n\n\n\n\n\n\n\nAug 23, 2023\n\n\nDario Valenzano\n\n\n\n\n\n\nNo matching items"
+    "text": "We love answering open questions at the intersection of evolution, ecology, and aging.\nWe investigate how evolution shapes life history traits across species in nature, combining evolutionary theory, comparative genomics, and animal physiology to understand why and how organisms age. We apply an evolutionary and ecological perspective to host-microbiome interactions in health, disease, and aging, and we use statistical modeling, experimental biology, and fieldwork in Zimbabwe to answer open questions and develop interventions that improve biomedical resilience.\nIf you are interested in joining our lab, see the openings page."
   },
   {
-    "objectID": "aryabova.html",
-    "href": "aryabova.html",
-    "title": "Alina Ryabova",
-    "section": "",
-    "text": "Alina Ryabova is a molecular biologist studying the lifelong crosstalk between killifish immunity and the gut microbiome. Her research examines how the adaptive immune system and microbial communities co-evolve during aging, using omics technologies to connect immune senescence to changes in microbiome composition."
+    "objectID": "index.html#evolution-shapes-the-pace-of-aging",
+    "href": "index.html#evolution-shapes-the-pace-of-aging",
+    "title": "Valenzano Lab",
+    "section": "Evolution shapes the pace of aging",
+    "text": "Evolution shapes the pace of aging\n\nLifespan varies enormously across species, even among closely related ones. We ask what evolutionary forces produce this variation. We build and test theoretical models of genome evolution in age-structured populations to understand how population size, mutation load, and selection interact to determine when and how fast species age. This framework applies across taxa: from bacteria and flies to vertebrates and humans. Our individual-based simulation platform AEGIS, now published in PLoS Computational Biology, implements these models in a species-agnostic, extensible framework for studying the evolution of life history traits."
   },
   {
-    "objectID": "aryabova.html#bio",
-    "href": "aryabova.html#bio",
-    "title": "Alina Ryabova",
-    "section": "",
-    "text": "Alina Ryabova is a molecular biologist studying the lifelong crosstalk between killifish immunity and the gut microbiome. Her research examines how the adaptive immune system and microbial communities co-evolve during aging, using omics technologies to connect immune senescence to changes in microbiome composition."
+    "objectID": "index.html#killifish-as-a-model-of-vertebrate-immune-aging",
+    "href": "index.html#killifish-as-a-model-of-vertebrate-immune-aging",
+    "title": "Valenzano Lab",
+    "section": "Killifish as a model of vertebrate immune aging",
+    "text": "Killifish as a model of vertebrate immune aging\n\nKillifish are a powerful vertebrate model for studying how immunity ages. B cell diversity contracts sharply with age, antibody repertoires narrow, and immune progenitor cells accumulate DNA damage and reduce their repair capacity, driving systemic inflammation. We study how adaptive immunity evolved across killifish species and how somatic mutations accumulate in B cells over a compressed lifespan. By combining single-cell genomics, immunology, and comparative approaches, we can dissect the cellular and molecular basis of immune senescence with a resolution not possible in longer-lived vertebrates. Our multi-omics atlas of killifish immune aging, KIAMO, is published in Nature Aging."
   },
   {
-    "objectID": "aryabova.html#education",
-    "href": "aryabova.html#education",
-    "title": "Alina Ryabova",
-    "section": "Education",
-    "text": "Education\nRussian Anti-Plague Research Institute “Microbe” | Saratov, Russia\nPh.D. in Epidemiology | 2014\nSaratov State University | Saratov, Russia\nB.S./M.S. in Zoology | 2003 – 2009"
+    "objectID": "index.html#gut-microbiome-co-evolves-with-the-aging-host",
+    "href": "index.html#gut-microbiome-co-evolves-with-the-aging-host",
+    "title": "Valenzano Lab",
+    "section": "Gut microbiome co-evolves with the aging host",
+    "text": "Gut microbiome co-evolves with the aging host\n\nThe gut microbiome changes dramatically as killifish age, and those changes feed back on host health. We study how hosts select their microbial community across the lifespan, whether commensal microbes evolve within a single host generation, and how shifts in microbial composition affect systemic aging and pathology. We use microbiota transplants, culturomics, and longitudinal metagenomic sequencing to move from correlation to causation in host-microbiome interactions."
   },
   {
-    "objectID": "aryabova.html#experience",
-    "href": "aryabova.html#experience",
-    "title": "Alina Ryabova",
-    "section": "Experience",
-    "text": "Experience\nLeibniz Institute on Aging | Postdoc | September 2022 – Present\nNational Medical Research Center for Endocrinology | Senior Researcher | 2020 – 2022\nKazan Federal University, Extreme Biology Laboratory | Researcher | 2015 – 2020\nRussian Anti-Plague Research Institute “Microbe” | Junior Researcher | 2010 – 2015"
+    "objectID": "index.html#ecology-and-evolution-of-killifish-in-nature",
+    "href": "index.html#ecology-and-evolution-of-killifish-in-nature",
+    "title": "Valenzano Lab",
+    "section": "Ecology and Evolution of killifish in nature",
+    "text": "Ecology and Evolution of killifish in nature\n\nOur primary field site is the Gonarezhou National Park in Zimbabwe, which hosts natural populations of turquoise killifish in seasonal pools that evaporate each dry season. We study how demography, ecology, and predation shape killifish evolution in the wild, sampling genetics, gut and environmental microbiota (via eDNA), and aging biomarkers directly from living populations. In collaboration with the Gonarezhou Conservation Trust, we conduct molecular work on site, including Nanopore sequencing directly in the field."
   },
   {
     "objectID": "dario.html",
@@ -245,39 +238,74 @@
     "text": "Teaching\nPopulation Genetics | May 2021, University of Cologne, Germany\nBiology of Aging | July–August 2023, MBL Summer Course, Woods Hole, USA\nEvolutionary Biology of Aging | January 2026, Friedrich Schiller University, Jena, Germany"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Valenzano Lab",
+    "objectID": "aryabova.html",
+    "href": "aryabova.html",
+    "title": "Alina Ryabova",
     "section": "",
-    "text": "We love answering open questions at the intersection of evolution, ecology, and aging.\nWe investigate how evolution shapes life history traits across species in nature, combining evolutionary theory, comparative genomics, and animal physiology to understand why and how organisms age. We apply an evolutionary and ecological perspective to host-microbiome interactions in health, disease, and aging, and we use statistical modeling, experimental biology, and fieldwork in Zimbabwe to answer open questions and develop interventions that improve biomedical resilience.\nIf you are interested in joining our lab, see the openings page."
+    "text": "Alina Ryabova is a molecular biologist studying the lifelong crosstalk between killifish immunity and the gut microbiome. Her research examines how the adaptive immune system and microbial communities co-evolve during aging, using omics technologies to connect immune senescence to changes in microbiome composition."
   },
   {
-    "objectID": "index.html#evolution-shapes-the-pace-of-aging",
-    "href": "index.html#evolution-shapes-the-pace-of-aging",
-    "title": "Valenzano Lab",
-    "section": "Evolution shapes the pace of aging",
-    "text": "Evolution shapes the pace of aging\n\nLifespan varies enormously across species, even among closely related ones. We ask what evolutionary forces produce this variation. We build and test theoretical models of genome evolution in age-structured populations to understand how population size, mutation load, and selection interact to determine when and how fast species age. This framework applies across taxa: from bacteria and flies to vertebrates and humans. Our individual-based simulation platform AEGIS, now published in PLoS Computational Biology, implements these models in a species-agnostic, extensible framework for studying the evolution of life history traits."
+    "objectID": "aryabova.html#bio",
+    "href": "aryabova.html#bio",
+    "title": "Alina Ryabova",
+    "section": "",
+    "text": "Alina Ryabova is a molecular biologist studying the lifelong crosstalk between killifish immunity and the gut microbiome. Her research examines how the adaptive immune system and microbial communities co-evolve during aging, using omics technologies to connect immune senescence to changes in microbiome composition."
   },
   {
-    "objectID": "index.html#killifish-as-a-model-of-vertebrate-immune-aging",
-    "href": "index.html#killifish-as-a-model-of-vertebrate-immune-aging",
-    "title": "Valenzano Lab",
-    "section": "Killifish as a model of vertebrate immune aging",
-    "text": "Killifish as a model of vertebrate immune aging\n\nKillifish are a powerful vertebrate model for studying how immunity ages. B cell diversity contracts sharply with age, antibody repertoires narrow, and immune progenitor cells accumulate DNA damage and reduce their repair capacity, driving systemic inflammation. We study how adaptive immunity evolved across killifish species and how somatic mutations accumulate in B cells over a compressed lifespan. By combining single-cell genomics, immunology, and comparative approaches, we can dissect the cellular and molecular basis of immune senescence with a resolution not possible in longer-lived vertebrates. Our multi-omics atlas of killifish immune aging, KIAMO, is published in Nature Aging."
+    "objectID": "aryabova.html#education",
+    "href": "aryabova.html#education",
+    "title": "Alina Ryabova",
+    "section": "Education",
+    "text": "Education\nRussian Anti-Plague Research Institute “Microbe” | Saratov, Russia\nPh.D. in Epidemiology | 2014\nSaratov State University | Saratov, Russia\nB.S./M.S. in Zoology | 2003 – 2009"
   },
   {
-    "objectID": "index.html#gut-microbiome-co-evolves-with-the-aging-host",
-    "href": "index.html#gut-microbiome-co-evolves-with-the-aging-host",
-    "title": "Valenzano Lab",
-    "section": "Gut microbiome co-evolves with the aging host",
-    "text": "Gut microbiome co-evolves with the aging host\n\nThe gut microbiome changes dramatically as killifish age, and those changes feed back on host health. We study how hosts select their microbial community across the lifespan, whether commensal microbes evolve within a single host generation, and how shifts in microbial composition affect systemic aging and pathology. We use microbiota transplants, culturomics, and longitudinal metagenomic sequencing to move from correlation to causation in host-microbiome interactions."
+    "objectID": "aryabova.html#experience",
+    "href": "aryabova.html#experience",
+    "title": "Alina Ryabova",
+    "section": "Experience",
+    "text": "Experience\nLeibniz Institute on Aging | Postdoc | September 2022 – Present\nNational Medical Research Center for Endocrinology | Senior Researcher | 2020 – 2022\nKazan Federal University, Extreme Biology Laboratory | Researcher | 2015 – 2020\nRussian Anti-Plague Research Institute “Microbe” | Junior Researcher | 2010 – 2015"
   },
   {
-    "objectID": "index.html#ecology-and-evolution-of-killifish-in-nature",
-    "href": "index.html#ecology-and-evolution-of-killifish-in-nature",
-    "title": "Valenzano Lab",
-    "section": "Ecology and Evolution of killifish in nature",
-    "text": "Ecology and Evolution of killifish in nature\n\nOur primary field site is the Gonarezhou National Park in Zimbabwe, which hosts natural populations of turquoise killifish in seasonal pools that evaporate each dry season. We study how demography, ecology, and predation shape killifish evolution in the wild, sampling genetics, gut and environmental microbiota (via eDNA), and aging biomarkers directly from living populations. In collaboration with the Gonarezhou Conservation Trust, we conduct molecular work on site, including Nanopore sequencing directly in the field."
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Lab Blog",
+    "section": "",
+    "text": "2026 Killifish expedition in the Gonarezhou National Park\n\n\n\n\n\n\nfield-work\n\n\ngonarezhou\n\n\nkillifish\n\n\n\nA report from our latest field season in Zimbabwe: five years of longitudinal population sampling, independent field sequencing, and new conservation collaborations.\n\n\n\n\n\nMar 21, 2026\n\n\nDario Valenzano\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching the new lab site\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 21, 2026\n\n\nDario Valenzano\n\n\n\n\n\n\n\n\n\n\n\n\nAsking questions after a seminar — a practical guide\n\n\n\n\n\n\nscience culture\n\n\ntraining\n\n\n\n\n\n\n\n\n\nAug 23, 2023\n\n\nDario Valenzano\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "fcosta.html",
+    "href": "fcosta.html",
+    "title": "Flávio Costa",
+    "section": "",
+    "text": "Flávio Costa is a microbiologist focused on unraveling the interaction between the gut microbiome and aging in Nothobranchius furzeri. His background spans microbiomes in animals and soil, metal resistance in bacteria, and microbial genomics. At the Valenzano Lab he applies culturomics and metagenomic approaches to understand how microbial communities change across the killifish lifespan and how those changes feed back on host physiology."
+  },
+  {
+    "objectID": "fcosta.html#bio",
+    "href": "fcosta.html#bio",
+    "title": "Flávio Costa",
+    "section": "",
+    "text": "Flávio Costa is a microbiologist focused on unraveling the interaction between the gut microbiome and aging in Nothobranchius furzeri. His background spans microbiomes in animals and soil, metal resistance in bacteria, and microbial genomics. At the Valenzano Lab he applies culturomics and metagenomic approaches to understand how microbial communities change across the killifish lifespan and how those changes feed back on host physiology."
+  },
+  {
+    "objectID": "fcosta.html#education",
+    "href": "fcosta.html#education",
+    "title": "Flávio Costa",
+    "section": "Education",
+    "text": "Education\nFriedrich Schiller University Jena | Jena, Germany\nPh.D. in Microbiology | March 2018 – October 2023\nCatholic University of Brasília | Brasília, Brazil\nMaster’s Degree in Genomic Sciences and Biotechnology | February 2014 – February 2016\nCatholic University of Brasília | Brasília, Brazil\nBachelor’s Degree in Biological Sciences | August 2010 – December 2013"
+  },
+  {
+    "objectID": "fcosta.html#experience",
+    "href": "fcosta.html#experience",
+    "title": "Flávio Costa",
+    "section": "Experience",
+    "text": "Experience\nLeibniz Institute on Aging | Postdoc | January 2024 – Present\nFriedrich Schiller University Jena / Max Planck Institute for Biogeochemistry | PhD Researcher | March 2018 – October 2023\nCatholic University of Brasília | Scientific Staff | September 2011 – June 2017"
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join Us",
+    "section": "",
+    "text": "We are currently searching for talented and motivated individuals to join our team. Below are the open positions.\n\nPostdoctoral Researchers\n1. Postdoc in Population Genetics, Genomics, and Bioinformatics\nWe are looking for a postdoctoral researcher with expertise in population genetics, quantitative genetics, computational biology, or functional genomics. The candidate will work on projects involving sequence alignment, simulations, and statistical modeling. If you have a background in physics, mathematics, or data science and are passionate about evolutionary genomics, we encourage you to apply.\n2. Postdoc in Molecular Biology and Cell Physiology\nWe are seeking a postdoctoral researcher with a strong background in molecular biology, cell culture, and animal physiology. The project focuses on understanding gut barrier loss during aging in killifish, utilizing techniques such as microscopy, cytometry, and genome editing.\n\n\nPhD Student\nPhD in Experimental Evolution\nWe are looking for a PhD student to work on aging in microbes using experimental evolution. The project will involve cytometry, genomics, statistical genetics, and modeling. A background in biology, physics, bioinformatics, or a related field is preferred.\n\n\nMaster Students\nWe are always open to applications from ambitious, hard-working, and curious Master students. If you are interested in doing your Master thesis project with us, please contact us with your CV and a 1–2 page motivation letter in English.\n\n\n\n\nHow to apply: Contact us directly at nicole.wolf@leibniz-fli.de. Please include your CV, contacts for at least two referees, and a 1–2 page background statement."
   },
   {
     "objectID": "pdevi.html",
