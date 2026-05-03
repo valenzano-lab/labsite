@@ -1,0 +1,39 @@
+---
+title: "Kanstantsin Siniuk"
+about:
+  template: trestles
+  image: files/pictures/people/KSiniuk_s.jpg
+  image-alt: "Kanstantsin Siniuk"
+---
+
+## Bio
+
+Kanstantsin Siniuk is a molecular biologist with a medical background and practical expertise in microscopy, automated image analysis, CRISPR/Cas genome editing and molecular evolution. He is interested in understanding how DNA damage repair interacts with transcription and metabolism in the context of cancer development, aging and rare familial syndromes, like amyotrophic lateral sclerosis (ALS). In the Valenzano Lab he uses CRISPR/Cas9 genome editing to generate a novel model of ALS in order to dissect how DNA repeat expansion drives ALS pathology.
+
+## Education
+
+**Friedrich Schiller University Jena** | Jena, Germany
+
+Ph.D. in Cellular Biology | 2015 – 2021
+
+**Friedrich Schiller University Jena** | Jena, Germany
+
+M.Sc. in Molecular Medicine | 2014 – 2015
+
+**Belarusian State Medical University** | Minsk, Belarus
+
+MD in Preventive Medicine and Epidemiology | 2007 – 2013
+
+## Experience
+
+**Leibniz Institute on Aging** | Postdoc, Valenzano Group | 2026 – Present
+
+**Leibniz Institute on Aging** | Postdoc, Hoffmann Group | 2023 – 2025
+
+**Leibniz Institute on Aging** | Postdoc, Pospiech Group | 2020 – 2023
+
+**Leibniz Institute on Aging** | Researcher, Wang Group | 2014 – 2020
+
+**Belarusian Republican Center for Epidemiology and Microbiology** | Full-time Researcher, Titov Group | 2013 – 2014
+
+**Belarusian Republican Center for Epidemiology and Microbiology** | Part-time Researcher, Titov Group | 2010 – 2013

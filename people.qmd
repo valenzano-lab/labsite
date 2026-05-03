@@ -64,6 +64,11 @@ We are a team of international scientists working to answer open questions in ev
 **[Priti Malik Devi](pdevi.qmd)** studies the impact of infection and infectious diseases on the microbiome.
 </figure>
 
+<figure class="person">
+<img src="files/pictures/people/KSiniuk_s.jpg" alt="Kanstantsin Siniuk" />
+**[Kanstantsin Siniuk](ksiniuk.qmd)** is a molecular biologist with a medical background, interested in how DNA damage repair interacts with transcription and metabolism in the pathophysiology of aging and age-related rare familial syndromes, like amyotrophic lateral sclerosis (ALS).
+</figure>
+
 ## Graduate Students
 
 <figure class="person">
