@@ -17,6 +17,14 @@ If you are interested in joining our lab, see the [openings](join.qmd) page.
 
 ---
 
+## Immune aging shapes the microbiome
+
+![](files/pictures/PLOSBio_2026_fig1.png){width="40%" style="float:right; margin-left:2em; margin-bottom:1em;"}
+
+**May 2026.** Our new Unsolved Mystery in [*PLOS Biology*](https://doi.org/10.1371/journal.pbio.3003815) reframes age-associated dysbiosis. The immune system is an active ecological force shaping microbial community structure throughout adult life, and immunosenescence is a primary driver of late-life microbiome collapse. The aging gut does not simply accumulate the wrong microbes, it loses the capacity to keep the right ones in place.
+
+---
+
 ## Evolution shapes the pace of aging
 
 ![](files/pictures/AEGIS/aegis-ager.svg){width="40%" style="float:right; margin-left:2em; margin-bottom:1em;"}
