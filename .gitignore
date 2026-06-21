@@ -43,3 +43,6 @@ _output/
 .quarto/
 
 /.quarto/
+
+# macOS
+.DS_Store
