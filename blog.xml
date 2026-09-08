@@ -10,7 +10,65 @@
 <atom:link href="https://valenzano-lab.github.io/labsite/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Evolution and Ecology of Aging — FLI Jena</description>
 <generator>quarto-1.4.537</generator>
-<lastBuildDate>Fri, 20 Mar 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 27 May 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Why does the aging microbiome lose its balance?</title>
+  <dc:creator>Dario Valenzano</dc:creator>
+  <link>https://valenzano-lab.github.io/labsite/posts/2026-05-28-microbiome-immune-aging/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://valenzano-lab.github.io/labsite/posts/2026-05-28-microbiome-immune-aging/figure1.png" class="img-fluid figure-img"></p>
+<figcaption>Figure 1 from <a href="https://doi.org/10.1371/journal.pbio.3003815">Liu, Costa, and Valenzano, <em>PLOS Biology</em> 2026</a>. Immune surveillance sustains microbiome balance throughout adult life. As surveillance erodes during aging, opportunistic taxa expand and community structure deteriorates.</figcaption>
+</figure>
+</div>
+<p>The host-associated microbiome is compositionally stable across most of the life span, then deteriorates sharply in late life. This late-life collapse, often called dysbiosis, is associated with metabolic dysfunction, inflammation, and disease, but its underlying cause has been hard to pin down. The standard framing treats the microbiome as an autonomous ecosystem that drifts with time. We argue this framing is incomplete.</p>
+<p>In our <a href="https://doi.org/10.1371/journal.pbio.3003815">new Unsolved Mystery in <em>PLOS Biology</em></a>, Siqi Liu, Flávio Silva Costa, and I integrate evidence from immunology and ecosystem ecology to make a different case: the immune system is an active ecological force shaping microbial community structure throughout adult life, and immunosenescence is a primary driver of age-associated dysbiosis. The aging gut does not simply accumulate the wrong microbes. It loses the capacity to keep the right ones in place.</p>
+<p>This reframing has practical consequences. If microbial communities collapse because immune surveillance fails, then strategies that target community composition in isolation, such as probiotics, prebiotics, or fecal transplantation, will at best treat symptoms. Restoring or compensating for declining mucosal immune function should be part of any serious intervention against age-associated dysbiosis, alongside ecologically informed approaches to microbiome management.</p>
+<p>The paper is open access and free to read <a href="https://doi.org/10.1371/journal.pbio.3003815">here</a>.</p>
+
+
+
+ ]]></description>
+  <category>microbiome</category>
+  <category>immune-aging</category>
+  <category>review</category>
+  <guid>https://valenzano-lab.github.io/labsite/posts/2026-05-28-microbiome-immune-aging/</guid>
+  <pubDate>Wed, 27 May 2026 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Cover story in Nature Aging: immune aging in turquoise killifish</title>
+  <dc:creator>Dario Valenzano</dc:creator>
+  <link>https://valenzano-lab.github.io/labsite/posts/2026-03-26-nat-aging-cover/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://valenzano-lab.github.io/labsite/files/pictures/NatAging_cover_2026.webp" class="img-fluid figure-img"></p>
+<figcaption>March 2026 cover of <em>Nature Aging</em></figcaption>
+</figure>
+</div>
+<p>Our paper, “Spontaneous aging-associated inflammation and genome instability in the immune system of turquoise killifish,” is the cover article of the March 2026 issue of <em>Nature Aging</em>.</p>
+<p>The study, led by Gabriele Morabito together with Handan Melike Dönertas, Lorenzo Sperti, Joachim Seidel, Armin Poursadegh Zonouzi, and Miriam Poeschla, documents how the killifish immune system ages spontaneously and rapidly. Without any experimental intervention, old fish accumulate systemic inflammation, fibrosis in kidney marrow (the teleost equivalent of bone marrow), and DNA double-strand breaks in immune progenitor cells with reduced repair capacity. Functionally, immune cells from old fish respond significantly less to bacterial stimulation.</p>
+<p>The paper also introduces KIAMO, a public multi-omics database of killifish immune aging, and shows that senolytic treatment partially restores youthful immune responses in aged cells, implicating senescent cells as active drivers of immune decline.</p>
+<p>The full paper is open access: <a href="https://doi.org/10.1038/s43587-026-01086-2">Morabito et al., <em>Nat Aging</em> 6, 665–681 (2026)</a>.</p>
+
+
+
+ ]]></description>
+  <category>publication</category>
+  <category>immunology</category>
+  <category>killifish</category>
+  <guid>https://valenzano-lab.github.io/labsite/posts/2026-03-26-nat-aging-cover/</guid>
+  <pubDate>Wed, 25 Mar 2026 23:00:00 GMT</pubDate>
+</item>
 <item>
   <title>2026 Killifish expedition in the Gonarezhou National Park</title>
   <dc:creator>Dario Valenzano</dc:creator>

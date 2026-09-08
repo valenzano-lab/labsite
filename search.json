@@ -49,6 +49,13 @@
     "text": "Experience\nLeibniz Institute on Aging | Postdoc | September 2021 – Present\nUniversity of Padova | Postdoc | April 2016 – April 2021"
   },
   {
+    "objectID": "posts/2026-05-28-microbiome-immune-aging/index.html",
+    "href": "posts/2026-05-28-microbiome-immune-aging/index.html",
+    "title": "Why does the aging microbiome lose its balance?",
+    "section": "",
+    "text": "Figure 1 from Liu, Costa, and Valenzano, PLOS Biology 2026. Immune surveillance sustains microbiome balance throughout adult life. As surveillance erodes during aging, opportunistic taxa expand and community structure deteriorates.\n\n\nThe host-associated microbiome is compositionally stable across most of the life span, then deteriorates sharply in late life. This late-life collapse, often called dysbiosis, is associated with metabolic dysfunction, inflammation, and disease, but its underlying cause has been hard to pin down. The standard framing treats the microbiome as an autonomous ecosystem that drifts with time. We argue this framing is incomplete.\nIn our new Unsolved Mystery in PLOS Biology, Siqi Liu, Flávio Silva Costa, and I integrate evidence from immunology and ecosystem ecology to make a different case: the immune system is an active ecological force shaping microbial community structure throughout adult life, and immunosenescence is a primary driver of age-associated dysbiosis. The aging gut does not simply accumulate the wrong microbes. It loses the capacity to keep the right ones in place.\nThis reframing has practical consequences. If microbial communities collapse because immune surveillance fails, then strategies that target community composition in isolation, such as probiotics, prebiotics, or fecal transplantation, will at best treat symptoms. Restoring or compensating for declining mucosal immune function should be part of any serious intervention against age-associated dysbiosis, alongside ecologically informed approaches to microbiome management.\nThe paper is open access and free to read here."
+  },
+  {
     "objectID": "posts/2026-03-21-welcome/index.html",
     "href": "posts/2026-03-21-welcome/index.html",
     "title": "Launching the new lab site",
@@ -117,13 +124,6 @@
     "title": "People",
     "section": "Research Engineer",
     "text": "Research Engineer\n\n Farzana Shamim-Schulze isolates and cultures our killifish-derived microbial isolates. Farzana works on the puzzling role of phages in microbes isolated from young and old killifish."
-  },
-  {
-    "objectID": "people.html#lab-technicians",
-    "href": "people.html#lab-technicians",
-    "title": "People",
-    "section": "Lab Technicians",
-    "text": "Lab Technicians\n\n Ivonne Heinze is supporting projects revolving around genomics, molecular cloning, and general lab organization.\n\n\n Shaymaa Azawi is our killifish transgenic expert and helps generate killifish lines as pre-clinical models of neurodegenerative diseases, with a special focus on ALS."
   },
   {
     "objectID": "people.html#postdocs",
@@ -277,7 +277,7 @@
     "href": "blog.html",
     "title": "Lab Blog",
     "section": "",
-    "text": "2026 Killifish expedition in the Gonarezhou National Park\n\n\n\n\n\n\nfield-work\n\n\ngonarezhou\n\n\nkillifish\n\n\n\nA report from our latest field season in Zimbabwe: five years of longitudinal population sampling, independent field sequencing, and new conservation collaborations.\n\n\n\n\n\nMar 21, 2026\n\n\nDario Valenzano\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching the new lab site\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 21, 2026\n\n\nDario Valenzano\n\n\n\n\n\n\n\n\n\n\n\n\nAsking questions after a seminar — a practical guide\n\n\n\n\n\n\nscience culture\n\n\ntraining\n\n\n\n\n\n\n\n\n\nAug 23, 2023\n\n\nDario Valenzano\n\n\n\n\n\n\nNo matching items"
+    "text": "Why does the aging microbiome lose its balance?\n\n\n\n\n\n\nmicrobiome\n\n\nimmune-aging\n\n\nreview\n\n\n\nA new Unsolved Mystery in PLOS Biology asks why host-associated microbial communities, stable for most of life, collapse during aging. Our answer: the immune system stops doing the work of keeping the community in shape.\n\n\n\n\n\nMay 28, 2026\n\n\nDario Valenzano\n\n\n\n\n\n\n\n\n\n\n\n\nCover story in Nature Aging: immune aging in turquoise killifish\n\n\n\n\n\n\npublication\n\n\nimmunology\n\n\nkillifish\n\n\n\nOur study on spontaneous immune aging in turquoise killifish appears on the cover of Nature Aging.\n\n\n\n\n\nMar 26, 2026\n\n\nDario Valenzano\n\n\n\n\n\n\n\n\n\n\n\n\n2026 Killifish expedition in the Gonarezhou National Park\n\n\n\n\n\n\nfield-work\n\n\ngonarezhou\n\n\nkillifish\n\n\n\nA report from our latest field season in Zimbabwe: five years of longitudinal population sampling, independent field sequencing, and new conservation collaborations.\n\n\n\n\n\nMar 21, 2026\n\n\nDario Valenzano\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching the new lab site\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 21, 2026\n\n\nDario Valenzano\n\n\n\n\n\n\n\n\n\n\n\n\nAsking questions after a seminar — a practical guide\n\n\n\n\n\n\nscience culture\n\n\ntraining\n\n\n\n\n\n\n\n\n\nAug 23, 2023\n\n\nDario Valenzano\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "fcosta.html",
@@ -418,6 +418,13 @@
     "title": "2026 Killifish expedition in the Gonarezhou National Park",
     "section": "Molecular ecology in the field",
     "text": "Molecular ecology in the field\nMore than a decade of fieldwork in the Gonarezhou has demonstrated that molecular field ecology is practical, scalable, and valuable. eDNA sampling and on-site sequencing are no longer aspirational: they work, reliably, in a remote national park in southern Africa. The same approach that lets us track killifish populations can serve biodiversity biomonitoring, conservation genomics, and ecological questions across the park’s full species inventory. We intend to keep building on it."
+  },
+  {
+    "objectID": "posts/2026-03-26-nat-aging-cover/index.html",
+    "href": "posts/2026-03-26-nat-aging-cover/index.html",
+    "title": "Cover story in Nature Aging: immune aging in turquoise killifish",
+    "section": "",
+    "text": "March 2026 cover of Nature Aging\n\n\nOur paper, “Spontaneous aging-associated inflammation and genome instability in the immune system of turquoise killifish,” is the cover article of the March 2026 issue of Nature Aging.\nThe study, led by Gabriele Morabito together with Handan Melike Dönertas, Lorenzo Sperti, Joachim Seidel, Armin Poursadegh Zonouzi, and Miriam Poeschla, documents how the killifish immune system ages spontaneously and rapidly. Without any experimental intervention, old fish accumulate systemic inflammation, fibrosis in kidney marrow (the teleost equivalent of bone marrow), and DNA double-strand breaks in immune progenitor cells with reduced repair capacity. Functionally, immune cells from old fish respond significantly less to bacterial stimulation.\nThe paper also introduces KIAMO, a public multi-omics database of killifish immune aging, and shows that senolytic treatment partially restores youthful immune responses in aged cells, implicating senescent cells as active drivers of immune decline.\nThe full paper is open access: Morabito et al., Nat Aging 6, 665–681 (2026)."
   },
   {
     "objectID": "publications.html",
