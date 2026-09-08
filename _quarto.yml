@@ -5,7 +5,7 @@ project:
     - "*.qmd"
     - "posts/**/*.qmd"
   resources:
-    - "files/*.pdf"
+    - "files/**"
 
 website:
   title: "Valenzano Lab"
