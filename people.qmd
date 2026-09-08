@@ -25,18 +25,6 @@ We are a team of international scientists working to answer open questions in ev
 **Farzana Shamim-Schulze** isolates and cultures our killifish-derived microbial isolates. Farzana works on the puzzling role of phages in microbes isolated from young and old killifish.
 </figure>
 
-## Lab Technicians
-
-<figure class="person">
-<img src="files/pictures/people/IHeinze_s.jpg" alt="Ivonne Heinze" />
-**Ivonne Heinze** is supporting projects revolving around genomics, molecular cloning, and general lab organization.
-</figure>
-
-<figure class="person">
-<img src="files/pictures/people/SAzawi_s.jpg" alt="Shaymaa Azawi" />
-**Shaymaa Azawi** is our killifish transgenic expert and helps generate killifish lines as pre-clinical models of neurodegenerative diseases, with a special focus on ALS.
-</figure>
-
 ## Postdocs
 
 <figure class="person">
