@@ -15,8 +15,8 @@ about:
       text: GitHub
       href: https://github.com/dvalenzano
     - icon: file-pdf
-      text: CV (Jun 2026)
-      href: https://valenzano-lab.github.io/labsite/files/dario_CV_06-2026.pdf
+      text: CV (Sep 2026)
+      href: https://valenzano-lab.github.io/labsite/files/dario_CV_09-2026.pdf
     - icon: globe
       text: Lab Website
       href: https://valenzano-lab.github.io/labsite/
