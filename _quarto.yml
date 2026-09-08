@@ -6,6 +6,8 @@ project:
     - "posts/**/*.qmd"
   resources:
     - "files/**"
+    - "!files/pictures/fieldwork/extracted/**"
+    - "!files/pictures/fieldwork/slide.pptx"
 
 website:
   title: "Valenzano Lab"
